@@ -1,2 +1,2 @@
 # apt_mirror-list
-apt mirror list update by github actions
+apt mirror list auto update by github actions
