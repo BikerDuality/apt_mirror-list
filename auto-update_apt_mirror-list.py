@@ -23,8 +23,7 @@ while language_index<len(debain_parser.language_list):
     debain_parser.feed(debain_request.text)
     language_index+=1
 with open('debian/mirrors.txt','w') as debain_mirror_file:
-    for row in debain_parser.mirror_list:
-        debain_mirror_file.write(row+'\n')
+        debain_mirror_file.write('\n'.join(debain_parser.mirror_list))
 
 ubuntu_mirror_url='https://launchpad.net/ubuntu/+archivemirrors'
 class ubuntu_mirror_parser(HTMLParser):
@@ -46,5 +45,4 @@ ubuntu_request=requests.get(ubuntu_mirror_url)
 ubuntu_parser=ubuntu_mirror_parser()
 ubuntu_parser.feed(ubuntu_request.text)
 with open('ubuntu/mirrors.txt','w') as ubuntu_mirror_file:
-    for row in ubuntu_parser.mirror_list:
-        ubuntu_mirror_file.write(row+'\n')
+    ubuntu_mirror_file.write('\n'.join(ubuntu_parser.mirror_list))
