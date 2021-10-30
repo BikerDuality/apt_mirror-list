@@ -9,4 +9,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
-      - run: python auto-update_apt_mirror-list
+      - run: python auto-update_apt_mirror-list.py
+      - run: git add -A
+      - run: git commit -m "update mirror list"
+      - run: git push
