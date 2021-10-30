@@ -7,6 +7,7 @@
     "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance",
+        "cschleiden.vscode-github-actions",
     ],
     "initializeCommand":[
         "eval",
