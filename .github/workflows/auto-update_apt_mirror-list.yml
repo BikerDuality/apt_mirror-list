@@ -13,5 +13,5 @@ jobs:
       - run: git config --global user.email "22326595+BikerDuality@users.noreply.github.com"
       - run: git config --global user.name "BikerDuality"
       - run: git add -A
-      - run: git commit -m "update mirror list"
+      - run: git commit -m "$(date)"
       - run: git push
