@@ -22,7 +22,7 @@ class debain_mirror_parser(HTMLParser):
             if attrs[0][0]=='href' and attrs[0][1].startswith('list.') and attrs[0][1] not in self.language_list:
                 self.language_list.append(attrs[0][1])
             if attrs[0][0]=='rel' and attrs[0][1]=='nofollow':
-                self.mirror_info=attrs[1][1]
+                self.mirror_info=attrs[1][1][:-1]
                 self.lastlink=0
     # def handle_data(self, data: str):
     #     if self.lastlink>=0:
