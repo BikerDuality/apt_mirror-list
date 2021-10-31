@@ -358,8 +358,3 @@ http://us.mirror.nsec.pt/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arc
 http://debian.repo.cure.edu.uy/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel
 http://debian.xtdv.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
 http://mirror.bizflycloud.vn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.u-strasbg.fr/debian/	arch:amd64 arch:arm64 arch:i386 arch:mips64el arch:powerpc arch:ppc64el
-http://mirror.mia.velocihost.net/debian/	arch:amd64 arch:i386
-http://mirror.us.leaseweb.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.mythic-beasts.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.nforce.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x

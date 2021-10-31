@@ -1,5 +1,6 @@
 import requests
 from html.parser import HTMLParser
+import time
 
 debian_mirror_base_url='https://www.debian.org/mirror'
 class debain_mirror_parser(HTMLParser):
@@ -33,11 +34,11 @@ debain_request=requests.get(debian_mirror_base_url+'/list')
 debain_parser=debain_mirror_parser()
 debain_parser.feed(debain_request.text)
 language_index=0
-while language_index<len(debain_parser.language_list):
-    print('\rdebain',language_index+1,'/',len(debain_parser.language_list),list(debain_parser.language_list)[language_index],end='')
-    debain_request=requests.get(debian_mirror_base_url+'/'+list(debain_parser.language_list)[language_index])
-    debain_parser.feed(debain_request.text)
-    language_index+=1
+# while language_index<len(debain_parser.language_list):
+#     print('\rdebain',language_index+1,'/',len(debain_parser.language_list),list(debain_parser.language_list)[language_index],end='')
+#     debain_request=requests.get(debian_mirror_base_url+'/'+list(debain_parser.language_list)[language_index])
+#     debain_parser.feed(debain_request.text)
+#     language_index+=1
 with open('debian/mirrors.txt','w') as debain_mirror_file:
     print('\rdebain',len(debain_parser.language_list),'/',len(debain_parser.language_list),'done')
     debain_mirror_file.write('\n'.join(debain_parser.mirror_list))
@@ -105,16 +106,30 @@ class ubuntu_mirror_info_parser(HTMLParser):
         if tag=='tr':
             self.td_count=0
             self.architecture=''
+def mirror_find(mirror_file_list: list,mirror_url: str):
+    for info in mirror_file_list:
+        if mirror_url in info:
+            return info
+    return ''
 ubuntu_request=requests.get(ubuntu_mirror_base_url+'/ubuntu/+archivemirrors')
 ubuntu_list_parser=ubuntu_mirror_list_parser()
 ubuntu_list_parser.feed(ubuntu_request.text)
 ubuntu_mirror_list=[]
-for url in ubuntu_list_parser.mirror_list:
-    print('\rubuntu',len(ubuntu_mirror_list)+1,'/',len(ubuntu_list_parser.mirror_list),url,end='')
-    ubuntu_request=requests.get(ubuntu_mirror_base_url+url)
-    ubuntu_info_parser=ubuntu_mirror_info_parser()
-    ubuntu_info_parser.feed(ubuntu_request.text)
-    ubuntu_mirror_list.append(ubuntu_info_parser.href+ubuntu_info_parser.mirror_info[:-1])
+mirror_info=''
+ubuntu_refresh_all=time.localtime().tm_mday!=1
+with open('ubuntu/mirrors.txt','r') as ubuntu_mirror_file:
+    ubuntu_mirror_file_list=ubuntu_mirror_file.read().split('\n')
+    for url in ubuntu_list_parser.mirror_list:
+        print('\rubuntu',len(ubuntu_mirror_list)+1,'/',len(ubuntu_list_parser.mirror_list),url,end='')
+        if ubuntu_refresh_all:
+            mirror_info=mirror_find(ubuntu_mirror_file_list,url[16:-8])
+        if mirror_info:
+            ubuntu_mirror_list.append(mirror_info)
+        else:
+            ubuntu_request=requests.get(ubuntu_mirror_base_url+url)
+            ubuntu_info_parser=ubuntu_mirror_info_parser()
+            ubuntu_info_parser.feed(ubuntu_request.text)
+            ubuntu_mirror_list.append(ubuntu_info_parser.href+ubuntu_info_parser.mirror_info[:-1])
 with open('ubuntu/mirrors.txt','w') as ubuntu_mirror_file:
     print('\rubuntu',len(ubuntu_list_parser.mirror_list),'/',len(ubuntu_list_parser.mirror_list),'done')
     ubuntu_mirror_file.write('\n'.join(ubuntu_mirror_list))
