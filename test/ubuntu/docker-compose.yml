@@ -1,13 +1,11 @@
 version: "3"
 services:
-  python_docker:
-    container_name: python_docker
-    image: python_docker:latest
+  ubuntu_apt_test:
+    container_name: ubuntu_apt_test
+    image: ubuntu_apt_test:latest
     build:
       context: .
       dockerfile: Dockerfile
-    volumes:
-      - .:/workspace:cached
     cap_add:
       - SYS_PTRACE
     security_opt:

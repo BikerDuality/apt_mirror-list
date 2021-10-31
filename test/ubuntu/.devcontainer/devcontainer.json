@@ -1,13 +1,9 @@
 {
-    "name":"python_docker",
+    "name":"ubuntu_apt_test",
     "dockerComposeFile": ["../docker-compose.yml"],
-    "service":"python_docker",
-    "workspaceFolder": "/workspace",
+    "service":"ubuntu_apt_test",
+    "workspaceFolder": "/etc/apt/",
     "shutdownAction": "stopCompose",
-    "extensions": [
-        "ms-python.python",
-        "ms-python.vscode-pylance",
-    ],
     "initializeCommand":[
         "eval",
         "docker image prune -f;",
