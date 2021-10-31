@@ -1,6 +1,12 @@
 import requests
 from html.parser import HTMLParser
+import sys
 import time
+
+if len(sys.argv)>1:
+    show_log=sys.argv[1]!='--silent'
+else:
+    show_log=True
 
 debian_mirror_base_url='https://www.debian.org/mirror'
 class debain_mirror_parser(HTMLParser):
@@ -34,11 +40,12 @@ debain_request=requests.get(debian_mirror_base_url+'/list')
 debain_parser=debain_mirror_parser()
 debain_parser.feed(debain_request.text)
 language_index=0
-# while language_index<len(debain_parser.language_list):
-#     print('\rdebain',language_index+1,'/',len(debain_parser.language_list),list(debain_parser.language_list)[language_index],end='')
-#     debain_request=requests.get(debian_mirror_base_url+'/'+list(debain_parser.language_list)[language_index])
-#     debain_parser.feed(debain_request.text)
-#     language_index+=1
+while language_index<len(debain_parser.language_list):
+    if show_log:
+        print('\rdebain',language_index+1,'/',len(debain_parser.language_list),list(debain_parser.language_list)[language_index],end='')
+    debain_request=requests.get(debian_mirror_base_url+'/'+list(debain_parser.language_list)[language_index])
+    debain_parser.feed(debain_request.text)
+    language_index+=1
 with open('debian/mirrors.txt','w') as debain_mirror_file:
     print('\rdebain',len(debain_parser.language_list),'/',len(debain_parser.language_list),'done')
     debain_mirror_file.write('\n'.join(debain_parser.mirror_list))
@@ -120,7 +127,8 @@ ubuntu_refresh_all=time.localtime().tm_mday!=1
 with open('ubuntu/mirrors.txt','r') as ubuntu_mirror_file:
     ubuntu_mirror_file_list=ubuntu_mirror_file.read().split('\n')
     for url in ubuntu_list_parser.mirror_list:
-        print('\rubuntu',len(ubuntu_mirror_list)+1,'/',len(ubuntu_list_parser.mirror_list),url,end='')
+        if show_log:
+            print('\rubuntu',len(ubuntu_mirror_list)+1,'/',len(ubuntu_list_parser.mirror_list),url,end='')
         if ubuntu_refresh_all:
             mirror_info=mirror_find(ubuntu_mirror_file_list,url[16:-8])
         if mirror_info:
