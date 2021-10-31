@@ -70,7 +70,6 @@ class ubuntu_mirror_info_parser(HTMLParser):
         HTMLParser.__init__(self)
         self.tag=''
         self.href=''
-        self.value=''
         self.pre=0
         self.td_count=0
         self.architecture=''
@@ -83,22 +82,9 @@ class ubuntu_mirror_info_parser(HTMLParser):
         if tag=='a' and self.pre==1:
             if attrs[0][0]=='href':
                 self.href=attrs[0][1]
-        if tag=='option' and attrs[0][0]=='value':
-            self.value=attrs[0][1]
-        if tag=='option':
-            for attr in attrs:
-                if attr[0]=='value':
-                    self.value=attr[1]
         if tag=='td':
             self.td_count+=1
     def handle_data(self, data: str):
-        if self.pre and 'deb' in data:
-            if data.strip()=='deb':
-                self.mirror_info+='type:deb '
-            else:
-                self.mirror_info+='type:deb-src '
-        if self.tag=='option' and data.startswith(self.value[0].upper()+self.value[1:]):
-            self.mirror_info+='codename:'+self.value+' '
         if self.tag=='td':
             if data.strip()=='\n':
                 self.td_count-=1
