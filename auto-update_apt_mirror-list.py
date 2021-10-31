@@ -124,20 +124,24 @@ ubuntu_list_parser.feed(ubuntu_request.text)
 ubuntu_mirror_list=[]
 mirror_info=''
 ubuntu_refresh_all=time.localtime().tm_mday!=1
-with open('ubuntu/mirrors.txt','r') as ubuntu_mirror_file:
+try:
+    ubuntu_mirror_file=open('ubuntu/mirrors.txt','r')
     ubuntu_mirror_file_list=ubuntu_mirror_file.read().split('\n')
-    for url in ubuntu_list_parser.mirror_list:
-        if show_log:
-            print('\rubuntu',len(ubuntu_mirror_list)+1,'/',len(ubuntu_list_parser.mirror_list),url,end='')
-        if ubuntu_refresh_all:
-            mirror_info=mirror_find(ubuntu_mirror_file_list,url[16:-8])
-        if mirror_info:
-            ubuntu_mirror_list.append(mirror_info)
-        else:
-            ubuntu_request=requests.get(ubuntu_mirror_base_url+url)
-            ubuntu_info_parser=ubuntu_mirror_info_parser()
-            ubuntu_info_parser.feed(ubuntu_request.text)
-            ubuntu_mirror_list.append(ubuntu_info_parser.href+ubuntu_info_parser.mirror_info[:-1])
+    ubuntu_mirror_file.close()
+except:
+    ubuntu_mirror_file_list=[]
+for url in ubuntu_list_parser.mirror_list:
+    if show_log:
+        print('\rubuntu',len(ubuntu_mirror_list)+1,'/',len(ubuntu_list_parser.mirror_list),url,end='')
+    if ubuntu_refresh_all and ubuntu_mirror_file_list:
+        mirror_info=mirror_find(ubuntu_mirror_file_list,url[16:-8])
+    if mirror_info:
+        ubuntu_mirror_list.append(mirror_info)
+    else:
+        ubuntu_request=requests.get(ubuntu_mirror_base_url+url)
+        ubuntu_info_parser=ubuntu_mirror_info_parser()
+        ubuntu_info_parser.feed(ubuntu_request.text)
+        ubuntu_mirror_list.append(ubuntu_info_parser.href+ubuntu_info_parser.mirror_info[:-1])
 with open('ubuntu/mirrors.txt','w') as ubuntu_mirror_file:
     ubuntu_mirror_file.write('\n'.join(ubuntu_mirror_list))
 print('\rubuntu',len(ubuntu_list_parser.mirror_list),'/',len(ubuntu_list_parser.mirror_list),'done')
