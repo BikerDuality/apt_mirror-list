@@ -1,0 +1,15 @@
+version: "3"
+services:
+  python_docker:
+    container_name: python_docker
+    image: python_docker:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/workspace:cached
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined
+    command: /bin/sh -c "while sleep 1000; do :; done"

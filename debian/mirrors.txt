@@ -1,360 +1,364 @@
-http://ftp.am.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.au.debian.org/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://ftp.at.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.by.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.be.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.br.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x arch:sparc
-http://ftp.ca.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.cl.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.cn.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://ftp.hr.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.cz.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.dk.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://ftp.sv.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.ee.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.fi.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.fr.debian.org/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://ftp2.de.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.de.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://ftp.hk.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.hu.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://ftp.is.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.it.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.jp.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://ftp.kr.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.lt.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.md.debian.org/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://ftp.nc.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.nl.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.nz.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.no.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.pl.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.pt.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.ru.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.sk.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://ftp.si.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.es.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mipsel arch:powerpc
-http://ftp.se.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.ch.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.tw.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.tr.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.uk.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.us.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.unnoba.edu.ar/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc
-http://mirror.sitsa.com.ar/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.asnet.am/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.digitalpacific.com.au/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.serversaustralia.com.au/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://mirror.aarnet.edu.au/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://mirror.amaze.com.au/debian/	arch:amd64 arch:i386
-http://mirror.linux.org.au/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://mirror.overthewire.com.au/debian/	arch:amd64 arch:i386
-http://mirror.realcompute.io/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.anexia.at/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.lagis.at/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.mur.at/debian/	arch:amd64 arch:i386
-http://debian.sil.at/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.tu-graz.ac.at/mirror/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://mirror.alwyzon.net/debian/	arch:amd64 arch:i386
-http://ftp.byfly.by/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.datacenter.by/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.belnet.be/debian/	arch:amd64 arch:arm64 arch:i386 arch:mips64el arch:ppc64el
-http://mirror.as35701.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://alcateia.ufscar.br/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.c3sl.ufpr.br/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x arch:sparc
-http://debian.itsbrasil.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.pop-sc.rnp.br/debian/	arch:amd64 arch:i386
-http://mirror.uepg.br/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.unesp.br/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.ipacct.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mnet.bg/debian/	arch:amd64 arch:arm64 arch:i386 arch:mips64el
-http://debian.telecoms.bg/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://ftp.uni-sofia.bg/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.netix.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.telepoint.bg/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.sabay.com.kh/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.estruxture.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.globo.tech/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.mirror.iweb.ca/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.rafal.ca/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.csclub.uwaterloo.ca/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://mirror.estone.ca/debian/	arch:amd64
-http://mirror.it.ubc.ca/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.redlibre.cl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mipsel arch:powerpc arch:s390x
-http://mirror.insacom.cl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.ufro.cl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.bjtu.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.lzu.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.nju.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.163.com/debian/	arch:amd64 arch:arm64 arch:i386 arch:mips64el arch:ppc64el
-http://mirrors.bfsu.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.hit.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.huaweicloud.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.sjtu.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.tuna.tsinghua.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.ustc.edu.cn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debianmirror.una.ac.cr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.ucr.ac.cr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.carnet.hr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.iskon.hr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.web4u.cz/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.superhosting.cz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://ftp.cvut.cz/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips64el arch:ppc64el
-http://ftp.debian.cz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.sh.cvut.cz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.zcu.cz/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:mips64el
-http://merlin.fit.vutbr.cz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el
-http://mirror.dkm.cz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://mirror.it4i.cz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror-prg.webglobe.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.asergo.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.one.com/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://mirrors.dotsrc.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://mirrors.rackhosting.com/debian/	arch:amd64 arch:armhf arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:s390x
-http://debian.salud.gob.sv/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.eenet.ee/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.xtom.ee/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://www.nic.funet.fi/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.apt-mirror.de/debian/	arch:amd64 arch:armhf arch:i386
-http://debian.mirror.ate.info/	arch:amd64 arch:i386
-http://debian.obspm.fr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.polytech-lille.fr/debian/	arch:amd64 arch:arm64 arch:i386 arch:mips64el arch:powerpc arch:ppc64el arch:s390x
-http://debian.proxad.net/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://debian.univ-reims.fr/debian/	arch:amd64 arch:i386
-http://debian.univ-tlse2.fr/debian/	arch:amd64 arch:armel
-http://deb-mir1.naitways.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.ec-m.fr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.iut-bm.univ-fcomte.fr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://ftp.lip6.fr/pub/linux/distributions/debian/	arch:amd64 arch:armel arch:armhf arch:i386 arch:s390x
-http://ftp.rezopole.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.univ-pau.fr/linux/mirrors/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:mips64el arch:ppc64el
-http://ftp.u-picardie.fr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.u-strasbg.fr/debian/	arch:amd64 arch:i386 arch:powerpc
-http://mirror.plusserver.com/debian/debian/	arch:amd64 arch:armel arch:armhf arch:i386 arch:mips arch:mipsel arch:s390x
-http://debian.grena.ge/debian/	arch:amd64
-http://artfiles.org/debian/	arch:amd64 arch:i386
-http://debian.charite.de/debian/	arch:amd64 arch:i386
-http://debian.inf.tu-dresden.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://debian.intergenia.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://debian.mirror.iphh.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.lrz.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.netcologne.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.uni-duisburg-essen.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://de.mirrors.clouvider.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.fau.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.gwdg.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.halifax.rwth-aachen.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/	arch:amd64 arch:armhf arch:i386 arch:s390x
-http://ftp.plusline.net/debian/	arch:amd64 arch:i386
-http://ftp-stud.hs-esslingen.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://ftp.stw-bonn.de/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://ftp.tu-chemnitz.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.tu-clausthal.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.uni-bayreuth.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.uni-hannover.de/debian/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.uni-kl.de/debian/	arch:amd64 arch:i386
-http://ftp.uni-mainz.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.uni-stuttgart.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.wrz.de/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386
-http://mirror.23m.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.de.leaseweb.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.dogado.de/debian/	arch:amd64 arch:arm64 arch:i386
-http://mirror.eu.oneandone.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.k-cix.de/debian/	arch:amd64 arch:i386
-http://mirror.netzwerge.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el
-http://mirrors.xtom.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.united-gameserver.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.wtnet.de/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://packages.hs-regensburg.de/debian/	arch:amd64
-http://pubmirror.plutex.de/debian/	arch:amd64 arch:i386
-http://debian.otenet.gr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.xtom.com.hk/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://openbsd.hk/debian/	arch:amd64 arch:i386
-http://ftp.bme.hu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.fsn.hu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://repo.jztkft.hu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debianmirror.nkn.in/debian/	arch:amd64 arch:arm64 arch:armhf
-http://debmirror.hbcse.tifr.res.in/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.cse.iitk.ac.in/debian/	arch:amd64 arch:armel arch:armhf arch:i386 arch:kfreebsd-amd64 arch:kfreebsd-i386
-http://kartolo.sby.datautama.net.id/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://kebo.pens.ac.id/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:mips64el arch:powerpc arch:ppc64el arch:s390x
-http://mirror.poliwangi.ac.id/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386
-http://mirror.unair.ac.id/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.asis.ai/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.hostiran.ir/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.parspack.com/debian/	arch:amd64 arch:arm64 arch:armhf
-http://mirror.aminidc.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.isoc.org.il/pub/debian/	arch:amd64 arch:i386
-http://debian.connesi.it/debian/	arch:amd64 arch:i386
-http://debian.dynamica.it/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips64el arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.garr.it/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.linux.it/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://giano.com.dist.unige.it/debian/	arch:amd64 arch:armel arch:armhf arch:i386
-http://mirror.units.it/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian-mirror.sakura.ne.jp/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://dennou-k.gfd-dennou.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://dennou-q.gfd-dennou.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://ftp.jaist.ac.jp/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://ftp.nara.wide.ad.jp/debian/	arch:amd64 arch:armel arch:i386 arch:mips arch:mipsel
-http://ftp.riken.jp/Linux/debian/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.yz.yamagata-u.ac.jp/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://hanzubon.jp/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.hoster.kz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.ps.kz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.ac.ke/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://debian.mirror.liquidtelecom.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.kaist.ac.kr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.lanet.kr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.anigil.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.misakamikoto.network/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.koyanet.lv/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.linux.edu.lv/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.balt.net/debian/	arch:amd64
-http://debian.mirror.vu.lt/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.vpsnet.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.root.lu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.onevip.mk/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.as43289.net/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://mirrors.mivocloud.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mirror.cambrium.nl/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://debian.snt.utwente.nl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.debian.xs4all.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.dataone.nl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://mirror.duocast.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.erickochen.nl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.i3d.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.nl.datapacket.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.novg.net/debian/	arch:amd64
-http://mirror.seedvps.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.serverius.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.xtom.nl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.vpgrp.io/debian/	arch:amd64
-http://nl.mirrors.clouvider.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.nautile.nc/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.lagoon.nc/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.fsmg.org.nz/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.uio.no/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.rise.ph/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.inhost.pro/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.agh.edu.pl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.icm.edu.pl/pub/Linux/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.task.gda.pl/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.uevora.pt/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.eq.uc.pt/software/Linux/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/	arch:amd64 arch:arm64 arch:armhf
-http://mirrors.ptisp.pt/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.up.pt/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.mithril.re/debian/	arch:amd64
-http://depot-debian.univ-reunion.fr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.linux.ro/debian/	arch:amd64
-http://mirrors.hostico.ro/debian/	arch:amd64
-http://mirrors.nav.ro/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.nxthost.com/debian/	arch:amd64 arch:arm64 arch:i386 arch:mips64el arch:ppc64el
-http://mirrors.pidginhost.com/debian/	arch:amd64 arch:i386
-http://mirrors.xservers.ro/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:mips64el arch:powerpc arch:ppc64el arch:s390x
-http://ftp.psn.ru/debian/	arch:amd64 arch:armel arch:i386 arch:mips64el
-http://mirror.corbina.net/debian/	arch:amd64
-http://mirror.docker.ru/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.mephi.ru/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.powernet.com.ru/debian/	arch:amd64 arch:i386
-http://mirror.surf/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.truenetwork.ru/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.petarmaric.com/debian/	arch:amd64 arch:i386
-http://mirror.pmf.kg.ac.rs/debian/	arch:amd64 arch:armhf arch:i386 arch:kfreebsd-amd64
-http://mirror.0x.sg/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.djvg.sg/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.antik.sk/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.debian.sk/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.saix.net/	arch:amd64 arch:armel arch:armhf arch:i386 arch:mips arch:mipsel arch:s390x
-http://ftp.is.co.za/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://mirror.hostafrica.co.za/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.grn.cat/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:mips64el arch:ppc64el
-http://debian.redimadrid.es/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.redparra.com/debian/	arch:amd64 arch:i386 arch:mips64el
-http://debian.uvigo.es/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.caliu.cat/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.cica.es/debian/	arch:amd64 arch:i386 arch:powerpc
-http://ftp.udc.es/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.librelabucm.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips
-http://repo.ifca.es/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://softlibre.unizar.es/debian/	arch:amd64
-http://ulises.hostalia.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mipsel arch:powerpc
-http://debian.lth.se/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://debian.mirror.su.se/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.acc.umu.se/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftpmirror1.infania.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.linux.pizza/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.glesys.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.ethz.ch/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror1.infomaniak.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror2.infomaniak.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.init7.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.iway.ch/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.sinavps.ch/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://pkg.adfinis-sygroup.ch/debian/	arch:amd64
-http://debian.csie.ncku.edu.tw/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.csie.ntu.edu.tw/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.cs.nctu.edu.tw/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.ntou.edu.tw/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://opensource.nchc.org.tw/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://tw1.mirror.blendbyte.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.debianclub.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.applebred.net/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:mips64el
-http://mirror.kku.ac.th/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.gnu.gen.tr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.linux.org.tr/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.astra.in.ua/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.netforce.hosting/debian/	arch:amd64 arch:i386
-http://debian.volia.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.mirohost.net/debian/	arch:amd64 arch:i386
-http://debian.mirrors.uk2.net/debian/	arch:amd64 arch:arm64 arch:armhf arch:i386 arch:ia64 arch:mips64el arch:ppc64el
-http://debian.mirror.uk.sargasso.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://free.hands.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ftp.ticklers.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://mirror.bytemark.co.uk/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://mirror.cov.ukservers.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.lchost.net/debian/	arch:amd64
-http://mirror.ox.ac.uk/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:ppc64el arch:s390x
-http://mirror.positive-internet.com/debian/	arch:amd64 arch:armhf arch:i386 arch:s390x
-http://mirrors.coreix.net/debian/	arch:amd64
-http://mirrorservice.org/sites/ftp.debian.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.m247.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://mirror.sov.uk.goscomb.net/debian/	arch:amd64 arch:armhf arch:i386 arch:s390x
-http://mirror.vorboss.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://ukdebian.mirror.anlx.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://uk.mirrors.clouvider.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://atl.mirrors.clouvider.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian-archive.trafficmanager.net/debian/	arch:amd64 arch:i386
-http://debian.cc.lehigh.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.csail.mit.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.cs.binghamton.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.ec.as6453.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.gtisc.gatech.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:ppc64el arch:s390 arch:s390x
-http://debian.mirror.constant.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.osuosl.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.uchicago.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://la.mirrors.clouvider.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.cogentco.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.keystealth.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.pit.teraswitch.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.accretive-networks.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.advancedhosters.com/debian/	arch:amd64 arch:armel arch:armhf arch:hurd-i386 arch:i386 arch:ia64 arch:kfreebsd-amd64 arch:kfreebsd-i386 arch:mips arch:mipsel arch:powerpc arch:s390 arch:s390x
-http://mirrors.bloomu.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.edge.kernel.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.gigenet.com/debian/	arch:amd64 arch:armhf arch:i386
-http://mirror.siena.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.lug.mtu.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.namecheap.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.syringanetworks.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.steadfast.net/debian/	arch:amd64 arch:armhf arch:i386 arch:s390x
-http://mirrors.wikimedia.org/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirrors.xtom.com/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.us.oneandone.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://nyc.mirrors.clouvider.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://plug-mirror.rcac.purdue.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://repo.ialab.dsu.edu/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://us.mirror.nsec.pt/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://debian.repo.cure.edu.uy/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel
-http://debian.xtdv.net/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
-http://mirror.bizflycloud.vn/debian/	arch:amd64 arch:arm64 arch:armel arch:armhf arch:i386 arch:mips arch:mips64el arch:mipsel arch:powerpc arch:ppc64el arch:s390x
+http://ftp.am.debian.org/debian/
+http://ftp.au.debian.org/debian/
+http://ftp.at.debian.org/debian/
+http://ftp.by.debian.org/debian/
+http://ftp.be.debian.org/debian/
+http://ftp.br.debian.org/debian/
+http://ftp.ca.debian.org/debian/
+http://ftp.cl.debian.org/debian/
+http://ftp.cn.debian.org/debian/
+http://ftp.hr.debian.org/debian/
+http://ftp.cz.debian.org/debian/
+http://ftp.dk.debian.org/debian/
+http://ftp.sv.debian.org/debian/
+http://ftp.ee.debian.org/debian/
+http://ftp.fi.debian.org/debian/
+http://ftp.fr.debian.org/debian/
+http://ftp2.de.debian.org/debian/
+http://ftp.de.debian.org/debian/
+http://ftp.hk.debian.org/debian/
+http://ftp.hu.debian.org/debian/
+http://ftp.is.debian.org/debian/
+http://ftp.it.debian.org/debian/
+http://ftp.jp.debian.org/debian/
+http://ftp.kr.debian.org/debian/
+http://ftp.lt.debian.org/debian/
+http://ftp.md.debian.org/debian/
+http://ftp.nc.debian.org/debian/
+http://ftp.nl.debian.org/debian/
+http://ftp.nz.debian.org/debian/
+http://ftp.no.debian.org/debian/
+http://ftp.pl.debian.org/debian/
+http://ftp.pt.debian.org/debian/
+http://ftp.ru.debian.org/debian/
+http://ftp.sk.debian.org/debian/
+http://ftp.si.debian.org/debian/
+http://ftp.es.debian.org/debian/
+http://ftp.se.debian.org/debian/
+http://ftp.ch.debian.org/debian/
+http://ftp.tw.debian.org/debian/
+http://ftp.tr.debian.org/debian/
+http://ftp.uk.debian.org/debian/
+http://ftp.us.debian.org/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
+http://mirrors.asnet.am/debian/
+http://debian.mirror.digitalpacific.com.au/debian/
+http://debian.mirror.serversaustralia.com.au/debian/
+http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
+http://mirror.linux.org.au/debian/
+http://mirror.overthewire.com.au/debian/
+http://mirror.realcompute.io/debian/
+http://debian.anexia.at/debian/
+http://debian.lagis.at/debian/
+http://debian.mur.at/debian/
+http://debian.sil.at/debian/
+http://ftp.tu-graz.ac.at/mirror/debian/
+http://mirror.alwyzon.net/debian/
+http://ftp.byfly.by/debian/
+http://mirror.datacenter.by/debian/
+http://ftp.belnet.be/debian/
+http://mirror.as35701.net/debian/
+http://alcateia.ufscar.br/debian/
+http://debian.c3sl.ufpr.br/debian/
+http://debian.itsbrasil.net/debian/
+http://debian.pop-sc.rnp.br/debian/
+http://mirror.uepg.br/debian/
+http://mirror.unesp.br/debian/
+http://debian.ipacct.com/debian/
+http://debian.mnet.bg/debian/
+http://debian.telecoms.bg/debian/
+http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
+http://mirror.telepoint.bg/debian/
+http://mirror.sabay.com.kh/debian/
+http://debian.mirror.estruxture.net/debian/
+http://debian.mirror.globo.tech/debian/
+http://debian.mirror.iweb.ca/debian/
+http://debian.mirror.rafal.ca/debian/
+http://mirror.csclub.uwaterloo.ca/debian/
+http://mirror.estone.ca/debian/
+http://mirror.it.ubc.ca/debian/
+http://debian.redlibre.cl/debian/
+http://mirror.insacom.cl/debian/
+http://mirror.ufro.cl/debian/
+http://mirror.bjtu.edu.cn/debian/
+http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
+http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
+http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirror.sjtu.edu.cn/debian/
+http://mirrors.tuna.tsinghua.edu.cn/debian/
+http://mirrors.ustc.edu.cn/debian/
+http://debianmirror.una.ac.cr/debian/
+http://mirrors.ucr.ac.cr/debian/
+http://debian.carnet.hr/debian/
+http://debian.iskon.hr/debian/
+http://debian.mirror.web4u.cz/
+http://debian.superhosting.cz/debian/
+http://ftp.cvut.cz/debian/
+http://ftp.debian.cz/debian/
+http://ftp.sh.cvut.cz/debian/
+http://ftp.zcu.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
+http://mirror.dkm.cz/debian/
+http://mirror.it4i.cz/debian/
+http://mirror-prg.webglobe.com/debian/
+http://mirror.asergo.com/debian/
+http://mirror.one.com/debian/
+http://mirrors.dotsrc.org/debian/
+http://mirrors.rackhosting.com/debian/
+http://debian.salud.gob.sv/debian/
+http://ftp.eenet.ee/debian/
+http://mirrors.xtom.ee/debian/
+http://www.nic.funet.fi/debian/
+http://debian.apt-mirror.de/debian/
+http://debian.mirror.ate.info/
+http://debian.obspm.fr/debian/
+http://debian.polytech-lille.fr/debian/
+http://debian.proxad.net/debian/
+http://debian.univ-reims.fr/debian/
+http://debian.univ-tlse2.fr/debian/
+http://deb-mir1.naitways.net/debian/
+http://ftp.ec-m.fr/debian/
+http://ftp.iut-bm.univ-fcomte.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
+http://ftp.univ-pau.fr/linux/mirrors/debian/
+http://ftp.u-picardie.fr/debian/
+http://ftp.u-strasbg.fr/debian/
+http://mirror.plusserver.com/debian/debian/
+http://debian.grena.ge/debian/
+http://artfiles.org/debian/
+http://debian.charite.de/debian/
+http://debian.inf.tu-dresden.de/debian/
+http://debian.intergenia.de/debian/
+http://debian.mirror.iphh.net/debian/
+http://debian.mirror.lrz.de/debian/
+http://debian.netcologne.de/debian/
+http://debian.uni-duisburg-essen.de/debian/
+http://de.mirrors.clouvider.net/debian/
+http://ftp.fau.de/debian/
+http://ftp.gwdg.de/debian/
+http://ftp.halifax.rwth-aachen.de/debian/
+http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
+http://ftp.mpi-sb.mpg.de/pub/linux/debian/
+http://ftp.plusline.net/debian/
+http://ftp-stud.hs-esslingen.de/debian/
+http://ftp.stw-bonn.de/debian/
+http://ftp.tu-chemnitz.de/debian/
+http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
+http://ftp.uni-kl.de/debian/
+http://ftp.uni-mainz.de/debian/
+http://ftp.uni-stuttgart.de/debian/
+http://ftp.wrz.de/debian/
+http://mirror.23m.com/debian/
+http://mirror.de.leaseweb.net/debian/
+http://mirror.dogado.de/debian/
+http://mirror.eu.oneandone.net/debian/
+http://mirror.k-cix.de/debian/
+http://mirror.netzwerge.de/debian/
+http://mirrors.xtom.de/debian/
+http://mirror.united-gameserver.de/debian/
+http://mirror.wtnet.de/debian/
+http://packages.hs-regensburg.de/debian/
+http://pubmirror.plutex.de/debian/
+http://debian.otenet.gr/debian/
+http://mirror.xtom.com.hk/debian/
+http://openbsd.hk/debian/
+http://ftp.bme.hu/debian/
+http://ftp.fsn.hu/debian/
+http://repo.jztkft.hu/debian/
+http://debianmirror.nkn.in/debian/
+http://debmirror.hbcse.tifr.res.in/debian/
+http://mirror.cse.iitk.ac.in/debian/
+http://kartolo.sby.datautama.net.id/debian/
+http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
+http://mirror.unair.ac.id/debian/
+http://debian.asis.ai/debian/
+http://debian.hostiran.ir/debian/
+http://debian.parspack.com/debian/
+http://mirror.aminidc.com/debian/
+http://mirror.isoc.org.il/pub/debian/
+http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
+http://debian.mirror.garr.it/debian/
+http://ftp.linux.it/debian/
+http://giano.com.dist.unige.it/debian/
+http://mirror.units.it/debian/
+http://debian-mirror.sakura.ne.jp/debian/
+http://dennou-k.gfd-dennou.org/debian/
+http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
+http://ftp.nara.wide.ad.jp/debian/
+http://ftp.riken.jp/Linux/debian/debian/
+http://ftp.yz.yamagata-u.ac.jp/debian/
+http://hanzubon.jp/debian/
+http://mirror.hoster.kz/debian/
+http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
+http://debian.mirror.liquidtelecom.com/debian/
+http://ftp.kaist.ac.kr/debian/
+http://ftp.lanet.kr/debian/
+http://mirror.anigil.com/debian/
+http://mirror.misakamikoto.network/debian/
+http://debian.koyanet.lv/debian/
+http://debian.linux.edu.lv/debian/
+http://debian.balt.net/debian/
+http://debian.mirror.vu.lt/debian/
+http://mirror.vpsnet.com/debian/
+http://debian.mirror.root.lu/debian/
+http://mirror.onevip.mk/debian/
+http://mirror.as43289.net/debian/
+http://mirrors.mivocloud.com/debian/
+http://debian.mirror.cambrium.nl/debian/
+http://debian.snt.utwente.nl/debian/
+http://ftp.debian.xs4all.net/debian/
+http://mirror.dataone.nl/debian/
+http://mirror.duocast.net/debian/
+http://mirror.erickochen.nl/debian/
+http://mirror.i3d.net/debian/
+http://mirror.nl.datapacket.com/debian/
+http://mirror.novg.net/debian/
+http://mirror.seedvps.com/debian/
+http://mirror.serverius.net/debian/
+http://mirrors.xtom.nl/debian/
+http://mirror.vpgrp.io/debian/
+http://nl.mirrors.clouvider.net/debian/
+http://debian.nautile.nc/debian/
+http://mirror.lagoon.nc/debian/
+http://mirror.fsmg.org.nz/debian/
+http://ftp.uio.no/debian/
+http://mirror.rise.ph/debian/
+http://debian.inhost.pro/debian/
+http://ftp.agh.edu.pl/debian/
+http://ftp.icm.edu.pl/pub/Linux/debian/
+http://ftp.task.gda.pl/debian/
+http://debian.uevora.pt/debian/
+http://ftp.eq.uc.pt/software/Linux/debian/
+http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
+http://mirrors.ptisp.pt/debian/
+http://mirrors.up.pt/debian/
+http://debian.mithril.re/debian/
+http://depot-debian.univ-reunion.fr/debian/
+http://mirror.linux.ro/debian/
+http://mirrors.hostico.ro/debian/
+http://mirrors.nav.ro/debian/
+http://mirrors.nxthost.com/debian/
+http://mirrors.pidginhost.com/debian/
+http://mirrors.xservers.ro/debian/
+http://ftp.psn.ru/debian/
+http://mirror.corbina.net/debian/
+http://mirror.docker.ru/debian/
+http://mirror.mephi.ru/debian/
+http://mirrors.powernet.com.ru/debian/
+http://mirror.surf/debian/
+http://mirror.truenetwork.ru/debian/
+http://debian.petarmaric.com/debian/
+http://mirror.pmf.kg.ac.rs/debian/
+http://mirror.0x.sg/debian/
+http://mirror.djvg.sg/debian/
+http://ftp.antik.sk/debian/
+http://ftp.debian.sk/debian/
+http://debian.saix.net/
+http://ftp.is.co.za/debian/
+http://mirror.hostafrica.co.za/debian/
+http://debian.grn.cat/debian/
+http://debian.redimadrid.es/debian/
+http://debian.redparra.com/debian/
+http://debian.uvigo.es/debian/
+http://ftp.caliu.cat/debian/
+http://ftp.cica.es/debian/
+http://ftp.udc.es/debian/
+http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
+http://softlibre.unizar.es/debian/
+http://ulises.hostalia.com/debian/
+http://debian.lth.se/debian/
+http://debian.mirror.su.se/debian/
+http://ftp.acc.umu.se/debian/
+http://ftpmirror1.infania.net/debian/
+http://mirror.linux.pizza/debian/
+http://mirrors.glesys.net/debian/
+http://debian.ethz.ch/debian/
+http://mirror1.infomaniak.com/debian/
+http://mirror2.infomaniak.com/debian/
+http://mirror.init7.net/debian/
+http://mirror.iway.ch/debian/
+http://mirror.sinavps.ch/debian/
+http://pkg.adfinis-sygroup.ch/debian/
+http://debian.csie.ncku.edu.tw/debian/
+http://debian.csie.ntu.edu.tw/debian/
+http://debian.cs.nctu.edu.tw/debian/
+http://ftp.ntou.edu.tw/debian/
+http://opensource.nchc.org.tw/debian/
+http://tw1.mirror.blendbyte.net/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
+http://debian.gnu.gen.tr/debian/
+http://ftp.linux.org.tr/debian/
+http://debian.astra.in.ua/debian/
+http://debian.netforce.hosting/debian/
+http://debian.volia.net/debian/
+http://mirror.mirohost.net/debian/
+http://debian.mirrors.uk2.net/debian/
+http://debian.mirror.uk.sargasso.net/debian/
+http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
+http://mirror.bytemark.co.uk/debian/
+http://mirror.cov.ukservers.com/debian/
+http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
+http://mirror.positive-internet.com/debian/
+http://mirrors.coreix.net/debian/
+http://mirrorservice.org/sites/ftp.debian.org/debian/
+http://mirrors.m247.com/debian/
+http://mirror.sov.uk.goscomb.net/debian/
+http://mirror.vorboss.net/debian/
+http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
+http://atl.mirrors.clouvider.net/debian/
+http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
+http://debian.csail.mit.edu/debian/
+http://debian.cs.binghamton.edu/debian/
+http://debian.ec.as6453.net/debian/
+http://debian.gtisc.gatech.edu/debian/
+http://debian.mirror.constant.com/debian/
+http://debian.osuosl.org/debian/
+http://debian.uchicago.edu/debian/
+http://la.mirrors.clouvider.net/debian/
+http://mirror.cogentco.com/debian/
+http://mirror.keystealth.org/debian/
+http://mirror.pit.teraswitch.com/debian/
+http://mirrors.accretive-networks.net/debian/
+http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
+http://mirrors.edge.kernel.org/debian/
+http://mirrors.gigenet.com/debian/
+http://mirror.siena.edu/debian/
+http://mirrors.lug.mtu.edu/debian/
+http://mirrors.namecheap.com/debian/
+http://mirrors.syringanetworks.net/debian/
+http://mirror.steadfast.net/debian/
+http://mirrors.wikimedia.org/debian/
+http://mirrors.xtom.com/debian/
+http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
+http://plug-mirror.rcac.purdue.edu/debian/
+http://repo.ialab.dsu.edu/debian/
+http://us.mirror.nsec.pt/debian/
+http://debian.repo.cure.edu.uy/debian/
+http://debian.xtdv.net/debian/
+http://mirror.bizflycloud.vn/debian/
+http://mirror.mia.velocihost.net/debian/
+http://mirror.us.leaseweb.net/debian/
+http://mirror.mythic-beasts.com/debian/
+http://mirror.nforce.com/debian/

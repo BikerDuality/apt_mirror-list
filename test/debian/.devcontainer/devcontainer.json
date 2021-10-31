@@ -1,0 +1,11 @@
+{
+    "name":"debain_apt_test",
+    "dockerComposeFile": ["../docker-compose.yml"],
+    "service":"debain_apt_test",
+    "workspaceFolder": "/etc/apt/",
+    "shutdownAction": "stopCompose",
+    "initializeCommand":[
+        "eval",
+        "docker image prune -f;",
+    ],
+}

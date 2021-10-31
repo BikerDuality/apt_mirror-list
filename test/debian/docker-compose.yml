@@ -1,0 +1,13 @@
+version: "3"
+services:
+  debain_apt_test:
+    container_name: debain_apt_test
+    image: debain_apt_test:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined
+    command: /bin/sh -c "while sleep 1000; do :; done"

@@ -24,11 +24,11 @@ class debain_mirror_parser(HTMLParser):
             if attrs[0][0]=='rel' and attrs[0][1]=='nofollow':
                 self.mirror_info=attrs[1][1]
                 self.lastlink=0
-    def handle_data(self, data: str):
-        if self.lastlink>=0:
-            if self.lastlink==2:
-                self.mirror_info+='\tarch:'+' arch:'.join(data.split(' '))
-            self.lastlink+=1
+    # def handle_data(self, data: str):
+    #     if self.lastlink>=0:
+    #         if self.lastlink==2:
+    #             self.mirror_info+='\tarch:'+' arch:'.join(data.split(' '))
+    #         self.lastlink+=1
     def handle_endtag(self, tag: str):
         if tag=='tr':
             self.lastlink=-1
@@ -47,8 +47,8 @@ while language_index<len(debain_parser.language_list):
     debain_parser.feed(debain_request.text)
     language_index+=1
 with open('debian/mirrors.txt','w') as debain_mirror_file:
-    print('\rdebain',len(debain_parser.language_list),'/',len(debain_parser.language_list),'done')
     debain_mirror_file.write('\n'.join(debain_parser.mirror_list))
+print('\rdebain',len(debain_parser.language_list),'/',len(debain_parser.language_list),'done')
 
 ubuntu_mirror_base_url='https://launchpad.net'
 class ubuntu_mirror_list_parser(HTMLParser):
@@ -139,5 +139,5 @@ with open('ubuntu/mirrors.txt','r') as ubuntu_mirror_file:
             ubuntu_info_parser.feed(ubuntu_request.text)
             ubuntu_mirror_list.append(ubuntu_info_parser.href+ubuntu_info_parser.mirror_info[:-1])
 with open('ubuntu/mirrors.txt','w') as ubuntu_mirror_file:
-    print('\rubuntu',len(ubuntu_list_parser.mirror_list),'/',len(ubuntu_list_parser.mirror_list),'done')
     ubuntu_mirror_file.write('\n'.join(ubuntu_mirror_list))
+print('\rubuntu',len(ubuntu_list_parser.mirror_list),'/',len(ubuntu_list_parser.mirror_list),'done')
