@@ -40,14 +40,14 @@ debain_request=requests.get(debian_mirror_base_url+'/list')
 debain_parser=debain_mirror_parser()
 debain_parser.feed(debain_request.text)
 language_index=0
-while language_index<len(debain_parser.language_list):
-    if show_log:
-        print('\rdebain',language_index+1,'/',len(debain_parser.language_list),list(debain_parser.language_list)[language_index],end='')
-    debain_request=requests.get(debian_mirror_base_url+'/'+list(debain_parser.language_list)[language_index])
-    debain_parser.feed(debain_request.text)
-    language_index+=1
-with open('debian/mirrors.txt','w') as debain_mirror_file:
-    debain_mirror_file.write('\n'.join(debain_parser.mirror_list))
+# while language_index<len(debain_parser.language_list):
+#     if show_log:
+#         print('\rdebain',language_index+1,'/',len(debain_parser.language_list),list(debain_parser.language_list)[language_index],end='')
+#     debain_request=requests.get(debian_mirror_base_url+'/'+list(debain_parser.language_list)[language_index])
+#     debain_parser.feed(debain_request.text)
+#     language_index+=1
+# with open('debian/mirrors.txt','w') as debain_mirror_file:
+#     debain_mirror_file.write('\n'.join(debain_parser.mirror_list))
 print('\rdebain',len(debain_parser.language_list),'/',len(debain_parser.language_list),'done')
 
 ubuntu_mirror_base_url='https://launchpad.net'
@@ -116,11 +116,11 @@ try:
     ubuntu_mirror_file.close()
 except:
     ubuntu_mirror_file_list=[]
-for url in ubuntu_list_parser.mirror_list:
+for url in ubuntu_list_parser.mirror_list[:10]:
     if show_log:
         print('\rubuntu',len(ubuntu_mirror_list)+1,'/',len(ubuntu_list_parser.mirror_list),url,end='')
     if ubuntu_refresh_all and ubuntu_mirror_file_list:
-        mirror_info=mirror_find(ubuntu_mirror_file_list,url[16:-8])
+        mirror_info=mirror_find(ubuntu_mirror_file_list,url[16:-8])                                     
     if mirror_info:
         ubuntu_mirror_list.append(mirror_info)
     else:
