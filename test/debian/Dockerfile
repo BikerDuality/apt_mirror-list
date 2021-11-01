@@ -1,6 +1,6 @@
 FROM debian
 RUN apt update
-RUN apt-get install --reinstall ca-certificates -y
+RUN apt install --reinstall ca-certificates -y
 RUN sed -i "s/http:\/\/deb.debian.org\/debian/mirror+https:\/\/raw.githubusercontent.com\/BikerDuality\/apt_mirror-list\/main\/debian\/mirrors.txt/g" /etc/apt/sources.list
 RUN apt update
 RUN apt install locales manpages-zh -y

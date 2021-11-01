@@ -14,27 +14,13 @@ class debain_mirror_parser(HTMLParser):
         HTMLParser.__init__(self)
         self.mirror_list=[]
         self.language_list=[]
-        self.lastlink=-1
-        self.mirror_info=''
     def handle_starttag(self, tag, attrs):
         self.tag=tag
         if tag=='a':
             if attrs[0][0]=='href' and attrs[0][1].startswith('list.') and attrs[0][1] not in self.language_list:
                 self.language_list.append(attrs[0][1])
             if attrs[0][0]=='rel' and attrs[0][1]=='nofollow':
-                self.mirror_info=attrs[1][1]
-                self.lastlink=0
-    def handle_data(self, data: str):
-        if self.lastlink>=0:
-            if self.lastlink==2:
-                self.mirror_info+='\tarch:'+' arch:'.join(data.split(' '))
-            self.lastlink+=1
-    def handle_endtag(self, tag: str):
-        if tag=='tr':
-            self.lastlink=-1
-            if self.mirror_info and self.mirror_info not in self.mirror_list:
-                self.mirror_list.append(self.mirror_info)
-            self.mirror_info=''
+                self.mirror_list.append(attrs[1][1])
 
 debain_request=requests.get(debian_mirror_base_url+'/list')
 debain_parser=debain_mirror_parser()
