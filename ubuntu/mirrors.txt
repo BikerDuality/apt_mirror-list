@@ -188,7 +188,6 @@ https://mirror.xtom.com.hk/ubuntu/	arch:i386 arch:amd64
 http://ftp.cuhk.edu.hk/pub/Linux/ubuntu/	arch:i386 arch:amd64
 http://hk.mirrors.thegigabit.com/ubuntu/	arch:i386 arch:amd64
 http://mirror-hk.koddos.net/ubuntu/	arch:i386 arch:amd64
-https://ubuntu.01link.hk/ubuntu/	arch:i386 arch:amd64
 http://mirror.as.kamatera.com/ubuntu/	arch:i386 arch:amd64
 http://www.ubuntu.org.tw/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://repo.jztkft.hu/ubuntu/	arch:i386 arch:amd64
@@ -334,6 +333,7 @@ http://mirror.pregi.net/ubuntu/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:
 http://mirror.rise.ph/ubuntu/	arch:i386 arch:amd64
 http://ftp.icm.edu.pl/pub/Linux/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.task.gda.pl/ubuntu/	arch:i386 arch:amd64
+https://ftp.ps.pl/pub/Linux/ubuntu/archive/	arch:amd64 arch:i386
 http://ftp.agh.edu.pl/ubuntu/	arch:i386 arch:amd64
 http://mirror.chmuri.net/ubuntu/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://ubuntu.man.lodz.pl/ubuntu/	arch:i386 arch:amd64
