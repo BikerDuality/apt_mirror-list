@@ -28,7 +28,6 @@ http://ftp.si.debian.org/debian/
 http://ftp.es.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.au.debian.org/debian/
@@ -139,9 +138,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
@@ -191,7 +188,6 @@ http://ftp.uk.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
@@ -306,9 +302,7 @@ http://ftp.si.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
@@ -358,7 +352,6 @@ http://ftp.si.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://ftp.cz.debian.org/debian/
@@ -486,9 +479,7 @@ http://mirror.us.oneandone.net/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.at.debian.org/debian/
 http://ftp.au.debian.org/debian/
@@ -518,7 +509,6 @@ http://ftp.uk.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.cz.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://ftp.hu.debian.org/debian/
@@ -627,9 +617,7 @@ http://debian.mirror.web4u.cz/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
 http://mirror.dkm.cz/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://debian.inf.tu-dresden.de/debian/
@@ -680,7 +668,6 @@ http://ftp.ch.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.es.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.hu.debian.org/debian/
@@ -782,9 +769,7 @@ http://ftp.es.debian.org/debian/
 http://ftp.cica.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
@@ -819,7 +804,6 @@ http://ftp.by.debian.org/debian/
 http://ftp.byfly.by/debian/
 http://mirror.datacenter.by/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://ftp.si.debian.org/debian/
@@ -854,9 +838,7 @@ http://ftp.by.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://ftp.debian.cz/debian/
@@ -1014,7 +996,6 @@ http://ftp.sk.debian.org/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://debian.inf.tu-dresden.de/debian/
@@ -1142,9 +1123,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
@@ -1178,7 +1157,6 @@ http://ftp.si.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.is.co.za/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
@@ -1306,9 +1284,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
@@ -1341,7 +1317,6 @@ http://ftp.cz.debian.org/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.jp.debian.org/debian/
 http://ftp.is.co.za/debian/
 http://ftp2.de.debian.org/debian/
@@ -1462,9 +1437,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -1506,7 +1479,6 @@ http://ftp.sk.debian.org/debian/
 http://ftp.es.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.is.co.za/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
@@ -1634,9 +1606,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.au.debian.org/debian/
 http://ftp.at.debian.org/debian/
@@ -1669,7 +1639,6 @@ http://ftp.es.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
@@ -1796,9 +1765,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.fsn.hu/debian/
@@ -1816,7 +1783,6 @@ http://ftp.sk.debian.org/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.hk.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.nz.debian.org/debian/
@@ -1882,9 +1848,7 @@ http://mirror.xtom.com.hk/debian/
 http://ftp.is.co.za/debian/
 http://mirrors.nxthost.com/debian/
 http://debian.volia.net/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.hostiran.ir/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.linux.it/debian/
@@ -1994,7 +1958,6 @@ http://ftp.si.debian.org/debian/
 http://ftp.es.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.cz.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.by.debian.org/debian/
@@ -2096,9 +2059,7 @@ http://debian.mirror.web4u.cz/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
 http://mirror.dkm.cz/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
@@ -2151,7 +2112,6 @@ http://ftp.ru.debian.org/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.dk.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.nz.debian.org/debian/
@@ -2253,9 +2213,7 @@ http://mirror.dkm.cz/debian/
 http://ftp.dk.debian.org/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://debian.inf.tu-dresden.de/debian/
@@ -2323,7 +2281,6 @@ http://ftp.si.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.uk.debian.org/debian/
@@ -2441,9 +2398,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.fsn.hu/debian/
@@ -2490,7 +2445,6 @@ http://ftp.uk.debian.org/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.is.co.za/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
@@ -2618,13 +2572,10 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.fr.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.hr.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.au.debian.org/debian/
@@ -2662,9 +2613,7 @@ http://deb-mir1.naitways.net/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
@@ -2818,7 +2767,6 @@ http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.it.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://ftp.cz.debian.org/debian/
@@ -2946,9 +2894,7 @@ http://opensource.nchc.org.tw/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.au.debian.org/debian/
@@ -2976,7 +2922,6 @@ http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.dk.debian.org/debian/
 http://ftp.cz.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.by.debian.org/debian/
@@ -3087,9 +3032,7 @@ http://debian.mirror.web4u.cz/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
 http://mirror.dkm.cz/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.fsn.hu/debian/
@@ -3142,7 +3085,6 @@ http://ftp.es.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.cz.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://ftp.hu.debian.org/debian/
@@ -3259,9 +3201,7 @@ http://debian.mirror.web4u.cz/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
 http://mirror.dkm.cz/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://debian.inf.tu-dresden.de/debian/
@@ -3306,7 +3246,6 @@ http://ftp.nz.debian.org/debian/
 http://ftp.fr.debian.org/debian/
 http://ftp.es.debian.org/debian/
 http://ftp.ch.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.sk.debian.org/debian/
@@ -3425,9 +3364,7 @@ http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
 http://mirror.sinavps.ch/debian/
 http://pkg.adfinis-sygroup.ch/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://ftp.cn.debian.org/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://debian.volia.net/debian/
@@ -4621,7 +4558,6 @@ http://ftp.si.debian.org/debian/
 http://ftp.es.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
-http://ftp.tr.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.au.debian.org/debian/
@@ -4732,9 +4668,7 @@ http://pkg.adfinis-sygroup.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
-http://ftp.tr.debian.org/debian/
 http://debian.gnu.gen.tr/debian/
-http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
