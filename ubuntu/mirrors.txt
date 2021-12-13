@@ -105,6 +105,7 @@ http://ftp.linux.cz/pub/linux/ubuntu/	arch:i386 arch:amd64
 https://mirror.it4i.cz/ubuntu/	arch:i386 arch:amd64
 https://mirror.dkm.cz/ubuntu/	arch:i386 arch:amd64
 http://ftp.cvut.cz/ubuntu/	arch:i386 arch:amd64
+http://ftp.sh.cvut.cz/ubuntu/	arch:i386 arch:amd64
 http://ucho.ignum.cz/ubuntu/	arch:i386 arch:amd64
 https://mirror.asergo.com/ubuntu/	arch:i386 arch:amd64
 http://mirrors.dotsrc.org/ubuntu/	arch:i386 arch:amd64
@@ -472,7 +473,6 @@ https://dal.mirrors.clouvider.net/ubuntu/	arch:i386 arch:amd64
 https://la.mirrors.clouvider.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.arizona.edu/ubuntu/	arch:i386 arch:amd64
 http://mirror.brightridge.com/ubuntuarchive/	arch:i386 arch:amd64
-http://mirror.cs.unm.edu/archive/	arch:i386 arch:amd64
 https://mirror.hostduplex.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.nodesdirect.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.pnl.gov/ubuntu/	arch:i386 arch:amd64
