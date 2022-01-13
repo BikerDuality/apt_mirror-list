@@ -18,7 +18,7 @@ http://mirror.easyname.at/ubuntu-archive/	arch:i386 arch:amd64
 https://mirror.alwyzon.net/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.anexia.at/ubuntu/	arch:i386 arch:amd64
 https://al.mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
-https://mirror.kumi.systems/ubuntu-ports/
+https://mirror.kumi.systems/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://ubuntu.lagis.at/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
 http://mirror.datacenter.az/ubuntu/	arch:amd64 arch:i386
@@ -361,7 +361,6 @@ http://mirror.docker.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.corbina.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.timeweb.ru/ubuntu/	arch:i386 arch:amd64
 https://mirror.yer.az/ubuntu/	arch:i386 arch:amd64
-http://mirrors.powernet.com.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.logol.ru/ubuntu/	arch:i386 arch:amd64
 https://al.mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
 https://rs.mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
@@ -556,7 +555,6 @@ http://repos.interior.edu.uy/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.repo.cure.edu.uy/mirror/	arch:i386 arch:amd64
 http://ubuntu.snet.uz/ubuntu/	arch:i386 arch:amd64
 http://mirror.bizflycloud.vn/ubuntu/	arch:i386 arch:amd64
-http://mirror.vietnix.vn/ubuntu/	arch:i386 arch:amd64
 https://mirrors.bkns.vn/ubuntu/	arch:i386 arch:amd64
 https://mirrors.cloudfly.vn/ubuntu/	arch:i386 arch:amd64
 https://mirrors.inet.vn/ubuntu/	arch:i386 arch:amd64
