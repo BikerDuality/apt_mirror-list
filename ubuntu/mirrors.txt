@@ -64,7 +64,7 @@ http://ubuntu.mirror.globo.tech/	arch:i386 arch:amd64
 http://gpl.savoirfairelinux.net/pub/mirrors/ubuntu/	arch:i386 arch:amd64
 http://mirror.its.dal.ca/ubuntu/	arch:i386 arch:amd64
 ftp://ftp.cs.mun.ca/pub/mirror/ubuntu/
-http://ubuntu.mirror.rafal.ca/ubuntu/
+http://ubuntu.mirror.rafal.ca/ubuntu/	arch:i386 arch:amd64
 http://mirror1.cl.netactuate.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.uchile.cl/ubuntu/	arch:i386 arch:amd64
 https://mirror.ufro.cl/ubuntu/	arch:i386 arch:amd64
@@ -121,6 +121,7 @@ http://mirror.plusserver.com/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.serverloft.de/ubuntu/	arch:i386 arch:amd64
 http://ftp.rezopole.net/ubuntu/	arch:i386 arch:amd64
 http://miroir.univ-lorraine.fr/ubuntu/	arch:i386 arch:amd64
+https://mirror.crexio.com/ubuntu/	arch:i386 arch:amd64
 http://mirrors.ircam.fr/pub/ubuntu/archive/	arch:i386 arch:amd64
 http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
 http://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/archive/	arch:i386 arch:amd64
