@@ -140,6 +140,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -547,6 +548,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -927,6 +929,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -1370,6 +1373,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -1537,6 +1541,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -2128,6 +2133,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -2209,6 +2215,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -2572,6 +2579,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -2934,6 +2942,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -3448,6 +3457,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -3746,6 +3756,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -4045,6 +4056,9 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -4062,9 +4076,6 @@ http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
 http://ftp.sv.debian.org/debian/
 http://debian.salud.gob.sv/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.ee.debian.org/debian/
 http://ftp.eenet.ee/debian/
 http://mirrors.xtom.ee/debian/
@@ -4078,6 +4089,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.fau.de/debian/
@@ -4424,6 +4436,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -4957,6 +4970,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.fau.de/debian/
@@ -5259,6 +5273,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -5460,6 +5475,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -6047,6 +6063,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -6349,6 +6366,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -6727,6 +6745,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -7176,6 +7195,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -7269,6 +7289,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
@@ -8222,6 +8243,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://debian.uni-duisburg-essen.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
