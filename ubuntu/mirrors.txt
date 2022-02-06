@@ -107,6 +107,7 @@ http://mirrors.dotsrc.org/ubuntu/	arch:i386 arch:amd64
 http://mirror.one.com/ubuntu/	arch:i386 arch:amd64
 http://ftp.klid.dk/ftp/ubuntu/	arch:i386 arch:amd64
 http://mirror.netsite.dk/ubuntu/archive/	arch:i386 arch:amd64
+http://mirror.espol.edu.ec/ubuntu/	arch:i386 arch:amd64
 http://mirror.cedia.org.ec/ubuntu/	arch:i386 arch:amd64
 https://mirrors.xtom.ee/ubuntu/	arch:i386 arch:amd64
 https://al.mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
@@ -367,6 +368,7 @@ https://al.mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
 https://rs.mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.unlimited.rs/	arch:i386 arch:amd64
 http://ubuntu.mirror.ftn.uns.ac.rs/archive/	arch:i386 arch:amd64
+http://ossmirror.mycloud.services/os/linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.0x.sg/ubuntu/	arch:i386 arch:amd64
 http://download.nus.edu.sg/mirror/ubuntu/	arch:i386 arch:amd64
 http://mirror.aktkn.sg/ubuntu/	arch:i386 arch:amd64
