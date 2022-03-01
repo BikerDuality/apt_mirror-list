@@ -320,7 +320,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.mirrors.uk2.net/debian/
@@ -492,7 +491,6 @@ http://ftp.yz.yamagata-u.ac.jp/debian/
 http://hanzubon.jp/debian/
 http://mirrors.xtom.jp/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.hu.debian.org/debian/
@@ -1120,7 +1118,6 @@ http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -1458,7 +1455,6 @@ http://mirror.wtnet.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.hu.debian.org/debian/
@@ -1817,7 +1813,6 @@ http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.hu.debian.org/debian/
@@ -2205,7 +2200,6 @@ http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://mirror.ps.kz/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.onevip.mk/debian/
@@ -2624,7 +2618,6 @@ http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -3000,7 +2993,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -3365,7 +3357,6 @@ http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -3752,7 +3743,6 @@ http://mirror.kku.ac.th/debian/
 http://opensource.nchc.org.tw/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -4124,7 +4114,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.hu.debian.org/debian/
@@ -4210,6 +4199,11 @@ http://ftp.lanet.kr/debian/
 http://mirror.anigil.com/debian/
 http://mirror.misakamikoto.network/debian/
 http://debian.mirror.root.lu/debian/
+http://ftp.sv.debian.org/debian/
+http://debian.salud.gob.sv/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -4224,11 +4218,6 @@ http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
-http://ftp.sv.debian.org/debian/
-http://debian.salud.gob.sv/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.ee.debian.org/debian/
 http://ftp.eenet.ee/debian/
 http://mirrors.xtom.ee/debian/
@@ -4309,7 +4298,6 @@ http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.soonkeat.sg/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -4739,7 +4727,6 @@ http://mirror.fsmg.org.nz/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.at.debian.org/debian/
@@ -5047,7 +5034,6 @@ http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -5608,7 +5594,6 @@ http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -6008,7 +5993,6 @@ http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -6082,7 +6066,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -6760,7 +6743,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -7081,7 +7063,6 @@ http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.hu.debian.org/debian/
@@ -7505,7 +7486,6 @@ http://mirror.wtnet.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.hu.debian.org/debian/
@@ -7865,7 +7845,6 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
@@ -8717,7 +8696,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://debian.astra.in.ua/debian/
-http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://debian.mirrors.uk2.net/debian/
