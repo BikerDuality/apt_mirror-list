@@ -279,6 +279,7 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -585,6 +586,7 @@ http://ftp.linux.it/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -913,6 +915,7 @@ http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -1180,6 +1183,7 @@ http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -1573,6 +1577,7 @@ http://ftp.fsn.hu/debian/
 http://debian.repo.cure.edu.uy/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -1720,6 +1725,7 @@ http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -2206,6 +2212,7 @@ http://ftp.eq.uc.pt/software/Linux/debian/
 http://mirrors.up.pt/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -2535,6 +2542,7 @@ http://mirrors.nxthost.com/debian/
 http://mirrors.xservers.ro/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -2846,6 +2854,7 @@ http://mirrors.up.pt/debian/
 http://debian.mirror.ac.ke/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -3068,6 +3077,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -3458,6 +3468,7 @@ http://ftp.eq.uc.pt/software/Linux/debian/
 http://mirrors.up.pt/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -3626,9 +3637,6 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -3636,12 +3644,15 @@ http://debian.csie.ntu.edu.tw/debian/
 http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
-http://ftp.eq.uc.pt/software/Linux/debian/
-http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
 http://ftp.sv.debian.org/debian/
 http://debian.salud.gob.sv/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
+http://ftp.eq.uc.pt/software/Linux/debian/
+http://mirrors.up.pt/debian/
 http://ftp.ee.debian.org/debian/
 http://ftp.eenet.ee/debian/
 http://mirrors.xtom.ee/debian/
@@ -3690,6 +3701,7 @@ http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -4181,6 +4193,7 @@ http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -4402,6 +4415,7 @@ http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -4849,6 +4863,7 @@ http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -5129,6 +5144,7 @@ http://mirrors.powernet.com.ru/debian/
 http://mirror.surf/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -5419,6 +5435,7 @@ http://ftp.byfly.by/debian/
 http://mirror.datacenter.by/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -5769,6 +5786,7 @@ http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -5936,6 +5954,7 @@ http://mirrors.pardisco.co/debian/
 http://ftp.is.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -6402,6 +6421,7 @@ http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -6786,6 +6806,7 @@ http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
@@ -7584,6 +7605,7 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.uk.debian.org/debian/
 http://free.hands.com/debian/
+http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
