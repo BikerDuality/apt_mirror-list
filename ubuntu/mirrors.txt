@@ -502,6 +502,7 @@ http://mirrors.us.kernel.org/ubuntu/	arch:i386 arch:amd64
 https://repo.ialab.dsu.edu/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.osuosl.org/ubuntu/	arch:i386 arch:amd64
 http://ftp.usf.edu/pub/ubuntu/	arch:i386 arch:amd64
+https://mirror.lostpacket.org/cdn/ubuntu/	arch:i386 arch:amd64
 http://lug.mtu.edu/ubuntu/	arch:i386 arch:amd64
 http://mirror.cc.vt.edu/pub2/ubuntu/	arch:i386 arch:amd64
 http://mirror.clarkson.edu/ubuntu/	arch:i386 arch:amd64
@@ -546,6 +547,7 @@ http://ubuntu.mirrors.pair.com/archive/	arch:i386 arch:amd64
 http://www.club.cc.cmu.edu/pub/ubuntu/	arch:i386 arch:amd64
 http://www.gtlib.gatech.edu/pub/ubuntu/	arch:i386 arch:amd64
 http://archive.linux.duke.edu/ubuntu/	arch:i386 arch:amd64
+http://babylon.cs.uh.edu/mirror-sites/ubuntu/	arch:i386 arch:amd64
 http://mirror.ancl.hawaii.edu/linux/ubuntu/	arch:i386 arch:amd64
 https://mirror.d.umn.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.vcea.wsu.edu/ubuntu/	arch:i386 arch:amd64
