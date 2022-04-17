@@ -92,6 +92,7 @@ http://mirrors.ucr.ac.cr/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.asergo.com/debian/
@@ -555,6 +556,7 @@ http://pubmirror.plutex.de/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://ftp.es.debian.org/debian/
@@ -716,6 +718,7 @@ http://mirrors.ustc.edu.cn/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://ftp.es.debian.org/debian/
@@ -1254,6 +1257,7 @@ http://mirror.kku.ac.th/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.gnu.gen.tr/debian/
@@ -1614,6 +1618,7 @@ http://mirror.kku.ac.th/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.astra.in.ua/debian/
@@ -1722,6 +1727,7 @@ http://debian.gnu.gen.tr/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.0x.sg/debian/
@@ -2287,6 +2293,7 @@ http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://ftp.sk.debian.org/debian/
@@ -2608,6 +2615,7 @@ http://mirrors.up.pt/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.flokinet.net/debian/
@@ -2949,6 +2957,7 @@ http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.flokinet.net/debian/
@@ -3280,6 +3289,7 @@ http://mirrors.up.pt/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.flokinet.net/debian/
@@ -3582,6 +3592,7 @@ http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.flokinet.net/debian/
@@ -3750,6 +3761,13 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
+http://ftp.tw.debian.org/debian/
+http://debian.cs.nctu.edu.tw/debian/
+http://debian.csie.ncku.edu.tw/debian/
+http://debian.csie.ntu.edu.tw/debian/
+http://ftp.ntou.edu.tw/debian/
+http://opensource.nchc.org.tw/debian/
+http://tw1.mirror.blendbyte.net/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
@@ -3759,13 +3777,6 @@ http://debian.salud.gob.sv/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
-http://ftp.tw.debian.org/debian/
-http://debian.cs.nctu.edu.tw/debian/
-http://debian.csie.ncku.edu.tw/debian/
-http://debian.csie.ntu.edu.tw/debian/
-http://ftp.ntou.edu.tw/debian/
-http://opensource.nchc.org.tw/debian/
-http://tw1.mirror.blendbyte.net/debian/
 http://ftp.ee.debian.org/debian/
 http://ftp.eenet.ee/debian/
 http://mirrors.xtom.ee/debian/
@@ -4015,6 +4026,7 @@ http://mirror.as35701.net/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.qontinuum.space/debian/
@@ -4281,6 +4293,7 @@ http://mirror.kku.ac.th/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.gnu.gen.tr/debian/
@@ -4581,6 +4594,7 @@ http://mirrors.xservers.ro/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://ftp.cl.debian.org/debian/
@@ -4775,6 +4789,7 @@ http://mirrors.ustc.edu.cn/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.asergo.com/debian/
@@ -5309,6 +5324,7 @@ http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.flokinet.net/debian/
@@ -5651,6 +5667,7 @@ http://pubmirror.plutex.de/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://ftp.am.debian.org/debian/
@@ -5741,6 +5758,7 @@ http://mirrors.ustc.edu.cn/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://ftp.cl.debian.org/debian/
@@ -6300,6 +6318,7 @@ http://mirror.kku.ac.th/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.gnu.gen.tr/debian/
@@ -6644,6 +6663,7 @@ http://mirror.kku.ac.th/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debian.gnu.gen.tr/debian/
@@ -6839,6 +6859,7 @@ http://mirror.it.ubc.ca/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://debianmirror.una.ac.cr/debian/
@@ -8102,6 +8123,7 @@ http://mirrors.ucr.ac.cr/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.debian.cz/debian/
 http://ftp.sh.cvut.cz/debian/
+http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror.asergo.com/debian/
