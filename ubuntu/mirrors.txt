@@ -340,7 +340,6 @@ http://mirror.pregi.net/ubuntu/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:
 http://mirror.rise.ph/ubuntu/	arch:i386 arch:amd64
 http://ftp.icm.edu.pl/pub/Linux/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.task.gda.pl/ubuntu/	arch:i386 arch:amd64
-https://ftp.ps.pl/pub/Linux/ubuntu/archive/	arch:i386 arch:amd64
 http://ftp.agh.edu.pl/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.man.lodz.pl/ubuntu/	arch:i386 arch:amd64
 http://mirrors.eze.sysarmy.com/ubuntu/	arch:i386 arch:amd64
@@ -556,7 +555,6 @@ http://mirror.ancl.hawaii.edu/linux/ubuntu/	arch:i386 arch:amd64
 https://mirror.d.umn.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.vcea.wsu.edu/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.securedservers.com/	arch:i386 arch:amd64
-http://mirror.lcsee.wvu.edu/ubuntu/	arch:i386 arch:amd64
 http://reflector.westga.edu/repos/Ubuntu/archive/	arch:i386 arch:amd64
 http://ftp.ussg.iu.edu/linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.vcu.edu/pub/gnu+linux/ubuntu/	arch:i386 arch:amd64
