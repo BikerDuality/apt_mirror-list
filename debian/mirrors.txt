@@ -289,6 +289,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.se.debian.org/debian/
@@ -633,6 +634,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://mirror.flokinet.net/debian/
@@ -821,6 +823,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://debian.asis.ai/debian/
@@ -1372,6 +1375,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.uk.debian.org/debian/
@@ -1803,6 +1807,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://debian.gnu.gen.tr/debian/
@@ -2130,6 +2135,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.nl.debian.org/debian/
@@ -2428,6 +2434,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
@@ -2838,6 +2845,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.ee.debian.org/debian/
@@ -3188,6 +3196,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
@@ -3740,6 +3749,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.se.debian.org/debian/
@@ -4080,6 +4090,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
@@ -4234,6 +4245,13 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
+http://ftp.sv.debian.org/debian/
+http://debian.salud.gob.sv/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -4246,13 +4264,6 @@ http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
-http://debian.unnoba.edu.ar/debian/
-http://mirror.sitsa.com.ar/debian/
-http://ftp.sv.debian.org/debian/
-http://debian.salud.gob.sv/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.ee.debian.org/debian/
 http://ftp.eenet.ee/debian/
 http://mirrors.xtom.ee/debian/
@@ -4428,6 +4439,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.ch.debian.org/debian/
@@ -4818,6 +4830,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.tw.debian.org/debian/
@@ -5026,6 +5039,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.ee.debian.org/debian/
@@ -5430,6 +5444,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.nl.debian.org/debian/
@@ -5836,6 +5851,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
@@ -6401,6 +6417,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.br.debian.org/debian/
@@ -6614,6 +6631,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://debian.mirror.root.lu/debian/
@@ -6896,6 +6914,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.is.co.za/debian/
@@ -7459,6 +7478,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.uk.debian.org/debian/
@@ -7872,6 +7892,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.se.debian.org/debian/
@@ -9202,6 +9223,7 @@ http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
+http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.se.debian.org/debian/
