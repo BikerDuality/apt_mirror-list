@@ -65,6 +65,7 @@ http://ubuntu.bhs.mirrors.ovh.net/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.globo.tech/	arch:i386 arch:amd64
 http://mirrors.portafixe.com/ubuntu/archive/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x arch:ppc64el
 http://gpl.savoirfairelinux.net/pub/mirrors/ubuntu/	arch:i386 arch:amd64
+http://mirror.cedille.club/ubuntu/	arch:i386 arch:amd64
 http://mirror.its.dal.ca/ubuntu/	arch:i386 arch:amd64
 ftp://ftp.cs.mun.ca/pub/mirror/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.rafal.ca/ubuntu/	arch:i386 arch:amd64
@@ -170,6 +171,7 @@ http://mirror.kamp.de/ubuntu/	arch:i386 arch:amd64
 https://mirror.kkg.berlin/ubuntu/
 https://mirror.netzwerge.de/ubuntu/	arch:i386 arch:amd64
 http://mirror.ratiokontakt.de/mirror/ubuntu/	arch:i386 arch:amd64
+https://mirror.scaleuptech.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.united-gameserver.de/ubuntu/	arch:i386 arch:amd64
 http://mirror2.tuxinator.org/ubuntu/	arch:i386 arch:amd64
 http://packages.oth-regensburg.de/ubuntu/	arch:i386 arch:amd64
@@ -266,7 +268,6 @@ http://www.ftp.ne.jp/Linux/packages/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.hoster.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.neolabs.kz/ubuntu/
 http://mirror.ps.kz/ubuntu/	arch:i386 arch:amd64
-https://ftp.harukasan.org/ubuntu/	arch:i386 arch:amd64
 https://ftp.harukasan.org/ubuntu-ports/	arch:arm64 arch:armhf arch:s390x arch:ppc64el
 https://mirror.anigil.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.kakao.com/ubuntu/	arch:i386 arch:amd64
@@ -515,7 +516,7 @@ https://mirror.dal.nexril.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.math.ucdavis.edu/ubuntu/	arch:i386 arch:amd64
 http://mirror.metrocast.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.mrjester.net/ubuntu/archive/	arch:i386 arch:amd64
-http://us.mirror.nsec.pt/ubuntu/	arch:i386 arch:amd64
+http://uk.mirror.nsec.pt/ubuntu/	arch:i386 arch:amd64
 http://mirror.steadfastnet.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.team-cymru.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.team-cymru.org/ubuntu/	arch:i386 arch:amd64
