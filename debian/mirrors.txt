@@ -237,6 +237,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -451,6 +452,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -1033,6 +1035,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -1276,6 +1279,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -1612,7 +1616,6 @@ http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirror.telepoint.bg/debian/
-http://mirror.sabay.com.kh/debian/
 http://ftp.cl.debian.org/debian/
 http://debian.redlibre.cl/debian/
 http://mirror.insacom.cl/debian/
@@ -1728,6 +1731,7 @@ http://ftp.riken.jp/Linux/debian/debian/
 http://ftp.yz.yamagata-u.ac.jp/debian/
 http://hanzubon.jp/debian/
 http://mirrors.xtom.jp/debian/
+http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
 http://debian.mirror.estruxture.net/debian/
 http://debian.mirror.globo.tech/debian/
@@ -1770,6 +1774,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -2182,6 +2187,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -2598,6 +2604,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -2986,6 +2993,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -3364,6 +3372,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -3570,6 +3579,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -4094,6 +4104,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -4321,9 +4332,6 @@ http://mirror.anigil.com/debian/
 http://mirror.misakamikoto.network/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.is.debian.org/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -4338,6 +4346,9 @@ http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.ee.debian.org/debian/
 http://ftp.eenet.ee/debian/
 http://mirrors.xtom.ee/debian/
@@ -4504,6 +4515,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
@@ -4851,6 +4863,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -5209,6 +5222,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
@@ -5553,6 +5567,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -6025,6 +6040,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -6411,6 +6427,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -6686,6 +6703,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -6991,6 +7009,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -7550,6 +7569,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -7936,6 +7956,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
@@ -9495,6 +9516,7 @@ http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
 http://mirror.nl.datapacket.com/debian/
+http://mirror.nl.leaseweb.net/debian/
 http://mirror.novg.net/debian/
 http://mirrors.edge.kernel.org/debian/
 http://mirror.seedvps.com/debian/
