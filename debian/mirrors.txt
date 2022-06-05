@@ -85,7 +85,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -125,6 +124,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -363,6 +363,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -437,6 +438,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -527,7 +529,6 @@ http://ftp.uio.no/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -744,6 +745,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -815,7 +817,6 @@ http://ftp.tw.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
@@ -910,6 +911,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -1124,6 +1126,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -1264,6 +1267,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -1327,7 +1331,6 @@ http://debian.mirror.ac.ke/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -1528,6 +1531,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -1626,7 +1630,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -1693,6 +1696,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -1913,6 +1917,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -2032,6 +2037,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -2084,7 +2090,6 @@ http://mirrors.bkns.vn/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -2219,6 +2224,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -2452,7 +2458,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -2501,6 +2506,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -2534,6 +2540,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -2810,6 +2817,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -2876,7 +2884,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -2923,6 +2930,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -3233,7 +3241,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -3285,6 +3292,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -3318,6 +3326,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -3545,6 +3554,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -3619,7 +3629,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -3775,6 +3784,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -3965,7 +3975,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -4002,6 +4011,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -4205,6 +4215,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -4331,6 +4342,7 @@ http://debian.polytech-lille.fr/debian/
 http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -4502,6 +4514,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirror.siena.edu/debian/
 http://mirror.steadfast.net/debian/
@@ -4602,7 +4615,6 @@ http://debian.grena.ge/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -4731,7 +4743,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -4799,6 +4810,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -4981,6 +4993,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -5098,7 +5111,6 @@ http://mirrors.xtom.jp/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -5181,6 +5193,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirror.siena.edu/debian/
 http://mirror.steadfast.net/debian/
@@ -5373,6 +5386,7 @@ http://debian.polytech-lille.fr/debian/
 http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -5513,7 +5527,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -5552,6 +5565,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -5736,6 +5750,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -5951,7 +5966,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -6003,6 +6017,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -6036,6 +6051,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -6257,6 +6273,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -6381,6 +6398,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -6462,7 +6480,6 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -6635,7 +6652,6 @@ http://ftp.it.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
@@ -6702,6 +6718,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -6937,6 +6954,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -7148,7 +7166,6 @@ http://debian.mirror.ac.ke/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -7200,6 +7217,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -7351,6 +7369,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -7465,6 +7484,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -7497,6 +7517,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -7552,7 +7573,6 @@ http://debian.mirror.ac.ke/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -7947,6 +7967,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
@@ -8053,6 +8074,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -8106,7 +8128,6 @@ http://debian.gnu.gen.tr/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -9385,7 +9406,6 @@ http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
@@ -9425,6 +9445,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
+http://ftp.lip6.fr/pub/linux/distributions/debian/
 http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
@@ -9663,6 +9684,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
+http://mirror.keystealth.org/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
