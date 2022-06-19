@@ -69,6 +69,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -679,6 +680,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://debian.otenet.gr/debian/
 http://ftp.it.debian.org/debian/
@@ -882,6 +884,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.dk.debian.org/debian/
@@ -1221,6 +1224,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -1606,6 +1610,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.cl.debian.org/debian/
 http://debian.redlibre.cl/debian/
@@ -2192,6 +2197,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.fr.debian.org/debian/
 http://apt.tetaneutral.net/debian/
@@ -2418,6 +2424,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -2840,6 +2847,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -3193,6 +3201,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -3584,6 +3593,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.cl.debian.org/debian/
@@ -3919,6 +3929,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -4313,9 +4324,6 @@ http://mirror.anigil.com/debian/
 http://mirror.misakamikoto.network/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.is.debian.org/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -4330,6 +4338,9 @@ http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -4579,6 +4590,7 @@ http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirror.telepoint.bg/debian/
+http://mirrors.netix.net/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://mirrors.mivocloud.com/debian/
@@ -4679,6 +4691,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -5346,6 +5359,7 @@ http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirror.telepoint.bg/debian/
+http://mirrors.netix.net/debian/
 http://ftp.br.debian.org/debian/
 http://debian.c3sl.ufpr.br/debian/
 http://debian.itsbrasil.net/debian/
@@ -5461,6 +5475,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.cl.debian.org/debian/
@@ -5888,6 +5903,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -6287,6 +6303,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
@@ -6629,6 +6646,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.dk.debian.org/debian/
 http://mirror.asergo.com/debian/
@@ -7002,6 +7020,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.cl.debian.org/debian/
@@ -7381,6 +7400,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.cl.debian.org/debian/
 http://debian.redlibre.cl/debian/
@@ -7839,6 +7859,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
@@ -9300,6 +9321,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
