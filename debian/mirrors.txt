@@ -88,6 +88,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -174,7 +175,6 @@ http://mirror.united-gameserver.de/debian/
 http://mirror.wtnet.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hu.debian.org/debian/
@@ -299,7 +299,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -533,6 +532,7 @@ http://ftp.uio.no/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -651,7 +651,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -689,7 +688,6 @@ http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
-http://debian.otenet.gr/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
@@ -820,12 +818,12 @@ http://ftp.tw.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
-http://debian.otenet.gr/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
@@ -842,7 +840,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -1283,7 +1280,6 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
-http://debian.otenet.gr/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
 http://debian.snt.utwente.nl/debian/
@@ -1339,6 +1335,7 @@ http://debian.mirror.ac.ke/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -1414,7 +1411,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -1637,6 +1633,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -1711,7 +1708,6 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://debian.mirror.net.in/debian/
@@ -1859,7 +1855,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -2096,6 +2091,7 @@ http://mirror.bizflycloud.vn/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -2191,7 +2187,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -2240,7 +2235,6 @@ http://miroir.univ-lorraine.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
-http://debian.otenet.gr/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
@@ -2467,6 +2461,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -2495,7 +2490,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -2557,7 +2551,6 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hu.debian.org/debian/
@@ -2893,6 +2886,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -2920,7 +2914,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -2948,7 +2941,6 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hu.debian.org/debian/
@@ -3252,6 +3244,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -3283,7 +3276,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -3344,7 +3336,6 @@ http://miroir.univ-lorraine.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hu.debian.org/debian/
@@ -3640,6 +3631,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -3858,7 +3850,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -3897,7 +3888,6 @@ http://mirror.mirohost.net/debian/
 http://debian.repo.cure.edu.uy/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
-http://debian.otenet.gr/debian/
 http://ftp.am.debian.org/debian/
 http://ftp.au.debian.org/debian/
 http://ftp.at.debian.org/debian/
@@ -3988,6 +3978,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -4082,7 +4073,6 @@ http://ftp.riken.jp/Linux/debian/debian/
 http://ftp.yz.yamagata-u.ac.jp/debian/
 http://hanzubon.jp/debian/
 http://mirrors.xtom.jp/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://debian.mirror.net.in/debian/
@@ -4209,7 +4199,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -4569,7 +4558,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -4618,7 +4606,6 @@ http://ftp.riken.jp/Linux/debian/debian/
 http://ftp.yz.yamagata-u.ac.jp/debian/
 http://hanzubon.jp/debian/
 http://mirrors.xtom.jp/debian/
-http://debian.otenet.gr/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.br.debian.org/debian/
 http://debian.c3sl.ufpr.br/debian/
@@ -4630,6 +4617,7 @@ http://debian.grena.ge/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -4758,6 +4746,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -4833,7 +4822,6 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hu.debian.org/debian/
 http://ftp.bme.hu/debian/
 http://ftp.fsn.hu/debian/
@@ -4968,7 +4956,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -5125,6 +5112,7 @@ http://mirrors.xtom.jp/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -5182,7 +5170,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -5267,7 +5254,6 @@ http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
-http://debian.otenet.gr/debian/
 http://mirror.isoc.org.il/pub/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
@@ -5543,6 +5529,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -5588,7 +5575,6 @@ http://miroir.univ-lorraine.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
-http://debian.otenet.gr/debian/
 http://debian.grena.ge/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
@@ -5597,7 +5583,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -5984,6 +5969,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -6015,7 +6001,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -6077,7 +6062,6 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
-http://debian.otenet.gr/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
 http://debian.snt.utwente.nl/debian/
@@ -6496,6 +6480,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -6604,7 +6589,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -6625,7 +6609,6 @@ http://mirror.units.it/debian/
 http://debian.mirror.root.lu/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
-http://debian.otenet.gr/debian/
 http://mirrors.xtom.ee/debian/
 http://debian.grena.ge/debian/
 http://ftp.cn.debian.org/debian/
@@ -6670,6 +6653,7 @@ http://ftp.it.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -6745,7 +6729,6 @@ http://miroir.univ-lorraine.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
-http://debian.otenet.gr/debian/
 http://debian.grena.ge/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
@@ -6823,7 +6806,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -7110,7 +7092,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -7190,6 +7171,7 @@ http://debian.mirror.ac.ke/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -7200,7 +7182,6 @@ http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.anigil.com/debian/
 http://mirror.misakamikoto.network/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
@@ -7548,7 +7529,6 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://debian.mirror.net.in/debian/
@@ -7596,6 +7576,7 @@ http://debian.mirror.ac.ke/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -7692,7 +7673,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -8033,7 +8013,6 @@ http://ftp.hu.debian.org/debian/
 http://ftp.bme.hu/debian/
 http://ftp.fsn.hu/debian/
 http://repo.jztkft.hu/debian/
-http://debian.otenet.gr/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
 http://mirror.dewabiz.com/debian/
@@ -8123,7 +8102,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
@@ -8151,6 +8129,7 @@ http://debian.gnu.gen.tr/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -9424,6 +9403,7 @@ http://mirror.ufro.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirror.lzu.edu.cn/debian/
+http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -9510,7 +9490,6 @@ http://mirror.united-gameserver.de/debian/
 http://mirror.wtnet.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
-http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hu.debian.org/debian/
@@ -9635,7 +9614,6 @@ http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
-http://ftp.udc.es/debian/
 http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
