@@ -154,7 +154,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -611,7 +610,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -1014,7 +1012,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -1491,7 +1488,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -1667,7 +1663,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -2307,7 +2302,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -2393,7 +2387,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -2786,7 +2779,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -3177,7 +3169,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -3727,7 +3718,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -4050,7 +4040,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -4372,9 +4361,6 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -4382,13 +4368,16 @@ http://debian.csie.ntu.edu.tw/debian/
 http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.up.pt/debian/
-http://debian.unnoba.edu.ar/debian/
-http://mirror.sitsa.com.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -4407,7 +4396,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
@@ -4788,7 +4776,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -5362,7 +5349,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
@@ -5684,7 +5670,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -5906,7 +5891,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -6550,7 +6534,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -6872,7 +6855,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -7279,7 +7261,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -7761,7 +7742,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -7860,7 +7840,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
@@ -9490,7 +9469,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
-http://ftp.mpi-sb.mpg.de/pub/linux/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.stw-bonn.de/debian/
