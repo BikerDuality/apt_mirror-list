@@ -222,6 +222,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -567,6 +568,7 @@ http://mirror.bizflycloud.vn/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -975,6 +977,7 @@ http://mirrors.ucr.ac.cr/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -1345,6 +1348,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -1753,6 +1757,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.md.debian.org/debian/
@@ -2076,6 +2081,7 @@ http://mirror.rise.ph/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
@@ -2580,6 +2586,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://debian.qontinuum.space/debian/
@@ -2969,6 +2976,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -3346,6 +3354,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://debian.qontinuum.space/debian/
@@ -3743,6 +3752,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.md.debian.org/debian/
@@ -4081,6 +4091,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -4305,6 +4316,7 @@ http://mirrors.powernet.com.ru/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
@@ -4339,6 +4351,13 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
+http://ftp.tw.debian.org/debian/
+http://debian.cs.nctu.edu.tw/debian/
+http://debian.csie.ncku.edu.tw/debian/
+http://debian.csie.ntu.edu.tw/debian/
+http://ftp.ntou.edu.tw/debian/
+http://opensource.nchc.org.tw/debian/
+http://tw1.mirror.blendbyte.net/debian/
 http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
@@ -4350,13 +4369,6 @@ http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
-http://ftp.tw.debian.org/debian/
-http://debian.cs.nctu.edu.tw/debian/
-http://debian.csie.ncku.edu.tw/debian/
-http://debian.csie.ntu.edu.tw/debian/
-http://ftp.ntou.edu.tw/debian/
-http://opensource.nchc.org.tw/debian/
-http://tw1.mirror.blendbyte.net/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -4847,6 +4859,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -5406,6 +5419,7 @@ http://mirrors.mivocloud.com/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -5617,6 +5631,7 @@ http://mirrors.ucr.ac.cr/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -6080,6 +6095,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://debian.qontinuum.space/debian/
@@ -6440,6 +6456,7 @@ http://nl.mirrors.clouvider.net/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -6760,6 +6777,7 @@ http://mirrors.ucr.ac.cr/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -7151,6 +7169,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -7554,6 +7573,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
@@ -7990,6 +8010,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
@@ -9513,6 +9534,7 @@ http://mirror.cloudhosting.lv/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
+http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://mirror.onevip.mk/debian/
