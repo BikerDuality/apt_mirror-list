@@ -67,7 +67,7 @@ http://gpl.savoirfairelinux.net/pub/mirrors/ubuntu/	arch:i386 arch:amd64
 http://mirror.cedille.club/ubuntu/	arch:amd64 arch:i386
 http://mirror.its.dal.ca/ubuntu/	arch:i386 arch:amd64
 ftp://ftp.cs.mun.ca/pub/mirror/ubuntu/	arch:i386 arch:amd64
-http://ubuntu.mirror.rafal.ca/ubuntu/	arch:i386 arch:amd64
+http://ubuntu.mirror.rafal.ca/ubuntu/
 http://mirror1.cl.netactuate.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.uchile.cl/ubuntu/	arch:i386 arch:amd64
 https://mirror.ufro.cl/ubuntu/	arch:i386 arch:amd64
@@ -204,11 +204,11 @@ https://linux.domainesia.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
 https://mirror.amscloud.co.id/ubuntu/	arch:i386 arch:amd64
 https://mirror.faizuladib.com/ubuntu/	arch:amd64
 https://mirror.nevacloud.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
+https://mirror.repository.id/ubuntu/	arch:i386 arch:amd64
 https://mr.heru.id/ubuntu/	arch:i386 arch:amd64
 https://buaya.klas.or.id/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://kartolo.sby.datautama.net.id/ubuntu/	arch:i386 arch:amd64
-http://kebo.pens.ac.id/ubuntu/	arch:i386 arch:amd64
 https://mirror-gw.elastis.id/ubuntu/	arch:i386 arch:amd64
 http://mirror.beon.co.id/ubuntu/	arch:i386 arch:amd64
 http://mirror.biznetgio.com/ubuntu/	arch:i386 arch:amd64
@@ -318,6 +318,7 @@ http://mirror.amsiohosting.net/archive.ubuntu.com/	arch:i386 arch:amd64
 http://nl3.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 http://ftp.tudelft.nl/archive.ubuntu.com/	arch:i386 arch:amd64
 http://mirror.eu.kamatera.com/ubuntu/	arch:i386 arch:amd64
+http://mirror.hostnet.nl/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.previder.nl/ubuntu/	arch:i386 arch:amd64
 https://mirrors.evoluso.com/ubuntu/	arch:i386 arch:amd64
 http://osmirror.rug.nl/ubuntu/	arch:i386 arch:amd64
