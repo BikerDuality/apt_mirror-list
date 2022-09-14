@@ -8,8 +8,4 @@
         "ms-python.python",
         "cschleiden.vscode-github-actions",
     ],
-    "initializeCommand":[
-        "eval",
-        "docker image prune -f;",
-    ],
 }
