@@ -42,7 +42,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -312,6 +311,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -326,7 +326,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -433,7 +432,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
@@ -635,6 +633,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -668,7 +667,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -770,7 +768,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
@@ -995,6 +992,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -1009,7 +1007,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -1095,7 +1092,6 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://mirror.aarnet.edu.au/debian/
 http://ftp.be.debian.org/debian/
@@ -1281,6 +1277,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -1374,7 +1371,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -1445,7 +1441,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.belnet.be/debian/
@@ -1706,6 +1701,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -1720,7 +1716,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -1827,7 +1822,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -1853,6 +1847,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -2040,7 +2035,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://mirror.lagoon.nc/debian/
 http://debianmirror.una.ac.cr/debian/
@@ -2169,7 +2163,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -2245,7 +2238,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -2366,6 +2358,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -2521,7 +2514,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -2544,7 +2536,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -2734,6 +2725,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -2870,7 +2862,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -2949,7 +2940,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -3063,6 +3053,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -3183,7 +3174,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -3209,7 +3199,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -3287,6 +3276,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -3532,7 +3522,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -3723,6 +3712,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -3781,7 +3771,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -3916,9 +3905,6 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nctu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -3926,12 +3912,15 @@ http://debian.csie.ntu.edu.tw/debian/
 http://ftp.ntou.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
+http://debian.unnoba.edu.ar/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
-http://debian.unnoba.edu.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -3985,6 +3974,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
@@ -4052,7 +4042,6 @@ http://debian.cs.binghamton.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirror.siena.edu/debian/
@@ -4119,7 +4108,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -4230,7 +4218,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.belnet.be/debian/
@@ -4481,7 +4468,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -4507,6 +4493,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -4650,7 +4637,6 @@ http://debian.cs.binghamton.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirror.siena.edu/debian/
@@ -4691,7 +4677,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
@@ -4722,6 +4707,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
@@ -4930,7 +4916,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -5156,7 +5141,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -5224,6 +5208,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -5313,7 +5298,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -5394,7 +5378,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -5518,6 +5501,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -5683,7 +5667,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -5740,7 +5723,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -5832,6 +5814,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -5995,7 +5978,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.belnet.be/debian/
@@ -6223,6 +6205,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -6237,7 +6220,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -6336,7 +6318,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.belnet.be/debian/
@@ -6391,6 +6372,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -6611,7 +6593,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -6680,7 +6661,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.belnet.be/debian/
@@ -6715,7 +6695,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -6895,6 +6874,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -7071,7 +7051,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://debian.unnoba.edu.ar/debian/
 http://ftp.am.debian.org/debian/
@@ -7150,7 +7129,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
@@ -7310,6 +7288,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -8424,7 +8403,6 @@ http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
-http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -8694,6 +8672,7 @@ http://ftp.ticklers.org/debian/
 http://mirror.bytemark.co.uk/debian/
 http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
+http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
@@ -8708,7 +8687,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
-http://debian.uchicago.edu/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.pit.teraswitch.com/debian/
 http://mirrors.accretive-networks.net/debian/
