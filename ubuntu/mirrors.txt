@@ -6,7 +6,6 @@ http://mirrors.asnet.am/ubuntu/	arch:i386 arch:amd64
 http://mirror.aarnet.edu.au/pub/ubuntu/archive/	arch:i386 arch:amd64
 https://mirror.internet.asn.au/pub/ubuntu/archive/	arch:i386 arch:amd64
 https://ubuntu.mirror.digitalpacific.com.au/archive/	arch:i386 arch:amd64
-https://mirror.datamossa.io/ubuntu/archive/	arch:i386 arch:amd64
 https://mirror.realcompute.io/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.serversaustralia.com.au/ubuntu/	arch:i386 arch:amd64
 http://ftp.iinet.net.au/pub/ubuntu/	arch:i386 arch:amd64
@@ -90,8 +89,8 @@ https://mirrors.cnnic.cn/ubuntu/	arch:i386 arch:amd64
 https://mirrors.hit.edu.cn/ubuntu/	arch:i386 arch:amd64
 http://mirrors.huaweicloud.com/repository/ubuntu/	arch:i386 arch:amd64
 http://mirrors.njupt.edu.cn/ubuntu/	arch:i386 arch:amd64
+http://mirrors.sohu.com/ubuntu/	arch:amd64 arch:i386
 https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/	arch:arm64 arch:armhf arch:s390x arch:ppc64el
-https://mirrors.xjtu.edu.cn/ubuntu/	arch:i386 arch:amd64
 http://mirrors.yun-idc.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://mirror.lzu.edu.cn/ubuntu/	arch:i386 arch:amd64
