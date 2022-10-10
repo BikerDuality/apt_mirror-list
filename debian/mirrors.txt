@@ -261,7 +261,6 @@ http://depot-debian.univ-reunion.fr/debian/
 http://mirror.flokinet.net/debian/
 http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
-http://mirrors.layerbridge.com/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
 http://mirrors.pidginhost.com/debian/
@@ -354,6 +353,7 @@ http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
+http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
@@ -618,7 +618,6 @@ http://ulises.hostalia.com/debian/
 http://mirror.flokinet.net/debian/
 http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
-http://mirrors.layerbridge.com/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
 http://mirrors.pidginhost.com/debian/
@@ -707,6 +706,7 @@ http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
+http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
@@ -4086,6 +4086,9 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
@@ -4098,9 +4101,6 @@ http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -8958,7 +8958,6 @@ http://depot-debian.univ-reunion.fr/debian/
 http://mirror.flokinet.net/debian/
 http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
-http://mirrors.layerbridge.com/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
 http://mirrors.pidginhost.com/debian/
@@ -9051,6 +9050,7 @@ http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
+http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
