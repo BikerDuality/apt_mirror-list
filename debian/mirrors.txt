@@ -89,7 +89,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -192,7 +191,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -237,6 +235,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
@@ -340,15 +339,19 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -358,6 +361,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://debian.xtdv.net/debian/
@@ -437,6 +441,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
@@ -502,7 +507,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -656,7 +660,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.uk.debian.org/debian/
@@ -675,6 +678,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://mirror.0x.sg/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
@@ -695,13 +699,16 @@ http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -711,6 +718,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirror.pmf.kg.ac.rs/debian/
@@ -769,7 +777,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -893,7 +900,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://mirror.isoc.org.il/pub/debian/
 http://ftp.jp.debian.org/debian/
@@ -987,6 +993,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://ftp.nc.debian.org/debian/
@@ -1054,15 +1061,19 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -1072,6 +1083,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirror.pmf.kg.ac.rs/debian/
@@ -1218,6 +1230,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.by.debian.org/debian/
@@ -1238,7 +1251,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -1258,7 +1270,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -1354,6 +1365,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.ch.debian.org/debian/
 http://debian.ethz.ch/debian/
 http://mirror1.infomaniak.com/debian/
@@ -1434,13 +1446,16 @@ http://ftp.fsn.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -1450,6 +1465,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://debian.xtdv.net/debian/
@@ -1535,7 +1551,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -1621,7 +1636,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -1681,6 +1695,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://mirror.rise.ph/debian/
@@ -1793,15 +1808,19 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -1811,6 +1830,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://debian.xtdv.net/debian/
@@ -1902,13 +1922,16 @@ http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -1918,6 +1941,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.uk.debian.org/debian/
@@ -1936,6 +1960,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.fi.debian.org/debian/
 http://www.nic.funet.fi/debian/
 http://ftp.cl.debian.org/debian/
@@ -1953,7 +1978,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -2056,6 +2080,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.is.debian.org/debian/
 http://ftp.br.debian.org/debian/
 http://alcateia.ufscar.br/debian/
@@ -2096,7 +2121,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://mirror.isoc.org.il/pub/debian/
 http://ftp.md.debian.org/debian/
@@ -2307,7 +2331,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -2340,13 +2363,16 @@ http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -2356,6 +2382,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirrors.xtom.ee/debian/
@@ -2404,7 +2431,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -2452,6 +2478,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.pl.debian.org/debian/
 http://debian.inhost.pro/debian/
 http://ftp.agh.edu.pl/debian/
@@ -2479,6 +2506,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
@@ -2626,13 +2654,16 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -2642,6 +2673,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.au.debian.org/debian/
@@ -2693,7 +2725,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -2768,7 +2799,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -2818,6 +2848,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://mirror.rise.ph/debian/
 http://ftp.pl.debian.org/debian/
 http://debian.inhost.pro/debian/
@@ -2862,6 +2893,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
 http://mirror.corbina.net/debian/
@@ -3039,7 +3071,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -3075,13 +3106,16 @@ http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -3091,6 +3125,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirrors.xtom.ee/debian/
@@ -3136,7 +3171,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
@@ -3172,6 +3206,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.pl.debian.org/debian/
 http://debian.inhost.pro/debian/
 http://ftp.agh.edu.pl/debian/
@@ -3203,6 +3238,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
@@ -3317,13 +3353,16 @@ http://ftp.is.co.za/debian/
 http://mirror.hostafrica.co.za/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -3333,6 +3372,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://debian.unnoba.edu.ar/debian/
@@ -3364,6 +3404,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.by.debian.org/debian/
 http://ftp.byfly.by/debian/
 http://mirror.datacenter.by/debian/
@@ -3393,7 +3434,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -3435,6 +3475,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://debian.asis.ai/debian/
 http://mirrors.pardisco.co/debian/
 http://ftp.is.debian.org/debian/
@@ -3444,7 +3485,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -3729,7 +3769,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -3836,7 +3875,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
@@ -3874,6 +3912,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.pl.debian.org/debian/
 http://debian.inhost.pro/debian/
 http://ftp.agh.edu.pl/debian/
@@ -3901,6 +3940,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
@@ -3948,13 +3988,16 @@ http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -3964,6 +4007,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.is.co.za/debian/
@@ -4086,9 +4130,6 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
@@ -4101,6 +4142,9 @@ http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -4162,6 +4206,7 @@ http://mirror.vorboss.net/debian/
 http://mirrors.coreix.net/debian/
 http://mirrors.m247.com/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
@@ -4190,7 +4235,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.pl.debian.org/debian/
 http://debian.inhost.pro/debian/
@@ -4220,9 +4264,11 @@ http://ftp.uio.no/debian/
 http://mirror.pmf.kg.ac.rs/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirror.siena.edu/debian/
@@ -4231,11 +4277,13 @@ http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.nl.debian.org/debian/
@@ -4250,6 +4298,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
 http://debian.redimadrid.es/debian/
@@ -4314,7 +4363,6 @@ http://mirror.unesp.br/debian/
 http://debian.grena.ge/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -4447,7 +4495,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -4538,7 +4585,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -4586,6 +4632,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
@@ -4674,13 +4721,16 @@ http://mirrors.nic.cz/debian/
 http://debian.gnu.gen.tr/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -4690,6 +4740,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.uk.debian.org/debian/
@@ -4708,6 +4759,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://ftp.by.debian.org/debian/
@@ -4785,7 +4837,6 @@ http://hanzubon.jp/debian/
 http://mirrors.xtom.jp/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -4854,9 +4905,11 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirror.siena.edu/debian/
@@ -4865,11 +4918,13 @@ http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.hr.debian.org/debian/
@@ -4908,6 +4963,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://debian.otenet.gr/debian/
 http://mirror.isoc.org.il/pub/debian/
 http://ftp.it.debian.org/debian/
@@ -4915,7 +4971,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirror.uk.sargasso.net/debian/
@@ -4932,6 +4987,7 @@ http://mirror.vorboss.net/debian/
 http://mirrors.coreix.net/debian/
 http://mirrors.m247.com/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://debian.mirror.net.in/debian/
 http://mirror.cse.iitk.ac.in/debian/
@@ -5181,7 +5237,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -5251,6 +5306,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://debian.mirror.net.in/debian/
@@ -5383,13 +5439,16 @@ http://mirror.sg.gs/debian/
 http://mirror.soonkeat.sg/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -5399,6 +5458,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.ch.debian.org/debian/
@@ -5438,7 +5498,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
@@ -5456,6 +5515,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://ftp.de.debian.org/debian/
@@ -5589,7 +5649,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -5625,13 +5684,16 @@ http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -5641,6 +5703,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirrors.xtom.ee/debian/
@@ -5680,6 +5743,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hu.debian.org/debian/
@@ -5699,7 +5763,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -5767,6 +5830,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
@@ -5983,13 +6047,16 @@ http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -5999,6 +6066,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirror.0x.sg/debian/
@@ -6052,6 +6120,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.mirror.vu.lt/debian/
 http://mirror.litnet.lt/debian/
@@ -6062,7 +6131,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -6092,6 +6160,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.belnet.be/debian/
 http://mirror.as35701.net/debian/
@@ -6178,7 +6247,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://debian.mirror.root.lu/debian/
 http://debian.xtdv.net/debian/
@@ -6229,7 +6297,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -6319,6 +6386,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hr.debian.org/debian/
@@ -6507,15 +6575,19 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -6525,6 +6597,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirror.pmf.kg.ac.rs/debian/
@@ -6538,7 +6611,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
@@ -6601,6 +6673,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://debian.unnoba.edu.ar/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
@@ -6677,6 +6750,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://mirror.isoc.org.il/pub/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
@@ -6690,7 +6764,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -6716,7 +6789,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -6896,13 +6968,16 @@ http://mirror.bizflycloud.vn/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -6912,6 +6987,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.am.debian.org/debian/
@@ -7001,13 +7077,16 @@ http://mirrors.rackhosting.com/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -7017,6 +7096,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://mirror.rise.ph/debian/
@@ -7060,7 +7140,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -7087,7 +7166,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -7123,6 +7201,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://ftp.nc.debian.org/debian/
@@ -7202,6 +7281,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
 http://debian.mirror.su.se/debian/
@@ -7322,7 +7402,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -7453,13 +7532,16 @@ http://mirrors.xtom.ee/debian/
 http://debian.grena.ge/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -7469,6 +7551,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.nl.debian.org/debian/
@@ -7483,6 +7566,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.kr.debian.org/debian/
@@ -7606,7 +7690,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -7630,6 +7713,7 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirror.pmf.kg.ac.rs/debian/
@@ -8786,7 +8870,6 @@ http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -8889,7 +8972,6 @@ http://debian.connesi.it/debian/
 http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
-http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -8934,6 +9016,7 @@ http://mirror.novg.net/debian/
 http://mirror.seedvps.com/debian/
 http://mirror.serverius.net/debian/
 http://mirrors.xtom.nl/debian/
+http://nl.mirrors.clouvider.net/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
@@ -9037,15 +9120,19 @@ http://mirrors.m247.com/debian/
 http://mirror.sov.uk.goscomb.net/debian/
 http://mirror.vorboss.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
+http://uk.mirrors.clouvider.net/debian/
 http://ftp.us.debian.org/debian/
 http://debian-archive.trafficmanager.net/debian/
+http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.gtisc.gatech.edu/debian/
 http://debian.osuosl.org/debian/
+http://la.mirrors.clouvider.net/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
+http://mirrors.bloomu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
@@ -9055,6 +9142,7 @@ http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
+http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://debian.xtdv.net/debian/
