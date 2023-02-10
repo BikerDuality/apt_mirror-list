@@ -15,10 +15,12 @@ http://mirror.internode.on.net/pub/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://mirror.netspace.net.au/pub/ubuntu/	arch:i386 arch:amd64
 http://mirror.overthewire.com.au/ubuntu/	arch:i386 arch:amd64
 http://mirror.easyname.at/ubuntu-archive/	arch:i386 arch:amd64
+https://mirror.alwyzon.net/ubuntu/	arch:amd64
 http://ubuntu.anexia.at/ubuntu/	arch:i386 arch:amd64
 https://mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
 https://mirror.kumi.systems/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://ubuntu.lagis.at/ubuntu/	arch:i386 arch:amd64
+http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
 http://mirror.datacenter.az/ubuntu/	arch:amd64 arch:i386
 https://mirror.hostart.az/Ubuntu/	arch:i386 arch:amd64
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
@@ -96,6 +98,7 @@ http://mirror.lzu.edu.cn/ubuntu/	arch:i386 arch:amd64
 http://mirrors.cqu.edu.cn/ubuntu/	arch:i386 arch:amd64
 http://mirrors.dgut.edu.cn/ubuntu/	arch:ppc64el arch:armhf
 https://edgeuno-bog2.mm.fcix.net/ubuntu/	arch:i386 arch:amd64
+http://mirror.unimagdalena.edu.co/ubuntu/	arch:i386 arch:amd64
 https://mirrors.united.cd/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.ucr.ac.cr/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
@@ -128,7 +131,7 @@ http://miroir.univ-lorraine.fr/ubuntu/	arch:i386 arch:amd64
 https://mirror.crexio.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.johnnybegood.fr/ubuntu/	arch:i386 arch:amd64
 http://mirrors.ircam.fr/pub/ubuntu/archive/	arch:i386 arch:amd64
-http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
+http://mirror.unix-solutions.be/ubuntu/	arch:i386 arch:amd64
 http://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/archive/	arch:i386 arch:amd64
 https://ftp.u-picardie.fr/mirror/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu/	arch:i386 arch:amd64
@@ -236,7 +239,6 @@ https://mirrors.pardisco.co/ubuntu/	arch:i386 arch:amd64
 https://ubuntu-mirror.kimiahost.com/	arch:i386 arch:amd64
 https://ubuntu.bardia.tech/	arch:i386 arch:amd64
 https://archive.ubuntu.petiak.ir/ubuntu/	arch:i386 arch:amd64
-http://ubuntu.byteiran.com/ubuntu/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://ubuntu.hostiran.ir/ubuntuarchive/	arch:i386 arch:amd64
 https://ubuntu.shatel.ir/ubuntu/	arch:i386 arch:amd64
 http://mirror.faraso.org/ubuntu/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:ppc64el arch:s390x
@@ -290,6 +292,7 @@ http://my.mirrors.thegigabit.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.ipserverone.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.myduniahost.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.tuxuri.com/ubuntu/	arch:i386 arch:amd64
+https://ubuntu-mirror.cloud.mu/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://ubuntu-mirror.cloud.mu/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://mirror.nerdmilio.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.as43289.net/ubuntu/	arch:i386 arch:amd64
@@ -363,7 +366,7 @@ https://mirror.truenetwork.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.docker.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.corbina.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.timeweb.ru/ubuntu/
-https://mirror.yer.az/ubuntu/archive/	arch:amd64 arch:i386
+https://mirror.yer.az/ubuntu/archive/	arch:i386 arch:amd64
 http://mirrors.powernet.com.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.logol.ru/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
@@ -562,6 +565,7 @@ http://archive.linux.duke.edu/ubuntu/	arch:i386 arch:amd64
 http://babylon.cs.uh.edu/mirror-sites/ubuntu/	arch:i386 arch:amd64
 https://mirror.d.umn.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.vcea.wsu.edu/ubuntu/	arch:i386 arch:amd64
+http://ubuntu.securedservers.com/	arch:i386 arch:amd64
 http://reflector.westga.edu/repos/Ubuntu/archive/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://ftp.ussg.iu.edu/linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.vcu.edu/pub/gnu+linux/ubuntu/	arch:i386 arch:amd64
