@@ -43,6 +43,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -67,6 +68,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -257,7 +259,6 @@ http://ftp.antik.sk/debian/
 http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
 http://debian.redimadrid.es/debian/
@@ -316,7 +317,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -422,6 +422,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.am.debian.org/debian/
@@ -492,7 +493,6 @@ http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://mirrors.mivocloud.com/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.cl.debian.org/debian/
 http://mirror.insacom.cl/debian/
 http://debian.xtdv.net/debian/
@@ -604,6 +604,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://debian.otenet.gr/debian/
 http://ftp.it.debian.org/debian/
@@ -647,7 +648,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -760,6 +760,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.se.debian.org/debian/
@@ -791,6 +792,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.dk.debian.org/debian/
@@ -853,7 +855,6 @@ http://ftp.yz.yamagata-u.ac.jp/debian/
 http://hanzubon.jp/debian/
 http://mirrors.xtom.jp/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://debian.mirror.iweb.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
@@ -986,7 +987,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -1072,6 +1072,7 @@ http://mirror.alwyzon.net/debian/
 http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://mirror.aarnet.edu.au/debian/
@@ -1088,6 +1089,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -1275,7 +1277,6 @@ http://ftpmirror1.infania.net/debian/
 http://mirrors.glesys.net/debian/
 http://mirror.zetup.net/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
@@ -1339,7 +1340,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -1414,6 +1414,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
@@ -1429,6 +1430,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.cl.debian.org/debian/
 http://mirror.insacom.cl/debian/
@@ -1600,7 +1602,6 @@ http://mirrors.powernet.com.ru/debian/
 http://mirror.surf/debian/
 http://mirror.truenetwork.ru/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
 http://debian.mirror.su.se/debian/
@@ -1678,7 +1679,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -1780,7 +1780,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -1872,7 +1871,6 @@ http://mirrors.layerbridge.com/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://debian.mirror.root.lu/debian/
@@ -1941,6 +1939,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.fr.debian.org/debian/
 http://apt.tetaneutral.net/debian/
@@ -1995,6 +1994,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://mirror.lagoon.nc/debian/
@@ -2121,6 +2121,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -2145,6 +2146,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -2195,7 +2197,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -2356,7 +2357,6 @@ http://mirror.truenetwork.ru/debian/
 http://mirror.coganng.com/debian/
 http://mirror.sg.gs/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
 http://debian.mirror.su.se/debian/
@@ -2423,7 +2423,6 @@ http://ftp.se.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
 http://debian.charite.de/debian/
@@ -2466,7 +2465,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -2491,6 +2489,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -2515,6 +2514,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -2764,7 +2764,6 @@ http://ftp.se.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.jp.debian.org/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
 http://debian.charite.de/debian/
@@ -2805,6 +2804,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -2829,6 +2829,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -2882,7 +2883,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -3105,14 +3105,12 @@ http://ftp.se.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.us.debian.org/debian/
 http://atl.mirrors.clouvider.net/debian/
 http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -3141,6 +3139,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -3174,6 +3173,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.cl.debian.org/debian/
@@ -3453,6 +3453,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -3477,6 +3478,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -3694,7 +3696,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -3716,7 +3717,6 @@ http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://us.mirror.nsec.pt/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
 http://debian.mirror.su.se/debian/
@@ -3829,6 +3829,8 @@ http://debian.mirror.root.lu/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
@@ -3842,8 +3844,6 @@ http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
-http://debian.unnoba.edu.ar/debian/
-http://mirror.sitsa.com.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -3905,7 +3905,6 @@ http://uk.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.layerbridge.com/debian/
@@ -3955,7 +3954,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.csail.mit.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -4022,6 +4020,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://debian.koyanet.lv/debian/
@@ -4061,6 +4060,7 @@ http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirror.telepoint.bg/debian/
+http://mirrors.netix.net/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://mirrors.mivocloud.com/debian/
@@ -4135,6 +4135,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
@@ -4150,6 +4151,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -4376,7 +4378,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -4416,7 +4417,6 @@ http://mirror.bizflycloud.vn/debian/
 http://ftp.by.debian.org/debian/
 http://ftp.byfly.by/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
 http://debian.mirror.su.se/debian/
@@ -4497,7 +4497,6 @@ http://debian.csie.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirror.hoster.kz/debian/
 http://ftp.se.debian.org/debian/
@@ -4550,7 +4549,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.csail.mit.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -4592,6 +4590,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.nl.debian.org/debian/
@@ -4732,6 +4731,7 @@ http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirror.telepoint.bg/debian/
+http://mirrors.netix.net/debian/
 http://ftp.br.debian.org/debian/
 http://alcateia.ufscar.br/debian/
 http://debian.c3sl.ufpr.br/debian/
@@ -4819,6 +4819,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -4843,6 +4844,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.cl.debian.org/debian/
@@ -5022,7 +5024,6 @@ http://mirrors.powernet.com.ru/debian/
 http://mirror.surf/debian/
 http://mirror.truenetwork.ru/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.layerbridge.com/debian/
@@ -5040,7 +5041,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -5151,7 +5151,6 @@ http://ftp.ch.debian.org/debian/
 http://ftp.se.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
 http://debian.charite.de/debian/
@@ -5192,6 +5191,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -5216,6 +5216,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -5270,7 +5271,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -5549,6 +5549,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -5568,6 +5569,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
@@ -5605,7 +5607,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -5638,7 +5639,6 @@ http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
@@ -5861,6 +5861,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
@@ -5878,6 +5879,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.dk.debian.org/debian/
 http://mirror.asergo.com/debian/
@@ -5944,7 +5946,6 @@ http://ftp.yz.yamagata-u.ac.jp/debian/
 http://hanzubon.jp/debian/
 http://mirrors.xtom.jp/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -6095,7 +6096,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -6190,6 +6190,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
@@ -6205,6 +6206,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.cl.debian.org/debian/
@@ -6223,7 +6225,6 @@ http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://debian.grena.ge/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
@@ -6456,7 +6457,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -6529,6 +6529,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.be.debian.org/debian/
@@ -6544,6 +6545,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.cl.debian.org/debian/
 http://mirror.insacom.cl/debian/
@@ -6560,7 +6562,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -6756,7 +6757,6 @@ http://ftpmirror1.infania.net/debian/
 http://mirrors.glesys.net/debian/
 http://mirror.zetup.net/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
@@ -6906,6 +6906,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://debian.unnoba.edu.ar/debian/
@@ -6947,6 +6948,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.lagoon.nc/debian/
 http://mirror.sabay.com.kh/debian/
@@ -6978,7 +6980,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
@@ -7041,7 +7042,6 @@ http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://mirrors.mivocloud.com/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://ftp.ru.debian.org/debian/
@@ -7828,6 +7828,7 @@ http://ftp.au.debian.org/debian/
 http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
+http://mirror.amaze.com.au/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
@@ -7852,6 +7853,7 @@ http://debian.ipacct.com/debian/
 http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
+http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -8042,7 +8044,6 @@ http://ftp.antik.sk/debian/
 http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.is.co.za/debian/
-http://mirror.hostafrica.co.za/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
 http://debian.redimadrid.es/debian/
@@ -8101,7 +8102,6 @@ http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
-http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
