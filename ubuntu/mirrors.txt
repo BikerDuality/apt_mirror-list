@@ -52,7 +52,6 @@ http://mirrors.layeronline.com/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armh
 https://mirror.csclub.uwaterloo.ca/ubuntu/	arch:i386 arch:amd64
 https://mirror.it.ubc.ca/ubuntu/	arch:i386 arch:amd64
 https://mirror.reenigne.net/ubuntu/	arch:i386 arch:amd64
-https://mirror.hep.gg/ubuntu/	arch:i386 arch:amd64
 https://mirrors.switch.ca/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.iweb.ca/	arch:i386 arch:amd64
 http://archive.ubuntu.mirror.rafal.ca/ubuntu/	arch:i386 arch:amd64
@@ -131,7 +130,7 @@ http://mirrors.ircam.fr/pub/ubuntu/archive/
 http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
 https://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/archive/	arch:i386 arch:amd64
 https://ftp.u-picardie.fr/mirror/ubuntu/ubuntu/	arch:i386 arch:amd64
-http://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu/	arch:i386 arch:amd64
+http://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu/
 http://ubuntu.univ-reims.fr/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.grena.ge/ubuntu/	arch:i386 arch:amd64
 http://ftp.halifax.rwth-aachen.de/ubuntu/	arch:i386 arch:amd64
@@ -149,7 +148,7 @@ http://mirror.ipb.de/ubuntu/	arch:i386 arch:amd64
 http://mirror.wtnet.de/ubuntu/	arch:i386 arch:amd64
 https://mirrors.xtom.de/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.tudos.de/ubuntu/
-http://ftp.fau.de/ubuntu/	arch:i386 arch:amd64
+http://ftp.fau.de/ubuntu/
 http://ftp-stud.hs-esslingen.de/ubuntu/	arch:i386 arch:amd64
 http://ftp.uni-kl.de/pub/linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.serverloft.eu/ubuntu/ubuntu/
@@ -481,7 +480,6 @@ http://mirror.lostpacket.org/ubuntu/	arch:i386 arch:amd64
 http://mirror.arizona.edu/ubuntu/	arch:i386 arch:amd64
 http://mirror.brightridge.com/ubuntuarchive/	arch:i386 arch:amd64
 https://mirror.fcix.net/ubuntu/	arch:i386 arch:amd64
-https://mirror.hostduplex.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.lstn.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.nodesdirect.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.pnl.gov/ubuntu/	arch:i386 arch:amd64
