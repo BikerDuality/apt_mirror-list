@@ -80,6 +80,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -95,7 +96,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -184,6 +184,7 @@ http://mirrors.pardisco.co/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -302,6 +303,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
 http://debian.mirror.uk.sargasso.net/debian/
@@ -456,6 +458,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://mirror.lagoon.nc/debian/
@@ -465,6 +468,7 @@ http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -561,7 +565,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -621,6 +624,7 @@ http://mirror.telepoint.bg/debian/
 http://debian.otenet.gr/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -720,6 +724,7 @@ http://ftp.si.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://mirror.nju.edu.cn/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -732,7 +737,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -850,6 +854,7 @@ http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -1027,6 +1032,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
@@ -1171,6 +1177,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -1186,6 +1193,7 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -1304,7 +1312,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -1348,6 +1355,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.us.debian.org/debian/
@@ -1449,6 +1457,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -1537,6 +1546,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -1663,7 +1673,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -1673,6 +1682,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.uk.debian.org/debian/
@@ -1762,7 +1772,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -1842,6 +1851,7 @@ http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -1977,6 +1987,7 @@ http://mirrors.ircam.fr/pub/debian/
 http://debian.otenet.gr/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -2019,6 +2030,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.de.debian.org/debian/
@@ -2177,6 +2189,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -2275,6 +2288,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -2348,7 +2362,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -2403,6 +2416,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
@@ -2544,6 +2558,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -2620,6 +2635,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -2679,7 +2695,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -2747,6 +2762,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
@@ -2868,6 +2884,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -2967,6 +2984,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -3037,7 +3055,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -3085,6 +3102,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
@@ -3206,6 +3224,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -3258,6 +3277,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -3366,7 +3386,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -3434,6 +3453,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
@@ -3520,6 +3540,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -3622,6 +3643,7 @@ http://depot-debian.univ-reunion.fr/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -3690,7 +3712,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -3777,6 +3798,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://debian.xtdv.net/debian/
@@ -3861,17 +3883,17 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://debian.cs.nycu.edu.tw/debian/
+http://tw1.mirror.blendbyte.net/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
-http://debian.cs.nycu.edu.tw/debian/
-http://tw1.mirror.blendbyte.net/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
-http://debian.unnoba.edu.ar/debian/
-http://mirror.sitsa.com.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -3946,6 +3968,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.gnu.gen.tr/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.asis.ai/debian/
@@ -3956,6 +3979,7 @@ http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -4076,6 +4100,7 @@ http://debian.grena.ge/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -4120,7 +4145,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -4198,6 +4222,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -4288,6 +4313,7 @@ http://mirrors.pardisco.co/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -4341,6 +4367,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
 http://debian.lagis.at/debian/
@@ -4403,7 +4430,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -4513,6 +4539,7 @@ http://repo.jing.rocks/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -4601,6 +4628,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
@@ -4635,6 +4663,7 @@ http://debian.otenet.gr/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -4691,7 +4720,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -4894,6 +4922,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -4907,7 +4936,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -5131,10 +5159,12 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -5278,6 +5308,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -5389,6 +5420,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -5456,7 +5488,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -5499,6 +5530,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
@@ -5566,6 +5598,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
@@ -5718,6 +5751,7 @@ http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -5791,7 +5825,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -5835,6 +5868,7 @@ http://debian.c3sl.ufpr.br/debian/
 http://mirror.uepg.br/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -5880,6 +5914,7 @@ http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://mirror.nju.edu.cn/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -5891,7 +5926,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -6175,6 +6209,7 @@ http://debian.cs.nycu.edu.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -6187,6 +6222,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
@@ -6326,6 +6362,7 @@ http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -6345,6 +6382,7 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -6481,7 +6519,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -6492,6 +6529,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://mirror.lagoon.nc/debian/
@@ -6678,6 +6716,7 @@ http://is.mirror.flokinet.net/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -6697,6 +6736,7 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -6826,7 +6866,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -6870,6 +6909,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://debian.xtdv.net/debian/
@@ -6913,6 +6953,7 @@ http://ftp.sk.debian.org/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -7020,7 +7061,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -7187,6 +7227,7 @@ http://mirror.kku.ac.th/debian/
 http://debian.gnu.gen.tr/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -7196,6 +7237,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
 http://debian.mirror.uk.sargasso.net/debian/
@@ -8330,6 +8372,7 @@ http://mirror.insacom.cl/debian/
 http://mirror.ufro.cl/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
@@ -8345,7 +8388,6 @@ http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
 http://ftp.cvut.cz/debian/
 http://ftp.debian.cz/debian/
-http://ftp.sh.cvut.cz/debian/
 http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
@@ -8434,6 +8476,7 @@ http://mirrors.pardisco.co/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.it.debian.org/debian/
 http://debian.connesi.it/debian/
+http://debian.dynamica.it/debian/
 http://debian.mirror.garr.it/debian/
 http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
@@ -8552,6 +8595,7 @@ http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
 http://debian.mirror.uk.sargasso.net/debian/
