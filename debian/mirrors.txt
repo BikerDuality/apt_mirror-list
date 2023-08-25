@@ -83,6 +83,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -214,7 +216,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
 http://debian.snt.utwente.nl/debian/
@@ -242,7 +243,6 @@ http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -470,6 +470,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -490,7 +492,6 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://debian.saix.net/
 http://ftp.is.co.za/debian/
 http://ftp.cl.debian.org/debian/
@@ -584,7 +585,6 @@ http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -724,6 +724,8 @@ http://ftp.us.debian.org/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -893,7 +895,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
 http://debian.charite.de/debian/
@@ -961,7 +962,6 @@ http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -1192,6 +1192,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -1215,7 +1217,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.nz.debian.org/debian/
 http://mirror.fsmg.org.nz/debian/
 http://ftp.no.debian.org/debian/
@@ -1232,7 +1233,6 @@ http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -1456,6 +1456,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -1577,7 +1579,6 @@ http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://mirror.fsmg.org.nz/debian/
@@ -1607,7 +1608,6 @@ http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
 http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -1848,6 +1848,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -1885,7 +1887,6 @@ http://debian.hostiran.ir/debian/
 http://debian.parspack.com/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -1989,7 +1990,6 @@ http://mirror.units.it/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
@@ -2186,6 +2186,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -2308,7 +2310,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://mirror.lagoon.nc/debian/
@@ -2365,7 +2366,6 @@ http://ftp.antik.sk/debian/
 http://ftp.debian.sk/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -2554,6 +2554,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -2656,7 +2658,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://mirror.lagoon.nc/debian/
@@ -2692,7 +2693,6 @@ http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirrors.nic.cz/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -2879,6 +2879,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -2995,7 +2997,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://mirror.lagoon.nc/debian/
@@ -3051,7 +3052,6 @@ http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirrors.nic.cz/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -3218,6 +3218,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -3338,7 +3340,6 @@ http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
@@ -3383,7 +3384,6 @@ http://mirror.it4i.cz/debian/
 http://mirrors.nic.cz/debian/
 http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -3533,6 +3533,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -3654,7 +3656,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://mirror.lagoon.nc/debian/
@@ -3706,7 +3707,6 @@ http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirrors.nic.cz/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -3945,7 +3945,6 @@ http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://debian.saix.net/
 http://ftp.is.co.za/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -4090,6 +4089,8 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -4103,7 +4104,6 @@ http://mirror.telepoint.bg/debian/
 http://mirrors.netix.net/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://debian.mirror.iweb.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
@@ -4213,6 +4213,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -4334,7 +4336,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
 http://debian.snt.utwente.nl/debian/
@@ -4374,7 +4375,6 @@ http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -4528,6 +4528,8 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -4697,7 +4699,6 @@ http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -4814,7 +4815,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.lt.debian.org/debian/
 http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
@@ -4911,6 +4911,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -5025,7 +5027,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
 http://debian.charite.de/debian/
@@ -5086,7 +5087,6 @@ http://mirror.surf/debian/
 http://mirror.truenetwork.ru/debian/
 http://debian.saix.net/
 http://ftp.is.co.za/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -5296,6 +5296,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -5425,7 +5427,6 @@ http://mirror.vpsnet.com/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://mirror.lagoon.nc/debian/
@@ -5481,7 +5482,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -5638,7 +5638,6 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.pl.debian.org/debian/
 http://debian.inhost.pro/debian/
 http://ftp.agh.edu.pl/debian/
@@ -5737,6 +5736,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -5818,7 +5819,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -5899,6 +5899,8 @@ http://ftp.it.debian.org/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -6072,7 +6074,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://ftp.de.debian.org/debian/
@@ -6129,7 +6130,6 @@ http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -6366,6 +6366,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -6390,7 +6392,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
@@ -6422,7 +6423,6 @@ http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -6719,6 +6719,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -6742,7 +6744,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
 http://debian.snt.utwente.nl/debian/
@@ -6770,7 +6771,6 @@ http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -7124,7 +7124,6 @@ http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://debian.saix.net/
 http://ftp.is.co.za/debian/
 http://ftp.no.debian.org/debian/
@@ -7168,7 +7167,6 @@ http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
@@ -7208,6 +7206,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -8354,6 +8354,8 @@ http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
+http://mirrors.huaweicloud.com/debian/
+http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
@@ -8485,7 +8487,6 @@ http://mirror-mk.interspace.com/debian/
 http://mirror.onevip.mk/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://mirrors.mivocloud.com/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.mirror.cambrium.nl/debian/
 http://debian.snt.utwente.nl/debian/
@@ -8513,7 +8514,6 @@ http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
-http://mirror.linux.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
