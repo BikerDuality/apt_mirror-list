@@ -89,6 +89,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.hr.debian.org/debian/
@@ -146,7 +147,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -476,6 +476,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.kr.debian.org/debian/
@@ -542,7 +543,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -730,6 +730,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://debian.otenet.gr/debian/
 http://ftp.cz.debian.org/debian/
@@ -909,7 +910,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -1198,6 +1198,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -1328,7 +1329,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -1462,6 +1462,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.dk.debian.org/debian/
@@ -1483,7 +1484,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -1854,6 +1854,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.dk.debian.org/debian/
 http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
@@ -2041,7 +2042,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -2115,7 +2115,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -2192,6 +2191,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -2462,7 +2462,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -2560,6 +2559,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -2808,7 +2808,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -2885,6 +2884,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -3224,6 +3224,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.dk.debian.org/debian/
 http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
@@ -3294,7 +3295,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -3539,6 +3539,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -3590,7 +3591,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -3893,7 +3893,6 @@ http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
 http://debian.tu-bs.de/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
@@ -4094,6 +4093,7 @@ http://mirrors.jlu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.bg.debian.org/debian/
 http://debian.a1.bg/debian/
 http://debian.ipacct.com/debian/
@@ -4219,6 +4219,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.dk.debian.org/debian/
@@ -4240,7 +4241,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -4533,6 +4533,7 @@ http://mirrors.jlu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debian.cs.nycu.edu.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
 http://debian.saix.net/
@@ -4734,7 +4735,6 @@ http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
 http://debian.tu-bs.de/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
@@ -4917,6 +4917,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
@@ -5041,7 +5042,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -5222,7 +5222,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -5302,6 +5301,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -5742,6 +5742,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
@@ -5785,7 +5786,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -5905,6 +5905,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
@@ -6090,7 +6091,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -6372,6 +6372,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -6448,7 +6449,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -6725,6 +6725,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -6866,7 +6867,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -6952,7 +6952,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -7212,6 +7211,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debian.astra.in.ua/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
@@ -8360,6 +8360,7 @@ http://mirror.sjtu.edu.cn/debian/
 http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
+http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.hr.debian.org/debian/
@@ -8417,7 +8418,6 @@ http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
-http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
