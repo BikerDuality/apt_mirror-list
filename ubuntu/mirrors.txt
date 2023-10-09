@@ -184,7 +184,7 @@ http://www.ubuntu.org.tw/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x 
 http://repo.jztkft.hu/ubuntu/	arch:i386 arch:amd64
 https://mirror.niif.hu/ubuntu/	arch:i386 arch:amd64
 https://quantum-mirror.hu/mirrors/pub/ubuntu/	arch:i386 arch:amd64
-https://mirrors.sth.sze.hu/ubuntu/	arch:i386 arch:amd64
+https://mirrors.sth.sze.hu/ubuntu/	arch:amd64 arch:i386
 http://ubuntu.hysing.is/ubuntu/	arch:i386 arch:amd64
 https://is.mirror.flokinet.net/ubuntu/	arch:i386 arch:amd64
 https://mirrors.opensource.is/ubuntu/	arch:i386 arch:amd64
