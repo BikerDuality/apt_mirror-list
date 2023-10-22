@@ -85,7 +85,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -93,6 +92,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
@@ -496,7 +496,6 @@ http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -504,6 +503,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
@@ -771,13 +771,13 @@ http://ftp.tw.debian.org/debian/
 http://ftp.tr.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.163.com/debian/
@@ -1258,7 +1258,6 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -1266,6 +1265,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -1545,7 +1545,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -1553,6 +1552,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
@@ -1954,7 +1954,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -1962,6 +1961,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -2354,7 +2354,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -2362,6 +2361,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -2691,7 +2691,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -2699,6 +2698,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -3060,7 +3060,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -3068,6 +3067,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.dk.debian.org/debian/
@@ -3388,7 +3388,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -3396,6 +3395,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -3752,6 +3752,8 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
@@ -3764,8 +3766,6 @@ http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
-http://debian.unnoba.edu.ar/debian/
-http://mirror.sitsa.com.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -3981,7 +3981,6 @@ http://mirror.uepg.br/debian/
 http://debian.grena.ge/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
@@ -3989,6 +3988,7 @@ http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.bg.debian.org/debian/
@@ -4112,7 +4112,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -4120,6 +4119,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
@@ -4451,7 +4451,6 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
@@ -4459,6 +4458,7 @@ http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.tw.debian.org/debian/
@@ -4854,7 +4854,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -4862,6 +4861,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.hr.debian.org/debian/
@@ -5262,7 +5262,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -5270,6 +5269,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -5742,7 +5742,6 @@ http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -5750,6 +5749,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debian.interhost.co.il/debian/
@@ -5909,13 +5909,13 @@ http://ftp.it.debian.org/debian/
 http://ftp.tr.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.163.com/debian/
@@ -6393,7 +6393,6 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -6401,6 +6400,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -6781,7 +6781,6 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -6789,6 +6788,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://ftp.kr.debian.org/debian/
@@ -7295,7 +7295,6 @@ http://debian.gnu.gen.tr/debian/
 http://ftp.linux.org.tr/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -7303,6 +7302,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debian.astra.in.ua/debian/
@@ -8529,7 +8529,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.bjtu.edu.cn/debian/
-http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
@@ -8537,6 +8536,7 @@ http://mirrors.hit.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirror.sjtu.edu.cn/debian/
+http://mirrors.neusoft.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
