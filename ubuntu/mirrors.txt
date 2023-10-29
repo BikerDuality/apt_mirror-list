@@ -367,7 +367,7 @@ http://mirror.corbina.net/ubuntu/	arch:i386 arch:amd64
 https://mirror.hyperdedic.ru/ubuntu/	arch:i386 arch:amd64
 https://mirror.neftm.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.timeweb.ru/ubuntu/	arch:i386 arch:amd64
-https://mirror.yer.az/ubuntu/archive/	arch:i386 arch:amd64
+https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
 http://mirrors.powernet.com.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.logol.ru/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
@@ -375,6 +375,7 @@ http://mirror1.sox.rs/ubuntu/ubuntu/	arch:i386 arch:amd64
 https://mirror1.sox.rs/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://ossmirror.mycloud.services/os/linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.sg.gs/ubuntu/	arch:i386 arch:amd64
+http://download.nus.edu.sg/mirror/ubuntu/	arch:amd64 arch:i386
 http://mirror.aktkn.sg/ubuntu/	arch:i386 arch:amd64
 https://in.mirror.coganng.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.coganng.com/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
@@ -459,7 +460,6 @@ http://mirror.ox.ac.uk/sites/archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.sov.uk.goscomb.net/ubuntu/	arch:i386 arch:amd64
 https://mirror.vinehost.net/ubuntu/	arch:i386 arch:amd64
 http://mirrors.coreix.net/ubuntu/	arch:i386 arch:amd64
-https://mirrors.gethosted.online/ubuntu/	arch:i386 arch:amd64
 http://mirrors.melbourne.co.uk/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirrors.uk2.net/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x arch:ppc64el
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
@@ -557,7 +557,6 @@ http://repos.interior.edu.uy/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.repo.cure.edu.uy/mirror/	arch:i386 arch:amd64
 http://mirror.dc.uz/ubuntu/	arch:i386 arch:amd64
 http://mirror.bizflycloud.vn/ubuntu/	arch:i386 arch:amd64
-http://mirror.vietnix.vn/ubuntu/	arch:i386 arch:amd64
 http://mirror.viettelcloud.vn/ubuntu/	arch:i386 arch:amd64
 https://mirrors.bkns.vn/ubuntu/	arch:i386 arch:amd64
 http://mirrors.vhost.vn/ubuntu/	arch:i386 arch:amd64
