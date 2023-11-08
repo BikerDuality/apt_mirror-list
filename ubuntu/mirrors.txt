@@ -259,11 +259,12 @@ http://ftp.tsukuba.wide.ad.jp/Linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.fairway.ne.jp/ubuntu/	arch:amd64 arch:i386
 http://ubuntutym.u-toyama.ac.jp/ubuntu/
 https://jp.mirror.coganng.com/ubuntu/	arch:i386 arch:amd64
-https://jp.mirror.coganng.com/ubuntu-ports/	arch:s390x arch:arm64 arch:armhf arch:ppc64el
+https://jp.mirror.coganng.com/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://www.ftp.ne.jp/Linux/packages/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.hoster.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.neolabs.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.ps.kz/ubuntu/	arch:i386 arch:amd64
+https://ftp.kaist.ac.kr/ubuntu/	arch:i386 arch:amd64
 https://mirror.kakao.com/ubuntu/	arch:i386 arch:amd64
 http://ftp.daum.net/ubuntu/	arch:i386 arch:amd64
 https://ftp.lanet.kr/ubuntu/	arch:i386 arch:amd64
@@ -271,7 +272,7 @@ https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
-https://mirror.yuki.net.uk/ubuntu-ports/	arch:ppc64el arch:s390x arch:arm64 arch:armhf
+https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
 http://mirror.cloudhosting.lv/ubuntu/
 http://ubuntu-arch.linux.edu.lv/ubuntu/	arch:i386 arch:amd64
