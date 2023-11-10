@@ -169,7 +169,6 @@ http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
@@ -218,6 +217,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -411,12 +411,12 @@ http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -856,7 +856,6 @@ http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.cl.debian.org/debian/
 http://debian.redlibre.cl/debian/
@@ -949,6 +948,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -1181,6 +1181,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -1188,7 +1189,6 @@ http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.by.debian.org/debian/
 http://ftp.byfly.by/debian/
@@ -1573,7 +1573,6 @@ http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -1630,6 +1629,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -1985,7 +1985,6 @@ http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
@@ -2036,6 +2035,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -2342,7 +2342,6 @@ http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
@@ -2395,6 +2394,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -2702,7 +2702,6 @@ http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
@@ -2743,6 +2742,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -2939,6 +2939,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -2991,7 +2992,6 @@ http://debian.grena.ge/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -3373,7 +3373,6 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -3417,6 +3416,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -3712,7 +3712,6 @@ http://uk.mirrors.clouvider.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
-http://mirrors.nexet.hk/debian/
 http://debian.saix.net/
 http://ftp.is.co.za/debian/
 http://mirror.linux.ro/debian/
@@ -3796,6 +3795,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -4065,7 +4065,6 @@ http://debian.otenet.gr/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
@@ -4115,6 +4114,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -4448,6 +4448,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -4625,7 +4626,6 @@ http://ftp.lanet.kr/debian/
 http://mirror.misakamikoto.network/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
-http://mirrors.nexet.hk/debian/
 http://ftp.am.debian.org/debian/
 http://ftp.au.debian.org/debian/
 http://ftp.at.debian.org/debian/
@@ -4774,6 +4774,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -4781,7 +4782,6 @@ http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -5200,6 +5200,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -5207,7 +5208,6 @@ http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
@@ -5449,7 +5449,6 @@ http://debian.sil.at/debian/
 http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
@@ -5556,6 +5555,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -5818,6 +5818,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -5825,7 +5826,6 @@ http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
@@ -6089,6 +6089,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -6146,7 +6147,6 @@ http://debian.saix.net/
 http://ftp.is.co.za/debian/
 http://debian.grena.ge/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
@@ -6544,7 +6544,6 @@ http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -6610,6 +6609,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -6961,6 +6961,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
@@ -6968,7 +6969,6 @@ http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.misakamikoto.network/debian/
@@ -8393,7 +8393,6 @@ http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
-http://mirrors.nexet.hk/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
@@ -8442,6 +8441,7 @@ http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.duocast.net/debian/
 http://mirror.i3d.net/debian/
+http://mirror.nforce.com/debian/
 http://mirror.nl.datapacket.com/debian/
 http://mirror.nl.leaseweb.net/debian/
 http://mirror.seedvps.com/debian/
