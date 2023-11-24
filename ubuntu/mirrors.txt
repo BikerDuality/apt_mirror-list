@@ -63,7 +63,7 @@ http://ubuntu.mirror.globo.tech/	arch:i386 arch:amd64
 http://gpl.savoirfairelinux.net/pub/mirrors/ubuntu/	arch:i386 arch:amd64
 http://mirror.its.dal.ca/ubuntu/	arch:i386 arch:amd64
 ftp://ftp.cs.mun.ca/pub/mirror/ubuntu/	arch:i386 arch:amd64
-http://ubuntu.mirror.rafal.ca/ubuntu/	arch:i386 arch:amd64
+http://ubuntu.mirror.rafal.ca/ubuntu/
 https://mirror.hnd.cl/ubuntu/	arch:i386 arch:amd64
 http://mirror.uchile.cl/ubuntu/	arch:i386 arch:amd64
 https://mirrors.tuna.tsinghua.edu.cn/ubuntu/	arch:i386 arch:amd64
@@ -270,13 +270,14 @@ https://ftp.kaist.ac.kr/ubuntu/	arch:i386 arch:amd64
 https://mirror.kakao.com/ubuntu/	arch:i386 arch:amd64
 http://ftp.daum.net/ubuntu/	arch:i386 arch:amd64
 https://ftp.lanet.kr/ubuntu/	arch:i386 arch:amd64
-https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
+https://ftp.lanet.kr/ubuntu-ports/
 https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
 http://mirror.cloudhosting.lv/ubuntu/
+http://ubuntu-arch.linux.edu.lv/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.koyanet.lv/ubuntu/	arch:i386 arch:amd64
 https://mirror.vpsnet.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu-archive.mirror.serveriai.lt/	arch:i386 arch:amd64
@@ -301,7 +302,7 @@ http://download.nust.na/pub/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.ntc.net.np/ubuntu/
 http://ubuntu.ntc.net.np/ubuntu/
 http://mirror.nl.datapacket.com/ubuntu/	arch:i386 arch:amd64
-http://nl.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
+http://nl.archive.ubuntu.com/ubuntu/
 http://ftp.nluug.nl/os/Linux/distr/ubuntu/	arch:i386 arch:amd64
 http://ftp.snt.utwente.nl/pub/os/linux/ubuntu/	arch:i386 arch:amd64
 https://mirror.lyrahosting.com/ubuntuarchive/	arch:i386 arch:amd64
