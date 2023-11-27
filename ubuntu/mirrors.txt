@@ -88,6 +88,7 @@ http://mirrors.yun-idc.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.zju.edu.cn/ubuntu/	arch:amd64 arch:armhf arch:ppc64el arch:s390x arch:i386 arch:arm64
 http://mirror.lzu.edu.cn/ubuntu/	arch:i386 arch:amd64
 http://mirrors.cqu.edu.cn/ubuntu/	arch:i386 arch:amd64
+http://mirrors.dgut.edu.cn/ubuntu/
 https://edgeuno-bog2.mm.fcix.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.unimagdalena.edu.co/ubuntu/	arch:i386 arch:amd64
 https://mirrors.united.cd/ubuntu/	arch:i386 arch:amd64
@@ -112,7 +113,7 @@ http://mirror.cedia.org.ec/ubuntu/	arch:i386 arch:amd64
 https://mirrors.xtom.ee/ubuntu/
 https://mirror.5i.fi/ubuntu/	arch:i386 arch:amd64
 http://mirrors.nic.funet.fi/ubuntu/	arch:i386 arch:amd64
-https://mirror.ubuntu.ikoula.com/
+https://mirror.ubuntu.ikoula.com/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirrors.ovh.net/ubuntu/
 http://mirror.plusserver.com/ubuntu/ubuntu/	arch:i386 arch:amd64
@@ -291,7 +292,7 @@ http://mirror.t-home.mk/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.dts.mg/ubuntu/	arch:amd64 arch:i386
 https://mirrors.gbnetwork.com/ubuntu/	arch:i386 arch:amd64
 http://my.mirrors.thegigabit.com/ubuntu/	arch:i386 arch:amd64
-https://mirrors.ipserverone.com/ubuntu/
+https://mirrors.ipserverone.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.tuxuri.com/ubuntu/	arch:i386 arch:amd64
 https://ubuntu-mirror.cloud.mu/ubuntu/	arch:i386 arch:amd64
 https://ubuntu-mirror.cloud.mu/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
@@ -450,7 +451,7 @@ http://mirror.cov.ukservers.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.pulsant.com/sites/ubuntu-archive/	arch:i386 arch:amd64
 http://mirror.vorboss.net/ubuntu-archive/	arch:i386 arch:amd64
 http://mirrors.ukfast.co.uk/sites/archive.ubuntu.com/	arch:i386 arch:amd64
-http://www.mirrorservice.org/sites/archive.ubuntu.com/ubuntu/
+http://www.mirrorservice.org/sites/archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 https://uk.mirrors.clouvider.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.as29550.net/archive.ubuntu.com/	arch:i386 arch:amd64
 http://mirror.bytemark.co.uk/ubuntu/	arch:i386 arch:amd64
