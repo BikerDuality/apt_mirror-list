@@ -75,6 +75,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -157,7 +158,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -185,6 +185,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -285,7 +286,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -517,6 +517,7 @@ http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.yuki.net.uk/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -546,6 +547,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://ftp.dk.debian.org/debian/
 http://mirror.asergo.com/debian/
@@ -580,7 +582,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -618,7 +619,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -813,7 +813,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -910,6 +909,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
@@ -931,6 +931,7 @@ http://debian.mirror.iweb.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
 http://debian.mirror.ac.ke/debian/
@@ -972,7 +973,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -1191,6 +1191,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -1250,6 +1251,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -1354,7 +1356,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -1432,7 +1433,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -1603,7 +1603,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -1651,6 +1650,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -1671,6 +1671,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -1775,7 +1776,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -1916,7 +1916,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -1974,6 +1973,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -2017,7 +2017,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -2085,6 +2084,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -2292,7 +2292,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -2381,6 +2380,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -2423,7 +2423,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -2460,6 +2459,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -2667,7 +2667,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -2725,6 +2724,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -2771,7 +2771,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -2836,6 +2835,7 @@ http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -3137,6 +3137,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
@@ -3188,7 +3189,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -3206,6 +3206,7 @@ http://mirror.wtnet.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -3315,7 +3316,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -3432,6 +3432,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -3507,7 +3508,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -3535,6 +3535,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -3653,7 +3654,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -3845,7 +3845,6 @@ http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -3939,6 +3938,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
@@ -3993,7 +3993,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -4070,6 +4069,7 @@ http://debian.mirror.iweb.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.sabay.com.kh/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
@@ -4168,6 +4168,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -4212,7 +4213,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -4264,6 +4264,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -4376,7 +4377,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -4572,6 +4572,7 @@ http://debian.mirror.iweb.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
 http://debian.redimadrid.es/debian/
@@ -4580,7 +4581,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -4692,6 +4692,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -4755,7 +4756,6 @@ http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -4994,7 +4994,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -5015,6 +5014,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -5028,6 +5028,7 @@ http://ftp.riken.jp/Linux/debian/debian/
 http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -5068,7 +5069,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -5276,7 +5276,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -5336,6 +5335,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -5384,7 +5384,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -5461,6 +5460,7 @@ http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -5674,6 +5674,7 @@ http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
@@ -5790,6 +5791,7 @@ http://mirror.sg.gs/debian/
 http://mirror.soonkeat.sg/debian/
 http://ossmirror.mycloud.services/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -5893,7 +5895,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -5946,7 +5947,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -6112,6 +6112,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -6136,6 +6137,7 @@ http://debian.mirror.iweb.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
 http://debian.mirror.ac.ke/debian/
@@ -6156,7 +6158,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -6201,7 +6202,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -6430,7 +6430,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -6442,6 +6441,7 @@ http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
@@ -6486,6 +6486,7 @@ http://ftp.riken.jp/Linux/debian/debian/
 http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -6589,7 +6590,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -6857,6 +6857,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -6877,6 +6878,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -6984,7 +6986,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -7055,7 +7056,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -7144,7 +7144,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -7230,6 +7229,7 @@ http://mirror.telepoint.bg/debian/
 http://mirror.lagoon.nc/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -7310,6 +7310,7 @@ http://repo.jztkft.hu/debian/
 http://debian.otenet.gr/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -7387,7 +7388,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
@@ -8648,6 +8648,7 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://debian.mirror.iweb.ca/debian/
+http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.csclub.uwaterloo.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
@@ -8730,7 +8731,6 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
-http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -8758,6 +8758,7 @@ http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
+http://mirror.poliwangi.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://debian.hostiran.ir/debian/
@@ -8858,7 +8859,6 @@ http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://ftp.udc.es/debian/
-http://mirror.librelabucm.org/debian/
 http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
