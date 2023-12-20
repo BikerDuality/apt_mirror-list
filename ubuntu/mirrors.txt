@@ -185,7 +185,7 @@ http://mirror.as.kamatera.com/ubuntu/	arch:i386 arch:amd64
 http://repo.jztkft.hu/ubuntu/	arch:i386 arch:amd64
 https://mirror.niif.hu/ubuntu/	arch:i386 arch:amd64
 https://quantum-mirror.hu/mirrors/pub/ubuntu/	arch:i386 arch:amd64
-https://mirrors.sth.sze.hu/ubuntu/	arch:amd64 arch:i386
+https://mirrors.sth.sze.hu/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.hysing.is/ubuntu/	arch:i386 arch:amd64
 https://is.mirror.flokinet.net/ubuntu/	arch:i386 arch:amd64
 https://mirrors.opensource.is/ubuntu/	arch:i386 arch:amd64
@@ -423,7 +423,6 @@ https://ftp.tc.edu.tw/Linux/ubuntu/	arch:i386 arch:amd64
 http://ftp.tku.edu.tw/ubuntu/	arch:i386 arch:amd64
 http://mirror.nwlab.tk/ubuntu/	arch:i386 arch:amd64
 https://tw1.mirror.blendbyte.net/ubuntu/	arch:i386 arch:amd64
-https://ubuntu.ccns.ncku.edu.tw/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.cs.nctu.edu.tw/ubuntu/	arch:i386 arch:amd64
 http://ftp.mirror.tw/pub/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://mirror01.idc.hinet.net/ubuntu/	arch:i386 arch:amd64 arch:s390x
