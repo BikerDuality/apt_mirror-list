@@ -156,6 +156,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -575,6 +576,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -961,6 +963,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -1416,6 +1419,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -1587,6 +1591,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -1896,6 +1901,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -2268,6 +2274,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -2639,6 +2646,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -3158,6 +3166,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -3471,6 +3480,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -3768,6 +3778,12 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://ftp.tw.debian.org/debian/
+http://debian.cs.nycu.edu.tw/debian/
+http://debian.csie.ntu.edu.tw/debian/
+http://ftp.tku.edu.tw/debian/
+http://opensource.nchc.org.tw/debian/
+http://tw1.mirror.blendbyte.net/debian/
 http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
@@ -3779,12 +3795,6 @@ http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
-http://ftp.tw.debian.org/debian/
-http://debian.cs.nycu.edu.tw/debian/
-http://debian.csie.ntu.edu.tw/debian/
-http://ftp.tku.edu.tw/debian/
-http://opensource.nchc.org.tw/debian/
-http://tw1.mirror.blendbyte.net/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -3803,6 +3813,7 @@ http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -4168,6 +4179,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -4703,6 +4715,7 @@ http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -5013,6 +5026,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -5220,6 +5234,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -5832,6 +5847,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -6134,6 +6150,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -6520,6 +6537,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -6980,6 +6998,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -7068,6 +7087,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
@@ -8655,6 +8675,7 @@ http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
+http://ftp.uni-bayreuth.de/debian/
 http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
