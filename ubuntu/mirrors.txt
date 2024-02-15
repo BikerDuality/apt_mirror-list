@@ -1,5 +1,6 @@
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.sitsa.com.ar/ubuntu/	arch:i386 arch:amd64
+https://ubuntu.zero.com.ar/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.unc.edu.ar/ubuntu/	arch:i386 arch:amd64
 http://mirrors.asnet.am/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.gnc.am/ubuntu/	arch:i386 arch:amd64
@@ -275,7 +276,7 @@ https://mirror.kakao.com/ubuntu/	arch:amd64 arch:i386
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 http://ftp.daum.net/ubuntu/	arch:i386 arch:amd64
 https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
-https://mirror.elice.io/ubuntu/
+https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
