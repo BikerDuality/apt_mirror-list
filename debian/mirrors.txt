@@ -353,6 +353,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -712,6 +713,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -1069,6 +1071,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -1455,6 +1458,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -1819,6 +1823,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -2010,6 +2015,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -2297,6 +2303,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -2750,6 +2757,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -2994,6 +3002,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -3620,6 +3629,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -3749,6 +3759,9 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nycu.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
@@ -3761,9 +3774,6 @@ http://ftp.eq.uc.pt/software/Linux/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://artfiles.org/debian/
@@ -3900,6 +3910,7 @@ http://mirror.us.oneandone.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
@@ -4355,6 +4366,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -4544,6 +4556,7 @@ http://mirror.us.oneandone.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
 http://mirrors.xtom.com/debian/
@@ -5068,6 +5081,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -5321,6 +5335,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -5682,6 +5697,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -6201,6 +6217,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -6595,6 +6612,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -6709,6 +6727,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -7165,6 +7184,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
@@ -8782,6 +8802,7 @@ http://mirrors.accretive-networks.net/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
+http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
