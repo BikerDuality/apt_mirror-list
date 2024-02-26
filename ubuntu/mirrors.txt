@@ -30,7 +30,6 @@ http://ftp.belnet.be/ubuntu/	arch:i386 arch:amd64
 https://mirrors-ubuntu.behostings.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.unix-solutions.be/ubuntu/	arch:i386 arch:amd64
 http://archive.ubuntu.mirror.ba/ubuntu/	arch:i386 arch:amd64
-http://mirror.retentionrange.co.bw/ubuntu/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.uepg.br/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.c3sl.ufpr.br/ubuntu/	arch:i386 arch:amd64
 http://mirror.ufam.edu.br/ubuntu/	arch:i386 arch:amd64
@@ -39,7 +38,7 @@ http://mirror.unesp.br/ubuntu/	arch:i386 arch:amd64
 http://sft.if.usp.br/ubuntu/	arch:i386 arch:amd64
 http://ubuntu-archive.locaweb.com.br/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.letscloud.io/ubuntu/	arch:i386 arch:amd64
-http://ubuntu.mti.mt.gov.br/	arch:amd64
+http://ubuntu.mti.mt.gov.br/
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.telepoint.bg/ubuntu/	arch:i386 arch:amd64
 https://mirrors.storpool.com/ubuntu/archive/	arch:i386 arch:amd64
@@ -280,7 +279,7 @@ https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
-https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
+https://mirror.yuki.net.uk/ubuntu/
 https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
 http://mirror.cloudhosting.lv/ubuntu/	arch:i386 arch:amd64
@@ -532,7 +531,7 @@ http://mirror.math.ucdavis.edu/ubuntu/	arch:i386 arch:amd64
 http://mirror.metrocast.net/ubuntu/	arch:i386 arch:amd64
 https://mirror.mia.velocihost.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.mrjester.net/ubuntu/archive/	arch:i386 arch:amd64
-http://mirror.steadfastnet.com/ubuntu/	arch:i386 arch:amd64
+http://mirror.steadfastnet.com/ubuntu/
 http://mirror.team-cymru.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.team-cymru.org/ubuntu/	arch:i386 arch:amd64
 http://mirror.uoregon.edu/ubuntu/	arch:i386 arch:amd64
