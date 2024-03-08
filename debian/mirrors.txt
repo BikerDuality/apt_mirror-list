@@ -307,7 +307,6 @@ http://mirror.sinavps.ch/debian/
 http://pkg.adfinis.com/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -692,7 +691,6 @@ http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -1101,7 +1099,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -1391,7 +1388,6 @@ http://debian.saix.net/
 http://ftp.is.co.za/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -1785,7 +1781,6 @@ http://debian.gnu.gen.tr/debian/
 http://ftp.linux.org.tr/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -2220,7 +2215,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -2590,7 +2584,6 @@ http://mirror.sinavps.ch/debian/
 http://pkg.adfinis.com/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -2958,7 +2951,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -3335,7 +3327,6 @@ http://mirror.sinavps.ch/debian/
 http://pkg.adfinis.com/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.debianclub.org/debian/
 http://ftp.tku.edu.tw/debian/
 http://mirror.applebred.net/debian/
@@ -3707,7 +3698,6 @@ http://mirror.sinavps.ch/debian/
 http://pkg.adfinis.com/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -3811,8 +3801,10 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
@@ -3824,9 +3816,6 @@ http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://debian.unnoba.edu.ar/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -4382,7 +4371,6 @@ http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -4536,7 +4524,6 @@ http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
 http://ftp.tw.debian.org/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
@@ -5181,7 +5168,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -5577,7 +5563,6 @@ http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -5656,7 +5641,6 @@ http://mirror.plusserver.com/debian/debian/
 http://mirrors.ircam.fr/pub/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -6314,7 +6298,6 @@ http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -6627,7 +6610,6 @@ http://mirror.sinavps.ch/debian/
 http://pkg.adfinis.com/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -7013,7 +6995,6 @@ http://debian.saix.net/
 http://ftp.is.co.za/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -7169,7 +7150,6 @@ http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
@@ -8856,7 +8836,6 @@ http://mirror.sinavps.ch/debian/
 http://pkg.adfinis.com/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
-http://debian.cs.nycu.edu.tw/debian/
 http://ftp.tku.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
