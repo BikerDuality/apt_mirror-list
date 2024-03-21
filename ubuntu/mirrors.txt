@@ -24,6 +24,7 @@ http://mirror.datacenter.az/ubuntu/	arch:amd64 arch:i386
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.yer.az/ubuntu/archive/	arch:i386 arch:amd64
 https://mirror.xeonbd.com/ubuntu-archive/	arch:i386 arch:amd64
+http://mirror.dhakacom.com/ubuntu-archive/	arch:i386 arch:amd64
 http://ftp.byfly.by/ubuntu/	arch:i386 arch:amd64
 http://mirror.datacenter.by/ubuntu/	arch:i386 arch:amd64
 http://ftp.belnet.be/ubuntu/	arch:i386 arch:amd64
@@ -66,7 +67,7 @@ http://mirror.uchile.cl/ubuntu/	arch:i386 arch:amd64
 https://elmirror.cl/ubuntu/	arch:i386 arch:amd64
 https://mirror.ufro.cl/ubuntu/	arch:i386 arch:amd64
 https://mirrors.tuna.tsinghua.edu.cn/ubuntu/	arch:i386 arch:amd64
-https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/	arch:armhf arch:ppc64el arch:s390x arch:arm64
+https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.nju.edu.cn/ubuntu/	arch:i386 arch:amd64
 https://mirror.nyist.edu.cn/ubuntu/	arch:i386 arch:amd64
 https://mirrors.bupt.edu.cn/ubuntu/	arch:i386 arch:amd64
@@ -260,6 +261,7 @@ https://linux.yz.yamagata-u.ac.jp/ubuntu/	arch:i386 arch:amd64
 https://mirror.nishi.network/ubuntu/	arch:i386 arch:amd64
 https://mirror.nishi.network/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://repo.jing.rocks/ubuntu-ports/	arch:arm64 arch:s390x arch:armhf arch:ppc64el
+https://repo.jing.rocks/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://ftp.jaist.ac.jp/pub/Linux/ubuntu/	arch:i386 arch:amd64
 http://ftp.riken.jp/Linux/ubuntu/	arch:i386 arch:amd64
 http://ftp.tsukuba.wide.ad.jp/Linux/ubuntu/	arch:i386 arch:amd64
@@ -435,6 +437,7 @@ http://ftp.tku.edu.tw/ubuntu/	arch:i386 arch:amd64
 http://mirror.nwlab.tk/ubuntu/	arch:i386 arch:amd64
 https://tw1.mirror.blendbyte.net/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.ccns.ncku.edu.tw/ubuntu/	arch:i386 arch:amd64
+http://ubuntu.cs.nctu.edu.tw/ubuntu/	arch:i386 arch:amd64
 http://ftp.mirror.tw/pub/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://mirror01.idc.hinet.net/ubuntu/	arch:i386 arch:amd64 arch:s390x
 http://mirror.aptus.co.tz/pub/ubuntuarchive/	arch:i386 arch:amd64
