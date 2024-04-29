@@ -209,7 +209,7 @@ https://mirror.amscloud.co.id/ubuntu/	arch:i386 arch:amd64
 https://mirror.faizuladib.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.repository.id/ubuntu/	arch:i386 arch:amd64
 https://mr.heru.id/ubuntu/	arch:i386 arch:amd64
-https://sby.mirror.bignet.id/ubuntu/
+https://sby.mirror.bignet.id/ubuntu/	arch:i386 arch:amd64
 https://buaya.klas.or.id/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://kartolo.sby.datautama.net.id/ubuntu/	arch:i386 arch:amd64
@@ -232,7 +232,6 @@ https://ubuntu-mirror.kimiahost.com/	arch:i386 arch:amd64
 https://mirror.0-1.cloud/ubuntu/	arch:amd64 arch:i386
 http://mirror.aminidc.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.iranserver.com/ubuntu/	arch:i386 arch:amd64
-https://mirror.rasanegar.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.pardisco.co/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.hostiran.ir/ubuntuarchive/	arch:i386 arch:amd64
 https://archive.ubuntu.petiak.ir/ubuntu/	arch:i386 arch:amd64
@@ -274,7 +273,7 @@ http://mirror.hoster.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.neolabs.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.ps.kz/ubuntu/	arch:i386 arch:amd64
 https://ftp.kaist.ac.kr/ubuntu/	arch:i386 arch:amd64
-https://ftp.kaist.ac.kr/ubuntu-ports/
+https://ftp.kaist.ac.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.kakao.com/ubuntu/	arch:i386 arch:amd64
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 http://ftp.daum.net/ubuntu/	arch:i386 arch:amd64
@@ -389,7 +388,7 @@ http://mirror.corbina.net/ubuntu/	arch:i386 arch:amd64
 https://mirror.hyperdedic.ru/ubuntu/	arch:i386 arch:amd64
 https://mirror.neftm.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.timeweb.ru/ubuntu/	arch:i386 arch:amd64
-https://mirror.yer.az/ubuntu/archive/
+https://mirror.yer.az/ubuntu/archive/	arch:i386 arch:amd64
 http://mirrors.powernet.com.ru/ubuntu/	arch:i386 arch:amd64
 http://mirror.logol.ru/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
@@ -489,6 +488,7 @@ https://mirror.vinehost.net/ubuntu/	arch:i386 arch:amd64
 http://mirrors.coreix.net/ubuntu/	arch:i386 arch:amd64
 https://mirrors.gethosted.online/ubuntu/	arch:i386 arch:amd64
 http://mirrors.melbourne.co.uk/ubuntu/	arch:i386 arch:amd64
+http://ports.ubuntu.moon127.net/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://ubuntu.mirrors.uk2.net/ubuntu/	arch:arm64 arch:i386 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.positive-internet.com/ubuntu/	arch:amd64 arch:i386
