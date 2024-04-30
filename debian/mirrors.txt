@@ -21,7 +21,6 @@ http://ftp.kr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.pl.debian.org/debian/
@@ -212,6 +211,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
@@ -241,8 +241,6 @@ http://mirror.seedvps.com/debian/
 http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -377,7 +375,6 @@ http://nyc.mirrors.clouvider.net/debian/
 http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.fi.debian.org/debian/
@@ -390,7 +387,6 @@ http://ftp.au.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.se.debian.org/debian/
 http://ftp.jp.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.cn.debian.org/debian/
@@ -506,8 +502,6 @@ http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -545,6 +539,7 @@ http://mirror.it.ubc.ca/debian/
 http://mirror.sabay.com.kh/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
@@ -555,7 +550,6 @@ http://ftp.cl.debian.org/debian/
 http://elmirror.cl/debian/
 http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.lt.debian.org/debian/
@@ -788,7 +782,6 @@ http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
@@ -957,6 +950,7 @@ http://mirror.it.ubc.ca/debian/
 http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
@@ -1028,8 +1022,6 @@ http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -1141,7 +1133,6 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.ukrnames.com/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.at.debian.org/debian/
@@ -1166,7 +1157,6 @@ http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
 http://ftp.ru.debian.org/debian/
@@ -1304,6 +1294,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
@@ -1343,8 +1334,6 @@ http://linux.purple-cat.net/debian/
 http://mirror.fsmg.org.nz/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
@@ -1523,7 +1512,6 @@ http://mirror.us.oneandone.net/debian/
 http://nyc.mirrors.clouvider.net/debian/
 http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.at.debian.org/debian/
@@ -1547,7 +1535,6 @@ http://ftp.kr.debian.org/debian/
 http://ftp.hr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.no.debian.org/debian/
@@ -1724,6 +1711,7 @@ http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
@@ -1743,8 +1731,6 @@ http://debian.mirror.root.lu/debian/
 http://mirror.marwan.ma/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -1905,7 +1891,6 @@ http://mirror.us.oneandone.net/debian/
 http://nyc.mirrors.clouvider.net/debian/
 http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp2.de.debian.org/debian/
@@ -1933,7 +1918,6 @@ http://ftp.jp.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.pl.debian.org/debian/
@@ -2158,6 +2142,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -2174,8 +2159,6 @@ http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -2287,7 +2270,6 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.ukrnames.com/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp2.de.debian.org/debian/
@@ -2314,7 +2296,6 @@ http://ftp.jp.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.pl.debian.org/debian/
@@ -2541,6 +2522,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
@@ -2559,8 +2541,6 @@ http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -2669,7 +2649,6 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.ukrnames.com/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp2.de.debian.org/debian/
@@ -2697,7 +2676,6 @@ http://ftp.it.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.pl.debian.org/debian/
@@ -2933,8 +2911,6 @@ http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -2960,6 +2936,7 @@ http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
@@ -3041,7 +3018,6 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.ukrnames.com/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.jp.debian.org/debian/
@@ -3077,7 +3053,6 @@ http://ftp.kr.debian.org/debian/
 http://ftp.hr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.fr.debian.org/debian/
 http://ftp.pl.debian.org/debian/
@@ -3293,6 +3268,7 @@ http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
@@ -3314,8 +3290,6 @@ http://debian.mirror.root.lu/debian/
 http://mirror.marwan.ma/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
@@ -3432,7 +3406,6 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.ukrnames.com/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://debian.otenet.gr/debian/
@@ -3458,7 +3431,6 @@ http://ftp.it.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.pl.debian.org/debian/
@@ -3643,6 +3615,7 @@ http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -3659,8 +3632,6 @@ http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -3815,7 +3786,6 @@ http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.ru.debian.org/debian/
@@ -3838,7 +3808,6 @@ http://ftp.it.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.dk.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://ftp.nl.debian.org/debian/
@@ -3901,6 +3870,9 @@ http://mirror.siwoo.org/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nycu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -3914,9 +3886,6 @@ http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -4024,8 +3993,6 @@ http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -4176,6 +4143,7 @@ http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.sabay.com.kh/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.cl.debian.org/debian/
 http://elmirror.cl/debian/
@@ -4183,7 +4151,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.be.debian.org/debian/
@@ -4221,7 +4188,6 @@ http://ftp.hr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.at.debian.org/debian/
@@ -4393,6 +4359,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
@@ -4425,8 +4392,6 @@ http://mirror.seedvps.com/debian/
 http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -4561,7 +4526,6 @@ http://mirrorservice.org/sites/ftp.debian.org/debian/
 http://mirror.vinehost.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://uk.mirrors.clouvider.net/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://debian.saix.net/
@@ -4607,7 +4571,6 @@ http://ftp.dk.debian.org/debian/
 http://ftp.tr.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.fi.debian.org/debian/
 http://ftp.fr.debian.org/debian/
@@ -4701,6 +4664,7 @@ http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://mirrors.xtom.ee/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://debian.grena.ge/debian/
 http://ftp.is.debian.org/debian/
@@ -4889,8 +4853,6 @@ http://mirror.wtnet.de/debian/
 http://mirrors.xtom.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -4933,7 +4895,6 @@ http://mirror.uepg.br/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.belnet.be/debian/
 http://mirror.as35701.net/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.pt.debian.org/debian/
@@ -4988,7 +4949,6 @@ http://ftp.md.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
@@ -5155,6 +5115,7 @@ http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
@@ -5211,8 +5172,6 @@ http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -5343,7 +5302,6 @@ http://mirrorservice.org/sites/ftp.debian.org/debian/
 http://mirror.vinehost.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://uk.mirrors.clouvider.net/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp2.de.debian.org/debian/
@@ -5373,7 +5331,6 @@ http://ftp.jp.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
@@ -5626,8 +5583,6 @@ http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -5642,6 +5597,7 @@ http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -5725,7 +5681,6 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.ukrnames.com/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.fi.debian.org/debian/
@@ -5738,7 +5693,6 @@ http://ftp.se.debian.org/debian/
 http://ftp.au.debian.org/debian/
 http://ftp.at.debian.org/debian/
 http://ftp.hk.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.bg.debian.org/debian/
 http://ftp.md.debian.org/debian/
@@ -5848,8 +5802,6 @@ http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -6000,6 +5952,7 @@ http://mirrors.zju.edu.cn/debian/
 http://debian.interhost.co.il/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
@@ -6104,7 +6057,6 @@ http://ftp.linux.it/debian/
 http://giano.com.dist.unige.it/debian/
 http://mirror.units.it/debian/
 http://debian.mirror.root.lu/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://debian.otenet.gr/debian/
@@ -6135,7 +6087,6 @@ http://ftp.md.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
@@ -6288,6 +6239,7 @@ http://mirror.it.ubc.ca/debian/
 http://mirror01-pcl-ott1.accuris.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
@@ -6370,8 +6322,6 @@ http://mirror.wtnet.de/debian/
 http://mirror.23m.com/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -6489,7 +6439,6 @@ http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
 http://mirror.ukrnames.com/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.nl.debian.org/debian/
@@ -6526,7 +6475,6 @@ http://ftp.tw.debian.org/debian/
 http://ftp.dk.debian.org/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.tr.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.us.debian.org/debian/
@@ -6651,6 +6599,7 @@ http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
@@ -6823,8 +6772,6 @@ http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -6838,7 +6785,6 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://mirrors.xtom.ee/debian/
@@ -6896,7 +6842,6 @@ http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.no.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
@@ -7055,6 +7000,7 @@ http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
@@ -7102,8 +7048,6 @@ http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -7253,7 +7197,6 @@ http://mirror.ukrnames.com/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://ftp.it.debian.org/debian/
@@ -7269,7 +7212,6 @@ http://ftp.pt.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.br.debian.org/debian/
 http://ftp.bg.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.ca.debian.org/debian/
 http://ftp.cz.debian.org/debian/
 http://ftp.cl.debian.org/debian/
@@ -7394,8 +7336,6 @@ http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirrors.netix.net/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
@@ -7494,6 +7434,7 @@ http://mirror.iranserver.com/debian/
 http://debian.interhost.co.il/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://debian.mirror.root.lu/debian/
 http://debian.koyanet.lv/debian/
@@ -7627,7 +7568,6 @@ http://mirrorservice.org/sites/ftp.debian.org/debian/
 http://mirror.vinehost.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://uk.mirrors.clouvider.net/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
 http://mirror.coganng.com/debian/
@@ -8807,7 +8747,6 @@ http://ftp.kr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
-http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.pl.debian.org/debian/
@@ -8998,6 +8937,7 @@ http://mirrors.xtom.jp/debian/
 http://repo.jing.rocks/debian/
 http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
+http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
@@ -9027,8 +8967,6 @@ http://mirror.seedvps.com/debian/
 http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://nl.mirrors.clouvider.net/debian/
-http://ftp.nc.debian.org/debian/
-http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
@@ -9163,6 +9101,5 @@ http://nyc.mirrors.clouvider.net/debian/
 http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
 http://debian.repo.cure.edu.uy/debian/
-http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
