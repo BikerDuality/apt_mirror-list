@@ -3880,8 +3880,6 @@ http://mirror.siwoo.org/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
-http://debian.unnoba.edu.ar/debian/
-http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
@@ -3896,6 +3894,8 @@ http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -7644,6 +7644,8 @@ http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://debian.interhost.co.il/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
+http://debian.parspack.com/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://ftp.dk.debian.org/debian/
@@ -7660,6 +7662,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
@@ -7668,6 +7671,7 @@ http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
+http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -7843,7 +7847,6 @@ http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
-http://mirror.clarkson.edu/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
@@ -7851,7 +7854,6 @@ http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
 http://mirrors.bloomu.edu/debian/
-http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -7884,9 +7886,7 @@ http://mirror1.infomaniak.com/debian/
 http://mirror2.infomaniak.com/debian/
 http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
-http://mirror.metanet.ch/debian/
 http://mirror.sinavps.ch/debian/
-http://pkg.adfinis.com/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
 http://debian.netforce.hosting/debian/
@@ -8024,6 +8024,8 @@ http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://debian.interhost.co.il/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
+http://debian.parspack.com/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://ftp.dk.debian.org/debian/
@@ -8040,6 +8042,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
@@ -8048,6 +8051,7 @@ http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
+http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -8223,7 +8227,6 @@ http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
-http://mirror.clarkson.edu/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
@@ -8231,7 +8234,6 @@ http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
 http://mirrors.bloomu.edu/debian/
-http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -8264,9 +8266,7 @@ http://mirror1.infomaniak.com/debian/
 http://mirror2.infomaniak.com/debian/
 http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
-http://mirror.metanet.ch/debian/
 http://mirror.sinavps.ch/debian/
-http://pkg.adfinis.com/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
 http://debian.netforce.hosting/debian/
@@ -8404,6 +8404,8 @@ http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://debian.interhost.co.il/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
+http://debian.parspack.com/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://ftp.dk.debian.org/debian/
@@ -8420,6 +8422,7 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
+http://debian.tu-bs.de/debian/
 http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
@@ -8428,6 +8431,7 @@ http://ftp.halifax.rwth-aachen.de/debian/
 http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/
 http://ftp.plusline.net/debian/
 http://ftp-stud.hs-esslingen.de/debian/
+http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
@@ -8603,7 +8607,6 @@ http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
-http://mirror.clarkson.edu/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.keystealth.org/debian/
@@ -8611,7 +8614,6 @@ http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.advancedhosters.com/debian/
 http://mirrors.bloomu.edu/debian/
-http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -8644,9 +8646,7 @@ http://mirror1.infomaniak.com/debian/
 http://mirror2.infomaniak.com/debian/
 http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
-http://mirror.metanet.ch/debian/
 http://mirror.sinavps.ch/debian/
-http://pkg.adfinis.com/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
 http://debian.netforce.hosting/debian/
