@@ -109,7 +109,6 @@ http://mirror.it4i.cz/debian/
 http://mirror-prg.webglobe.com/debian/
 http://mirrors.nic.cz/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -158,6 +157,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -269,10 +269,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -545,7 +545,6 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -579,6 +578,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -680,6 +680,7 @@ http://uk.mirrors.clouvider.net/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -725,7 +726,6 @@ http://mirror.us.oneandone.net/debian/
 http://nyc.mirrors.clouvider.net/debian/
 http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
 http://ftp.icm.edu.pl/pub/Linux/debian/
@@ -853,7 +853,6 @@ http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://mirror.sabay.com.kh/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -970,6 +969,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -1036,6 +1036,7 @@ http://repository.su/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -1085,7 +1086,6 @@ http://mirror.us.oneandone.net/debian/
 http://nyc.mirrors.clouvider.net/debian/
 http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
@@ -1190,7 +1190,6 @@ http://mirror.insacom.cl/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -1327,10 +1326,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -1420,6 +1419,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -1562,7 +1562,6 @@ http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -1587,6 +1586,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -1747,10 +1747,10 @@ http://mirror2.infomaniak.com/debian/
 http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
 http://mirror.sinavps.ch/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -1901,6 +1901,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -1983,7 +1984,6 @@ http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -2174,10 +2174,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://debian.saix.net/
 http://ftp.is.co.za/debian/
 http://ftp.se.debian.org/debian/
@@ -2272,6 +2272,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -2383,7 +2384,6 @@ http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -2540,10 +2540,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
@@ -2643,6 +2643,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -2725,7 +2726,6 @@ http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -2904,10 +2904,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.ch.debian.org/debian/
 http://debian.ethz.ch/debian/
 http://mirror1.infomaniak.com/debian/
@@ -3077,7 +3077,6 @@ http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -3155,6 +3154,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -3266,10 +3266,10 @@ http://repository.su/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
 http://mirror.fsmg.org.nz/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
@@ -3423,7 +3423,6 @@ http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -3472,6 +3471,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -3603,10 +3603,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -3770,6 +3770,7 @@ http://mirror.siwoo.org/debian/
 http://debian.mirror.root.lu/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
@@ -3784,7 +3785,6 @@ http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
 http://mirrors.ptisp.pt/debian/
-http://mirror.sitsa.com.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -3807,6 +3807,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -3860,6 +3861,7 @@ http://ro.mirror.flokinet.net/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
@@ -3888,7 +3890,6 @@ http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
 http://mirror.fsmg.org.nz/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -3900,7 +3901,6 @@ http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.uio.no/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://ftp.us.debian.org/debian/
 http://atl.mirrors.clouvider.net/debian/
 http://debian-archive.trafficmanager.net/debian/
@@ -4147,7 +4147,6 @@ http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -4172,6 +4171,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -4321,10 +4321,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -4515,11 +4515,11 @@ http://mirror2.infomaniak.com/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
 http://ftp.debian.sk/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.ca.debian.org/debian/
 http://debian.linux.n0c.ca/debian/
@@ -4681,7 +4681,6 @@ http://elmirror.cl/debian/
 http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -4708,6 +4707,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -4898,7 +4898,6 @@ http://mirror.it4i.cz/debian/
 http://mirror-prg.webglobe.com/debian/
 http://mirrors.nic.cz/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -5022,6 +5021,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -5076,10 +5076,10 @@ http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
 http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.us.debian.org/debian/
 http://atl.mirrors.clouvider.net/debian/
 http://debian-archive.trafficmanager.net/debian/
@@ -5224,6 +5224,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -5310,7 +5311,6 @@ http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -5497,10 +5497,10 @@ http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
 http://ro.mirror.flokinet.net/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.ch.debian.org/debian/
 http://debian.ethz.ch/debian/
 http://mirror1.infomaniak.com/debian/
@@ -5721,6 +5721,7 @@ http://mirror.xeonbd.com/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.ca.debian.org/debian/
 http://debian.linux.n0c.ca/debian/
 http://debian.mirror.iweb.ca/debian/
@@ -5730,7 +5731,6 @@ http://mirror.dst.ca/debian/
 http://mirror.estone.ca/debian/
 http://mirror.it.ubc.ca/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -5832,6 +5832,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -5847,7 +5848,6 @@ http://mirror.united-gameserver.de/debian/
 http://mirror.wtnet.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://debian.superhosting.cz/debian/
@@ -5992,7 +5992,6 @@ http://ftp.uni-sofia.bg/debian/
 http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -6141,6 +6140,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -6196,6 +6196,7 @@ http://repository.su/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -6245,7 +6246,6 @@ http://mirror.us.oneandone.net/debian/
 http://nyc.mirrors.clouvider.net/debian/
 http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
@@ -6527,6 +6527,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -6542,10 +6543,10 @@ http://mirror.united-gameserver.de/debian/
 http://mirror.wtnet.de/debian/
 http://packages.hs-regensburg.de/debian/
 http://pubmirror.plutex.de/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -6568,7 +6569,6 @@ http://debian.cs.nycu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -6716,7 +6716,6 @@ http://mirror.insacom.cl/debian/
 http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -6898,10 +6897,10 @@ http://mirror2.infomaniak.com/debian/
 http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
 http://mirror.sinavps.ch/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -6984,6 +6983,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -7073,6 +7073,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -7095,7 +7096,6 @@ http://debian.cs.nycu.edu.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -7369,10 +7369,10 @@ http://uk.mirrors.clouvider.net/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
 http://mirrors.bkns.vn/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
@@ -8629,7 +8629,6 @@ http://mirror.it4i.cz/debian/
 http://mirror-prg.webglobe.com/debian/
 http://mirrors.nic.cz/debian/
 http://ftp.dk.debian.org/debian/
-http://mirror.asergo.com/debian/
 http://mirror.one.com/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -8678,6 +8677,7 @@ http://ftp.stw-bonn.de/debian/
 http://ftp.tu-chemnitz.de/debian/
 http://ftp.tu-clausthal.de/debian/
 http://ftp.uni-bayreuth.de/debian/
+http://ftp.uni-hannover.de/debian/debian/
 http://ftp.uni-kl.de/debian/
 http://ftp.uni-mainz.de/debian/
 http://ftp.wrz.de/debian/
@@ -8789,10 +8789,10 @@ http://mirror.mephi.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
+http://ossmirror.mycloud.services/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
