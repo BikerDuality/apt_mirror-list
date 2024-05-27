@@ -301,6 +301,7 @@ https://mirrors.ipserverone.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.tuxuri.com/ubuntu/	arch:i386 arch:amd64
 https://ubuntu-mirror.cloud.mu/ubuntu/	arch:i386 arch:amd64
 https://ubuntu-mirror.cloud.mu/ubuntu-ports/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
+http://mirror.nerdmilio.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.as43289.net/ubuntu/	arch:i386 arch:amd64
 https://mirror.ihost.md/ubuntu/	arch:i386 arch:amd64
 http://mirrors.mivocloud.com/ubuntu/	arch:i386 arch:amd64
@@ -472,7 +473,6 @@ http://mirror.vorboss.net/ubuntu-archive/	arch:i386 arch:amd64
 http://mirrors.ukfast.co.uk/sites/archive.ubuntu.com/	arch:i386 arch:amd64
 http://www.mirrorservice.org/sites/archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 https://uk.mirrors.clouvider.net/ubuntu/	arch:i386 arch:amd64
-http://archive.ubuntu.moon127.net/	arch:i386 arch:amd64
 http://mirror.as29550.net/archive.ubuntu.com/	arch:i386 arch:amd64
 http://mirror.bytemark.co.uk/ubuntu/	arch:i386 arch:amd64
 http://mirror.eu-lo.kamatera.com/ubuntu/	arch:i386 arch:amd64
