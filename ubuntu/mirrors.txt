@@ -88,7 +88,6 @@ http://mirrors.sohu.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.xjtu.edu.cn/ubuntu/	arch:i386 arch:amd64
 http://mirrors.yun-idc.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.zju.edu.cn/ubuntu/	arch:i386 arch:amd64 arch:s390x arch:ppc64el arch:armhf arch:arm64
-http://mirrors.cqu.edu.cn/ubuntu/	arch:i386 arch:amd64
 https://edgeuno-bog2.mm.fcix.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.unimagdalena.edu.co/ubuntu/	arch:i386 arch:amd64
 http://mirrors.atlas.net.co/ubuntu/	arch:i386 arch:amd64
@@ -466,6 +465,7 @@ http://mirror.kapteyan.com.tr/ubuntu/	arch:i386 arch:amd64
 https://mirror.rabisu.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
 http://ubuntu.turhost.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.vargonen.com/ubuntu/	arch:i386 arch:amd64
+http://mirror.renu.ac.ug/ubuntu/	arch:amd64
 https://ubuntu.ip-connect.vn.ua/	arch:i386 arch:amd64
 http://ubuntu.volia.net/ubuntu-archive/	arch:i386 arch:amd64
 http://ubuntu.mirrors.omnilance.com/ubuntu/	arch:i386 arch:amd64
@@ -544,6 +544,7 @@ https://mirror.dal.nexril.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.math.ucdavis.edu/ubuntu/	arch:i386 arch:amd64
 http://mirror.metrocast.net/ubuntu/	arch:i386 arch:amd64
 https://mirror.mia.velocihost.net/ubuntu/	arch:i386 arch:amd64
+http://mirror.mrjester.net/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.steadfastnet.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.team-cymru.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.team-cymru.org/ubuntu/	arch:i386 arch:amd64
@@ -576,7 +577,6 @@ http://www.club.cc.cmu.edu/pub/ubuntu/	arch:i386 arch:amd64
 http://www.gtlib.gatech.edu/pub/ubuntu/	arch:i386 arch:amd64
 http://archive.linux.duke.edu/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:s390x arch:ppc64el arch:armhf
 http://babylon.cs.uh.edu/mirror-sites/ubuntu/	arch:i386 arch:amd64
-https://mirror.d.umn.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.vcea.wsu.edu/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.securedservers.com/	arch:i386 arch:amd64
 http://ftp.ussg.iu.edu/linux/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:s390x arch:ppc64el arch:armhf
