@@ -99,6 +99,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -144,7 +145,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
@@ -199,6 +199,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -443,7 +444,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.nl.debian.org/debian/
@@ -523,6 +523,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -668,6 +669,7 @@ http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
 http://mirrors.xtom.ee/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -813,6 +815,7 @@ http://mirror.nyist.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -841,6 +844,7 @@ http://repo.ifca.es/debian/
 http://softlibre.unizar.es/debian/
 http://ulises.hostalia.com/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -915,7 +919,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
@@ -1268,7 +1271,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.nl.debian.org/debian/
@@ -1294,6 +1296,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -1328,6 +1331,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -1623,6 +1627,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -1692,7 +1697,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
@@ -1705,6 +1709,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -2057,6 +2062,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -2136,7 +2142,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
@@ -2151,6 +2156,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -2472,6 +2478,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -2521,7 +2528,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
@@ -2536,6 +2542,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -2829,6 +2836,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -2912,7 +2920,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
@@ -2924,6 +2931,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -3204,6 +3212,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -3244,6 +3253,7 @@ http://mirror.vinehost.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://uk.mirrors.clouvider.net/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -3358,7 +3368,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
 http://ftp.psnc.pl/debian/
@@ -3555,6 +3564,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -3593,7 +3603,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
@@ -3654,6 +3663,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -3915,7 +3925,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
@@ -4029,6 +4038,7 @@ http://debian.repo.cure.edu.uy/debian/
 http://ftp.tr.debian.org/debian/
 http://ftp.linux.org.tr/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -4163,6 +4173,7 @@ http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirror.nyist.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
@@ -4313,6 +4324,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -4382,7 +4394,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.bme.hu/debian/
@@ -4399,6 +4410,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -4663,6 +4675,7 @@ http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirror.nyist.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
@@ -4832,6 +4845,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -4942,7 +4956,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://ftp.bg.debian.org/debian/
 http://debian.a1.bg/debian/
 http://debian.ipacct.com/debian/
@@ -5085,6 +5098,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -5128,7 +5142,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.otenet.gr/debian/
 http://debian.grena.ge/debian/
 http://ftp.es.debian.org/debian/
@@ -5162,6 +5175,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -5519,6 +5533,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -5602,7 +5617,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.nl.debian.org/debian/
@@ -5625,6 +5639,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -5819,7 +5834,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.csie.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
@@ -6016,6 +6030,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -6110,6 +6125,7 @@ http://ro.mirror.flokinet.net/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -6189,6 +6205,7 @@ http://mirror.nyist.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -6267,7 +6284,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.otenet.gr/debian/
 http://debian.grena.ge/debian/
 http://ftp.nl.debian.org/debian/
@@ -6293,6 +6309,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -6637,6 +6654,7 @@ http://mr.heru.id/debian/
 http://mirror.cse.iitk.ac.in/debian/
 http://mirrors.iitd.ac.in/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -6702,6 +6720,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -6755,7 +6774,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
 http://mirror.linux.ro/debian/
@@ -7048,7 +7066,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
@@ -7061,6 +7078,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -7104,6 +7122,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -7531,6 +7550,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -7596,7 +7616,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
 http://mirror.linux.ro/debian/
@@ -7642,6 +7661,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -8910,6 +8930,7 @@ http://mirrors.163.com/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.huaweicloud.com/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
@@ -8955,7 +8976,6 @@ http://mirror.gitoyen.net/debian/
 http://mirror.ibcp.fr/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
-http://mirrors.ircam.fr/pub/debian/
 http://debian.grena.ge/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
@@ -9010,6 +9030,7 @@ http://mirror.poliwangi.ac.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
+http://debian.hostiran.ir/debian/
 http://mirror.aminidc.com/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
