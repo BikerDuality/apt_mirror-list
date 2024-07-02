@@ -151,7 +151,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -208,6 +207,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -353,12 +353,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -489,6 +487,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -588,7 +587,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -725,12 +723,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -931,6 +927,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -981,7 +978,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -1090,12 +1086,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -1289,6 +1283,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -1443,7 +1438,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -1485,12 +1479,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -1611,7 +1603,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -1689,6 +1680,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -1859,12 +1851,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -1932,7 +1922,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -2055,12 +2044,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -2125,6 +2112,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -2311,7 +2299,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -2349,12 +2336,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -2503,6 +2488,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -2690,7 +2676,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -2817,12 +2802,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -3007,6 +2990,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -3063,12 +3047,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -3198,6 +3180,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -3213,7 +3196,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -3539,7 +3521,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -3571,6 +3552,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -3712,12 +3694,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -3854,6 +3834,9 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://ftp.debianclub.org/debian/
+http://mirror.applebred.net/debian/
+http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.cs.nycu.edu.tw/debian/
 http://debian.csie.ncku.edu.tw/debian/
@@ -3866,14 +3849,10 @@ http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://mirrors.ptisp.pt/debian/
 http://debian.unnoba.edu.ar/debian/
-http://ftp.debianclub.org/debian/
-http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://artfiles.org/debian/
-http://de.mirrors.clouvider.net/debian/
 http://debian.charite.de/debian/
 http://debian.inf.tu-dresden.de/debian/
 http://debian.intergenia.de/debian/
@@ -3995,7 +3974,6 @@ http://debian.cs.binghamton.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
@@ -4004,7 +3982,6 @@ http://mirror.timkevin.us/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -4071,6 +4048,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -4252,7 +4230,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -4332,6 +4309,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -4466,12 +4444,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -4569,6 +4545,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -4655,7 +4632,6 @@ http://debian.cs.binghamton.edu/debian/
 http://debian.csail.mit.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
@@ -4664,7 +4640,6 @@ http://mirror.timkevin.us/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.oneandone.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -4791,7 +4766,6 @@ http://ftp.linux.org.tr/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
 http://artfiles.org/debian/
-http://de.mirrors.clouvider.net/debian/
 http://debian.charite.de/debian/
 http://debian.inf.tu-dresden.de/debian/
 http://debian.intergenia.de/debian/
@@ -5077,6 +5051,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -5121,7 +5096,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -5200,12 +5174,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -5327,7 +5299,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -5458,12 +5429,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -5536,6 +5505,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -5822,12 +5792,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -5865,6 +5833,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -5947,7 +5916,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -6187,6 +6155,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -6265,7 +6234,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -6362,12 +6330,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -6558,6 +6524,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -6657,7 +6624,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -6766,12 +6732,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -6880,12 +6844,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -6947,6 +6909,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -7120,7 +7083,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -7216,7 +7178,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -7350,12 +7311,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
@@ -7429,6 +7388,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -8831,7 +8791,6 @@ http://debian.intergenia.de/debian/
 http://debian.mirror.iphh.net/debian/
 http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://drmirror.physi.uni-heidelberg.de/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
@@ -8888,6 +8847,7 @@ http://ftp.jp.debian.org/debian/
 http://debian-mirror.sakura.ne.jp/debian/
 http://dennou-k.gfd-dennou.org/debian/
 http://dennou-q.gfd-dennou.org/debian/
+http://ftp.jaist.ac.jp/debian/
 http://ftp.kddilabs.jp/pub/debian/
 http://ftp.nara.wide.ad.jp/debian/
 http://ftp.riken.jp/Linux/debian/debian/
@@ -9033,12 +8993,10 @@ http://debian.csail.mit.edu/debian/
 http://debian.cs.binghamton.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
-http://la.mirrors.clouvider.net/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.dal.nexril.net/debian/
 http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirrors.namecheap.com/debian/
 http://mirrors.ocf.berkeley.edu/debian/
