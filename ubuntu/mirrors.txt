@@ -206,7 +206,7 @@ https://repo.extreme-ix.org/ubuntu/	arch:i386 arch:amd64
 https://mirror.nitc.ac.in/ubuntu/	arch:i386 arch:amd64
 http://ftp.iitm.ac.in/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:s390x arch:ppc64el arch:armhf
 https://cdn.ubuntu.repo.cloudeka.id/ubuntu/	arch:i386 arch:amd64
-https://cdn.ubuntu.repo.cloudeka.id/ubuntu/
+https://cdn.ubuntu.repo.cloudeka.id/ubuntu/	arch:i386 arch:amd64
 https://linux.domainesia.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
 https://mirror.amscloud.co.id/ubuntu/	arch:i386 arch:amd64
 https://mirror.faizuladib.com/ubuntu/	arch:i386 arch:amd64
@@ -270,7 +270,7 @@ http://ftp.riken.jp/Linux/ubuntu/	arch:i386 arch:amd64
 http://ftp.tsukuba.wide.ad.jp/Linux/ubuntu/	arch:i386 arch:amd64
 http://ubuntutym.u-toyama.ac.jp/ubuntu/	arch:i386 arch:amd64
 https://jp.mirror.coganng.com/ubuntu/	arch:i386 arch:amd64
-https://jp.mirror.coganng.com/ubuntu-ports/
+https://jp.mirror.coganng.com/ubuntu-ports/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
 http://www.ftp.ne.jp/Linux/packages/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.hoster.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.neolabs.kz/ubuntu/	arch:i386 arch:amd64
@@ -285,7 +285,7 @@ https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
-https://mirror.yuki.net.uk/ubuntu-ports/
+https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
 http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
 http://mirror.veesp.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.cloudhosting.lv/ubuntu/	arch:i386 arch:amd64
@@ -557,7 +557,7 @@ http://mirrors.maine.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.mit.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.namecheap.com/ubuntu/	arch:i386 arch:amd64
 http://mirrors.ocf.berkeley.edu/ubuntu/	arch:i386 arch:amd64
-https://mirrors.ocf.berkeley.edu/ubuntu-ports/	arch:arm64 arch:armhf arch:s390x arch:ppc64el
+https://mirrors.ocf.berkeley.edu/ubuntu-ports/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
 https://mirrors.sarak.as/ubuntu/	arch:i386 arch:amd64
 http://mirrors.sonic.net/ubuntu/	arch:i386 arch:amd64
 http://mirrors.usinternet.com/ubuntu/archive/	arch:i386 arch:amd64
