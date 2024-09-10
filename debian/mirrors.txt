@@ -283,6 +283,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -685,6 +686,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
@@ -1122,6 +1124,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -1445,6 +1448,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -1884,6 +1888,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -2368,6 +2373,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -2754,6 +2760,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
@@ -3166,6 +3173,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -3562,6 +3570,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -3932,6 +3941,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -4128,6 +4138,11 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
+http://debian.cs.nycu.edu.tw/debian/
+http://debian.csie.ntu.edu.tw/debian/
+http://ftp.tku.edu.tw/debian/
+http://mirror.twds.com.tw/debian/
+http://tw1.mirror.blendbyte.net/debian/
 http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
@@ -4138,11 +4153,6 @@ http://mirror.sitsa.com.ar/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
-http://debian.cs.nycu.edu.tw/debian/
-http://debian.csie.ntu.edu.tw/debian/
-http://ftp.tku.edu.tw/debian/
-http://mirror.twds.com.tw/debian/
-http://tw1.mirror.blendbyte.net/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -4216,6 +4226,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
@@ -4718,6 +4729,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -5108,6 +5120,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
@@ -5551,6 +5564,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.sk.debian.org/debian/
 http://deb.bbxnet.sk/debian/
@@ -6017,6 +6031,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
@@ -6423,6 +6438,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
@@ -6772,6 +6788,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -7113,6 +7130,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
@@ -7536,6 +7554,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
@@ -7998,6 +8017,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
@@ -9560,6 +9580,7 @@ http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
+http://mirrors.xservers.ro/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
