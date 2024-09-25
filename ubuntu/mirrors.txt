@@ -62,7 +62,6 @@ https://mirror.hep.gg/ubuntu/	arch:i386 arch:amd64
 http://archive.ubuntu.mirror.rafal.ca/ubuntu/	arch:i386 arch:amd64
 https://gpl.savoirfairelinux.net/pub/mirrors/ubuntu/	arch:i386 arch:amd64
 http://mirror.ca-tr.kamatera.com/ubuntu/	arch:i386 arch:amd64
-https://mirror.digitaloceans.dev/ubuntu/	arch:i386 arch:amd64
 https://mirror.esecuredata.com/ubuntu-archive/	arch:i386 arch:amd64
 http://mirror.rcg.sfu.ca/mirror/ubuntu/	arch:i386 arch:amd64
 http://mirror.its.dal.ca/ubuntu/	arch:i386 arch:amd64
@@ -291,6 +290,7 @@ https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
+http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
 http://mirror.veesp.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.cloudhosting.lv/ubuntu/	arch:i386 arch:amd64
 http://ubuntu-arch.linux.edu.lv/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:s390x arch:ppc64el arch:armhf
@@ -398,7 +398,6 @@ http://mirror.logol.ru/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://mirror1.sox.rs/ubuntu/ubuntu/	arch:i386 arch:amd64
 https://mirror1.sox.rs/ubuntu/ubuntu/	arch:i386 arch:amd64
-http://ossmirror.mycloud.services/os/linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.sg.gs/ubuntu/	arch:i386 arch:amd64
 http://kambing.uu.sg/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:s390x arch:ppc64el arch:armhf
 http://mirror.soonkeat.sg/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:s390x arch:ppc64el arch:armhf
@@ -491,7 +490,6 @@ http://mirrors.melbourne.co.uk/ubuntu/	arch:i386 arch:amd64
 http://ports.ubuntu.moon127.net/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
 http://ubuntu.mirrors.uk2.net/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:s390x arch:ppc64el arch:armhf
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
-http://ubuntu.positive-internet.com/ubuntu/	arch:amd64 arch:i386
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.pilotfiber.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.math.princeton.edu/pub/ubuntu/	arch:i386 arch:amd64
