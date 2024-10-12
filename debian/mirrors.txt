@@ -139,6 +139,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -450,6 +451,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -943,6 +945,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -1309,6 +1312,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -1749,6 +1753,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -2211,6 +2216,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -2611,6 +2617,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -3017,6 +3024,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -3478,6 +3486,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -3724,6 +3733,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -4059,6 +4069,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
@@ -4077,14 +4088,6 @@ http://ftp.am.debian.org/debian/
 http://mirrors.asnet.am/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
-http://ftp.pt.debian.org/debian/
-http://debian.uevora.pt/debian/
-http://ftp.eq.uc.pt/software/Linux/debian/
-http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
-http://mirror.leitecastro.com/debian/
-http://mirrors.ptisp.pt/debian/
-http://debian.unnoba.edu.ar/debian/
-http://mirror.sitsa.com.ar/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://ftp.tw.debian.org/debian/
@@ -4094,6 +4097,14 @@ http://debian.csie.ntu.edu.tw/debian/
 http://mirror.twds.com.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
+http://ftp.pt.debian.org/debian/
+http://debian.uevora.pt/debian/
+http://ftp.eq.uc.pt/software/Linux/debian/
+http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
+http://mirror.leitecastro.com/debian/
+http://mirrors.ptisp.pt/debian/
+http://debian.unnoba.edu.ar/debian/
+http://mirror.sitsa.com.ar/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.de.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -4544,6 +4555,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -5124,6 +5136,7 @@ http://debian.proxad.net/debian/
 http://debian.univ-tlse2.fr/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
@@ -5319,6 +5332,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -5812,6 +5826,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -6036,6 +6051,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -6502,6 +6518,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -7009,6 +7026,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -7318,6 +7336,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -7885,6 +7904,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
@@ -9328,6 +9348,7 @@ http://debian.univ-tlse2.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
 http://ftp.lip6.fr/pub/linux/distributions/debian/
+http://ftp.rezopole.net/debian/
 http://ftp.univ-pau.fr/linux/mirrors/debian/
 http://ftp.u-picardie.fr/debian/
 http://ftp.u-strasbg.fr/debian/
