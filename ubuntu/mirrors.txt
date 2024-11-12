@@ -115,10 +115,10 @@ https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://ftp.cvut.cz/ubuntu/	arch:i386 arch:amd64
 http://ucho.ignum.cz/ubuntu/	arch:i386 arch:amd64
 http://mirrors.dotsrc.org/ubuntu/	arch:i386 arch:amd64
+https://mirrors.fibianet.dk/ubuntu/	arch:i386 arch:amd64
 https://mirror.group.one/ubuntu/	arch:i386 arch:amd64
 https://mirror.netsite.dk/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.one.com/ubuntu/	arch:i386 arch:amd64
-https://mirrors.fibianet.dk/ubuntu/	arch:i386 arch:amd64
 http://ftp.klid.dk/ftp/ubuntu/	arch:i386 arch:amd64
 https://mirrors.c0urier.net/linux/ubuntu/	arch:i386 arch:amd64
 http://mirror.espol.edu.ec/ubuntu/	arch:amd64 arch:i386
@@ -287,6 +287,7 @@ http://ubuntutym.u-toyama.ac.jp/ubuntu/	arch:i386 arch:amd64
 https://ftp.sakura.ad.jp/ubuntu/	arch:i386 arch:amd64
 https://jp.mirror.coganng.com/ubuntu/	arch:i386 arch:amd64
 https://jp.mirror.coganng.com/ubuntu-ports/	arch:arm64 arch:armhf
+http://www.ftp.ne.jp/Linux/packages/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.hoster.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.neolabs.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.ps.kz/ubuntu/	arch:i386 arch:amd64
