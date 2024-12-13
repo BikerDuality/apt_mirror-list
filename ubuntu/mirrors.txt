@@ -21,7 +21,7 @@ https://mirror.alwyzon.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.easyname.at/ubuntu-archive/	arch:i386 arch:amd64
 https://ubuntu.anexia.at/ubuntu/	arch:i386 arch:amd64
 https://mirror.kumi.systems/ubuntu/	arch:i386 arch:amd64
-https://mirror.kumi.systems/ubuntu-ports/	arch:armhf
+https://mirror.kumi.systems/ubuntu-ports/	arch:arm64 arch:armhf arch:s390x arch:ppc64el
 http://ubuntu.lagis.at/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
 http://mirror.datacenter.az/ubuntu/	arch:i386 arch:amd64
@@ -139,7 +139,7 @@ http://mirrors.ircam.fr/pub/ubuntu/archive/	arch:i386 arch:amd64
 http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
 https://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/archive/	arch:i386 arch:amd64
 https://ftp.u-picardie.fr/mirror/ubuntu/ubuntu/	arch:i386 arch:amd64
-http://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu/
+http://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.grena.ge/ubuntu/	arch:i386 arch:amd64
 https://ftp.uni-stuttgart.de/ubuntu/	arch:i386 arch:amd64
 http://ftp.halifax.rwth-aachen.de/ubuntu/	arch:i386 arch:amd64
@@ -207,10 +207,12 @@ http://repos.del.extreme-ix.org/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:arm
 https://ubuntu-mirror.snu.edu.in/	arch:i386 arch:amd64
 https://in.mirror.coganng.com/ubuntu/	arch:i386 arch:amd64
 https://in.mirror.coganng.com/ubuntu-ports/	arch:arm64 arch:armhf
+http://mirror.cse.iitk.ac.in/ubuntu/	arch:i386 arch:amd64
 https://mirror.nitc.ac.in/ubuntu/	arch:i386 arch:amd64
 http://mirrors.iitd.ac.in/ubuntu/	arch:i386 arch:amd64
 https://mirrors.nxtgen.com/ubuntu-mirror/ubuntu/	arch:i386 arch:amd64
 https://repo.extreme-ix.org/ubuntu/	arch:i386 arch:amd64
+http://ftp.iitm.ac.in/ubuntu/	arch:i386 arch:amd64
 https://cdn.ubuntu.repo.cloudeka.id/ubuntu/	arch:i386 arch:amd64
 https://cdn.ubuntu.repo.cloudeka.id/ubuntu/	arch:i386 arch:amd64
 https://linux.domainesia.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
@@ -231,7 +233,6 @@ https://mirror.citrahost.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.dewabiz.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.gi.co.id/ubuntu/	arch:i386 arch:amd64
 https://mirror.papua.go.id/ubuntu/	arch:i386 arch:amd64
-http://mirror.poliwangi.ac.id/ubuntu/	arch:i386 arch:amd64
 https://mirror.unair.ac.id/ubuntu/	arch:i386 arch:amd64
 http://mirror.unej.ac.id/ubuntu/	arch:amd64
 https://mirrors.idcloudhost.com/ubuntu/	arch:i386 arch:amd64
@@ -262,7 +263,6 @@ http://mirror.il-pt.kamatera.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.il-rh.kamatera.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.il-ta.kamatera.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.il.kamatera.com/ubuntu/	arch:i386 arch:amd64
-http://rep-ubuntu-il.upress.io/ubuntu/	arch:i386 arch:amd64
 http://mirror.isoc.org.il/pub/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x arch:ppc64el
 http://ubuntu.mirror.gnc.am/ubuntu/	arch:i386 arch:amd64
 https://it1.mirror.vhosting-it.com/ubuntu/	arch:i386 arch:amd64
@@ -282,12 +282,12 @@ http://ubuntutym.u-toyama.ac.jp/ubuntu/	arch:i386 arch:amd64
 https://ftp.sakura.ad.jp/ubuntu/	arch:i386 arch:amd64
 https://jp.mirror.coganng.com/ubuntu/	arch:i386 arch:amd64
 https://jp.mirror.coganng.com/ubuntu-ports/	arch:arm64 arch:armhf
+http://www.ftp.ne.jp/Linux/packages/ubuntu/archive/	arch:amd64 arch:i386
 http://mirror.hoster.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.neolabs.kz/ubuntu/	arch:i386 arch:amd64
 http://mirror.ps.kz/ubuntu/	arch:i386 arch:amd64
 https://ftp.kaist.ac.kr/ubuntu/	arch:i386 arch:amd64
 https://ftp.kaist.ac.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:s390x arch:ppc64el
-https://mirror.amuksa.com/ubuntu/	arch:amd64 arch:i386
 https://mirror.kakao.com/ubuntu/	arch:i386 arch:amd64
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
 http://ftp.daum.net/ubuntu/	arch:i386 arch:amd64
@@ -314,7 +314,7 @@ http://mirror.onevip.mk/ubuntu/	arch:i386 arch:amd64
 http://mirror.t-home.mk/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.dts.mg/ubuntu/	arch:amd64 arch:i386
 https://mirrors.gbnetwork.com/ubuntu/	arch:i386 arch:amd64
-https://mirrors.ipserverone.com/ubuntu/
+https://mirrors.ipserverone.com/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.mirror.thegigabit.com/	arch:i386 arch:amd64
 http://ubuntu.tuxuri.com/ubuntu/	arch:i386 arch:amd64
 https://ubuntu-mirror.cloud.mu/ubuntu/	arch:i386 arch:amd64
@@ -325,6 +325,7 @@ http://mirrors.mivocloud.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.datacenter.mn/ubuntu/	arch:i386 arch:amd64
 https://mirror.marwan.ma/ubuntu/	arch:i386 arch:amd64
 http://download.nust.na/pub/ubuntu/ubuntu/	arch:i386 arch:amd64
+http://ubuntu.ntc.net.np/ubuntu/	arch:i386 arch:amd64
 https://mirrors.mediascope.group/ubuntu/	arch:i386 arch:amd64
 http://mirror.i3d.net/pub/ubuntu/	arch:i386 arch:amd64
 http://mirror.nl.datapacket.com/ubuntu/	arch:i386 arch:amd64
@@ -355,7 +356,7 @@ https://mirrors.evoluso.com/ubuntu/	arch:i386 arch:amd64
 https://nl.mirror.flokinet.net/ubuntu/	arch:i386 arch:amd64
 http://osmirror.rug.nl/ubuntu/	arch:i386 arch:amd64
 ftp://ftpserv.tudelft.nl/pub/Linux/archive.ubuntu.com/	arch:i386 arch:amd64
-http://ubuntu.lagoon.nc/ubuntu/
+http://ubuntu.lagoon.nc/ubuntu/	arch:i386 arch:amd64
 http://archive.ubuntu.nautile.nc/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x arch:ppc64el
 https://mirror.fsmg.org.nz/ubuntu/	arch:i386 arch:amd64
 https://mirror.2degrees.nz/ubuntu/	arch:i386 arch:amd64
@@ -376,7 +377,7 @@ https://mirror.leitecastro.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.ptisp.pt/ubuntu/	arch:i386 arch:amd64
 http://mirrors.up.pt/ubuntu/	arch:i386 arch:amd64
 http://cesium.di.uminho.pt/pub/ubuntu-archive/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x arch:ppc64el
-http://archive.ubuntumirror.dei.uc.pt/ubuntu/
+http://archive.ubuntumirror.dei.uc.pt/ubuntu/	arch:i386 arch:amd64
 http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/	arch:i386 arch:amd64
 http://glua.ua.pt/pub/ubuntu/	arch:i386 arch:amd64
 https://mirrors.upr.edu/ubuntu/	arch:i386 arch:amd64
@@ -452,11 +453,9 @@ http://ftp.tku.edu.tw/ubuntu/	arch:i386 arch:amd64
 https://tw1.mirror.blendbyte.net/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.ccns.ncku.edu.tw/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.cs.nctu.edu.tw/ubuntu/	arch:i386 arch:amd64
-https://mirror.twds.com.tw/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x arch:ppc64el
 http://mirror.aptus.co.tz/pub/ubuntuarchive/	arch:i386 arch:amd64
 http://deb-mirror.habari.co.tz/ubuntu/	arch:i386 arch:amd64
 https://mirror.kku.ac.th/ubuntu/	arch:i386 arch:amd64
-https://mirror.cmkl.ac.th/ubuntu/	arch:i386 arch:amd64
 http://mirror1.totbb.net/ubuntu/	arch:i386 arch:amd64
 http://mirrors.bangmod.cloud/ubuntu/	arch:i386 arch:amd64
 http://ftp.psu.ac.th/pub/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:s390x arch:ppc64el
@@ -465,10 +464,12 @@ http://mirror1.ku.ac.th/ubuntu/	arch:i386 arch:amd64
 http://mirrors.psu.ac.th/ubuntu/	arch:i386 arch:amd64
 https://mirror.alastyr.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
 https://mirror.sh.com.tr/ubuntu/	arch:i386 arch:amd64
+https://mirror.verinomi.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
 https://kozyatagi.mirror.guzel.net.tr/ubuntu/	arch:i386 arch:amd64
 http://mirror.kapteyan.com.tr/ubuntu/	arch:i386 arch:amd64
 https://mirror.rabisu.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
 http://ubuntu.vargonen.com/ubuntu/	arch:i386 arch:amd64
+http://mirror.renu.ac.ug/ubuntu/	arch:i386 arch:amd64
 https://mirror.hostiko.network/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.ip-connect.vn.ua/	arch:i386 arch:amd64
 http://ubuntu.volia.net/ubuntu-archive/	arch:i386 arch:amd64
