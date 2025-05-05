@@ -9,6 +9,7 @@ http://ftp.cl.debian.org/debian/
 http://ftp.cn.debian.org/debian/
 http://ftp.hr.debian.org/debian/
 http://ftp.cz.debian.org/debian/
+http://ftp.dk.debian.org/debian/
 http://ftp.fi.debian.org/debian/
 http://ftp.fr.debian.org/debian/
 http://ftp2.de.debian.org/debian/
@@ -120,7 +121,9 @@ http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
 http://mirror-prg.webglobe.com/debian/
 http://mirrors.nic.cz/debian/
+http://ftp.dk.debian.org/debian/
 http://mirror.one.com/debian/
+http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
 http://mirrors.xtom.ee/debian/
 http://ftp.fi.debian.org/debian/
@@ -348,7 +351,6 @@ http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
-http://mirror.kku.ac.th/debian/
 http://mirrors.cloudforest.co.th/debian/
 http://ftp.tr.debian.org/debian/
 http://ftp.linux.org.tr/debian/
