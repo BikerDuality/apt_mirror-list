@@ -28,6 +28,7 @@ http://ftp.nz.debian.org/debian/
 http://ftp.no.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
+http://ftp.ru.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.es.debian.org/debian/
@@ -273,7 +274,6 @@ http://nl.mirror.flokinet.net/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
-http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
 http://mirror.fsmg.org.nz/debian/
@@ -300,11 +300,13 @@ http://mirrors.nav.ro/debian/
 http://mirrors.nxthost.com/debian/
 http://mirrors.pidginhost.com/debian/
 http://ro.mirror.flokinet.net/debian/
+http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
 http://mirror.corbina.net/debian/
 http://mirror.docker.ru/debian/
 http://mirror.hyperdedic.ru/debian/
 http://mirror.kpfu.ru/debian/
+http://mirror.mephi.ru/debian/
 http://mirror.neftm.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
