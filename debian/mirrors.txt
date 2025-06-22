@@ -19,6 +19,7 @@ http://ftp.hk.debian.org/debian/
 http://ftp.is.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.jp.debian.org/debian/
+http://ftp.kr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
@@ -225,6 +226,8 @@ http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
 http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
+http://ftp.kr.debian.org/debian/
+http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.siwoo.org/debian/
 http://debian.koyanet.lv/debian/
@@ -313,7 +316,6 @@ http://ftp.is.co.za/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
 http://debian.redimadrid.es/debian/
-http://debian.redparra.com/debian/
 http://debian.uvigo.es/debian/
 http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
@@ -336,6 +338,7 @@ http://mirror1.infomaniak.com/debian/
 http://mirror2.infomaniak.com/debian/
 http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
+http://mirror.metanet.ch/debian/
 http://mirror.sinavps.ch/debian/
 http://ftp.tw.debian.org/debian/
 http://debian.ccns.ncku.edu.tw/debian/
