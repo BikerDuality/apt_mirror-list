@@ -18,7 +18,6 @@ http://ftp.hk.debian.org/debian/
 http://ftp.is.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.jp.debian.org/debian/
-http://ftp.kr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
@@ -121,7 +120,6 @@ http://ftp.zcu.cz/debian/
 http://merlin.fit.vutbr.cz/debian/
 http://mirror.dkm.cz/debian/
 http://mirror.it4i.cz/debian/
-http://mirrors.nic.cz/debian/
 http://ftp.dk.debian.org/debian/
 http://mirrors.dotsrc.org/debian/
 http://mirrors.rackhosting.com/debian/
@@ -222,8 +220,6 @@ http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
 http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
-http://ftp.kr.debian.org/debian/
-http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.siwoo.org/debian/
 http://debian.koyanet.lv/debian/
@@ -295,7 +291,6 @@ http://mirror.neftm.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
-http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
@@ -337,9 +332,9 @@ http://mirror.metanet.ch/debian/
 http://mirror.sinavps.ch/debian/
 http://pkg.adfinis-on-exoscale.ch/debian/
 http://ftp.tw.debian.org/debian/
+http://debian.ccns.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
 http://debian.cs.nycu.edu.tw/debian/
-http://ftp.tku.edu.tw/debian/
 http://mirror.twds.com.tw/debian/
 http://opensource.nchc.org.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
