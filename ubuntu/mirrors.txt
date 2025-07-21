@@ -144,7 +144,6 @@ http://miroir.univ-lorraine.fr/ubuntu/	arch:i386 arch:amd64
 https://mirror.geekonweb.fr/ubuntu/	arch:i386 arch:amd64
 https://mirror.johnnybegood.fr/ubuntu/	arch:i386 arch:amd64
 http://mirrors.ircam.fr/pub/ubuntu/archive/	arch:i386 arch:amd64
-https://ubuntu.syxpi.fr/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.uni-klu.ac.at/ubuntu/	arch:amd64
 https://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/archive/	arch:i386 arch:amd64
 https://ftp.u-picardie.fr/mirror/ubuntu/ubuntu/	arch:i386 arch:amd64
@@ -317,7 +316,7 @@ https://ftp.lanet.kr/ubuntu/	arch:i386 arch:amd64
 https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirror.jeonnam.school/ubuntu/	arch:i386 arch:amd64
-http://mirror.zzunipark.com/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:ppc64el arch:s390x
+https://mirror.zzunipark.com/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
 http://mirror.veesp.com/ubuntu/	arch:i386 arch:amd64
@@ -532,7 +531,6 @@ http://mirrors.melbourne.co.uk/ubuntu/	arch:i386 arch:amd64
 http://ports.ubuntu.moon127.net/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 http://ubuntu.mirrors.uk2.net/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://aze.archive.ubuntu.com/ubuntu/	arch:i386 arch:amd64
-https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.mci-1.serverforge.org/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.pilotfiber.com/ubuntu/	arch:i386 arch:amd64
 https://dal.mirrors.serverside.com/ubuntu/	arch:i386 arch:amd64
@@ -605,7 +603,6 @@ http://mirrors.maine.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.mit.edu/ubuntu/	arch:i386 arch:amd64
 http://mirrors.ocf.berkeley.edu/ubuntu/	arch:i386 arch:amd64
 https://mirrors.ocf.berkeley.edu/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
-https://mirrors.sarak.as/ubuntu/	arch:i386 arch:amd64
 http://mirrors.sonic.net/ubuntu/	arch:i386 arch:amd64
 http://mirrors.xmission.com/ubuntu/	arch:i386 arch:amd64
 http://pubmirrors.dal.corespace.com/ubuntu/	arch:i386 arch:amd64
