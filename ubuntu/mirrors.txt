@@ -126,6 +126,7 @@ https://mirror.netsite.dk/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.one.com/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://ftp.klid.dk/ftp/ubuntu/	arch:i386 arch:amd64
 https://mirrors.c0urier.net/linux/ubuntu/	arch:i386 arch:amd64
+http://mirror.espol.edu.ec/ubuntu/	arch:amd64 arch:i386
 http://mirror.cedia.org.ec/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 https://mirrors.xtom.ee/ubuntu/	arch:i386 arch:amd64
 http://mirrors.nic.funet.fi/ubuntu/	arch:i386 arch:amd64
@@ -204,7 +205,6 @@ http://mirror.as.kamatera.com/ubuntu/	arch:i386 arch:arm64 arch:amd64 arch:armhf
 http://repo.jztkft.hu/ubuntu/	arch:i386 arch:amd64
 https://mirror.niif.hu/ubuntu/	arch:i386 arch:amd64
 https://quantum-mirror.hu/mirrors/pub/ubuntu/	arch:i386 arch:amd64
-https://mirrors.sth.sze.hu/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.hysing.is/ubuntu/	arch:i386 arch:amd64
 https://is.mirror.flokinet.net/ubuntu/	arch:i386 arch:amd64
 https://mirrors.opensource.is/ubuntu/	arch:i386 arch:amd64
@@ -302,8 +302,9 @@ http://mirror.ps.kz/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.mirror.ac.ke/ubuntu/	arch:i386 arch:amd64
 http://ftp.kaist.ac.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://ftp.kaist.ac.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
+https://http.krfoss.org/ubuntu/	arch:i386 arch:amd64
 https://kr.mirror.tefexia.net/ubuntu/	arch:i386 arch:amd64
-https://mirror.eliv.digital/ubuntu/	arch:amd64 arch:i386
+https://mirror.eliv.digital/ubuntu/	arch:i386 arch:amd64
 https://mirror.techlabs.co.kr/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
@@ -316,7 +317,7 @@ https://ftp.lanet.kr/ubuntu/	arch:i386 arch:amd64
 https://ftp.lanet.kr/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirror.elice.io/ubuntu/	arch:i386 arch:amd64
 https://mirror.jeonnam.school/ubuntu/	arch:i386 arch:amd64
-https://mirror.zzunipark.com/ubuntu-ports/	arch:armhf arch:ppc64el arch:s390x arch:arm64
+https://mirror.zzunipark.com/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://mir.linux.kg/ubuntu/	arch:i386 arch:amd64
 http://mirror.veesp.com/ubuntu/	arch:i386 arch:amd64
