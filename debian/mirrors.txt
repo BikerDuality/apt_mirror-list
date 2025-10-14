@@ -19,7 +19,6 @@ http://ftp.hk.debian.org/debian/
 http://ftp.is.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.jp.debian.org/debian/
-http://ftp.kr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.nc.debian.org/debian/
@@ -66,6 +65,7 @@ http://debian-mirror.behostings.net/debian/
 http://ftp.belnet.be/debian/
 http://mirror.as35701.net/debian/
 http://mirror.unix-solutions.be/debian/
+http://debian.ipsys.bf/debian/
 http://ftp.br.debian.org/debian/
 http://debian.c3sl.ufpr.br/debian/
 http://debian.pop-sc.rnp.br/debian/
@@ -202,7 +202,6 @@ http://mirror.nitc.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
 http://mirror.unair.ac.id/debian/
-http://mr.heru.id/debian/
 http://archive.debian.petiak.ir/debian/
 http://mirror.iranserver.com/debian/
 http://mirrors.pardisco.co/debian/
@@ -226,8 +225,6 @@ http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
 http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
-http://ftp.kr.debian.org/debian/
-http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.siwoo.org/debian/
 http://mirror.yuki.net.uk/debian/
