@@ -47,7 +47,6 @@ http://mirror.gsl.icu/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
-http://mirrors.xtom.au/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
 http://debian.lagis.at/debian/
@@ -273,7 +272,6 @@ http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
 http://ftp.eq.uc.pt/software/Linux/debian/
 http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
-http://mirrors.ptisp.pt/debian/
 http://mirrors.up.pt/debian/
 http://mirrors.upr.edu/debian/
 http://debian.mithril.re/debian/
@@ -338,6 +336,7 @@ http://mirror.metanet.ch/debian/
 http://mirror.sinavps.ch/debian/
 http://pkg.adfinis-on-exoscale.ch/debian/
 http://ftp.tw.debian.org/debian/
+http://debian.ccns.ncku.edu.tw/debian/
 http://debian.csie.ntu.edu.tw/debian/
 http://debian.cs.nycu.edu.tw/debian/
 http://mirror.twds.com.tw/debian/
