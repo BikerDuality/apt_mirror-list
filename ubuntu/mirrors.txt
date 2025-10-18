@@ -128,7 +128,6 @@ https://mirror.netsite.dk/ubuntu/archive/	arch:i386 arch:amd64
 http://mirror.one.com/ubuntu/	arch:i386 arch:arm64 arch:riscv64 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://ftp.klid.dk/ftp/ubuntu/	arch:i386 arch:amd64
 https://mirrors.c0urier.net/linux/ubuntu/	arch:i386 arch:amd64
-http://mirror.espol.edu.ec/ubuntu/	arch:amd64 arch:i386
 http://mirror.cedia.org.ec/ubuntu/	arch:i386 arch:arm64 arch:riscv64 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 https://mirrors.xtom.ee/ubuntu/	arch:i386 arch:amd64
 http://mirrors.nic.funet.fi/ubuntu/	arch:i386 arch:amd64
@@ -231,7 +230,6 @@ https://cdn.ubuntu.repo.cloudeka.id/ubuntu/	arch:i386 arch:amd64
 https://cdn.ubuntu.repo.cloudeka.id/ubuntu/	arch:i386 arch:amd64
 https://linux.domainesia.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64
 https://mirror.amscloud.co.id/ubuntu/	arch:i386 arch:amd64
-https://mirror.faizuladib.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.nevacloud.com/ubuntu/ubuntu-archive/	arch:i386 arch:amd64 arch:arm64 arch:armhf arch:ppc64el arch:s390x
 https://mr.heru.id/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.avalicense.com/ubuntu/	arch:i386 arch:amd64
