@@ -57,7 +57,6 @@ http://debian-mirror.behostings.net/debian/
 http://ftp.belnet.be/debian/
 http://mirror.as35701.net/debian/
 http://mirror.unix-solutions.be/debian/
-http://debian.ipsys.bf/debian/
 http://ftp.br.debian.org/debian/
 http://debian.c3sl.ufpr.br/debian/
 http://debian.pop-sc.rnp.br/debian/
@@ -73,6 +72,7 @@ http://debian.mnet.bg/debian/
 http://debian.telecoms.bg/debian/
 http://ftp.uni-sofia.bg/debian/
 http://mirror.telepoint.bg/debian/
+http://debian.ipsys.bf/debian/
 http://ftp.ca.debian.org/debian/
 http://debian.linux.n0c.ca/debian/
 http://debian.mirror.globo.tech/debian/
@@ -183,6 +183,7 @@ http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.is.debian.org/debian/
+http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
 http://mirror.unair.ac.id/debian/
@@ -213,6 +214,7 @@ http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.siwoo.org/debian/
+http://mirror.yuki.net.uk/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
 http://mirror.veesp.com/debian/
@@ -225,6 +227,7 @@ http://mirror.a1.mk/debian/
 http://mirror-mk.interspace.com/debian/
 http://lidsol.fi-b.unam.mx/debian/
 http://mirror.marwan.ma/debian/
+http://mirrors.nepalicloud.com/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.ams.macarne.com/debian/
@@ -246,7 +249,6 @@ http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
 http://mirror.fsmg.org.nz/debian/
-http://mirrors.nepalicloud.com/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
 http://ftp.icm.edu.pl/pub/Linux/debian/
@@ -278,6 +280,7 @@ http://mirror.mephi.ru/debian/
 http://mirror.neftm.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
+http://repository.su/debian/
 http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
