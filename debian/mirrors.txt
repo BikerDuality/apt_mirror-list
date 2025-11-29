@@ -1,5 +1,6 @@
 http://ftp.au.debian.org/debian/
 http://ftp.at.debian.org/debian/
+http://ftp.by.debian.org/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.br.debian.org/debian/
 http://ftp.bg.debian.org/debian/
@@ -39,7 +40,6 @@ http://mirror.amaze.com.au/debian/
 http://mirror.gsl.icu/debian/
 http://mirror.linux.org.au/debian/
 http://mirror.overthewire.com.au/debian/
-http://mirror.realcompute.io/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
 http://debian.lagis.at/debian/
@@ -49,6 +49,8 @@ http://mirror.alwyzon.net/debian/
 http://mirror.ourhost.az/debian/
 http://mirror.limda.net/debian/
 http://mirror.xeonbd.com/debian/
+http://ftp.by.debian.org/debian/
+http://ftp.byfly.by/debian/
 http://mirror.datacenter.by/debian/
 http://ftp.be.debian.org/debian/
 http://debian-mirror.behostings.net/debian/
@@ -284,6 +286,7 @@ http://mirror.neftm.ru/debian/
 http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://repository.su/debian/
+http://mirror.maeen.sa/debian/
 http://mirror.pmf.kg.ac.rs/debian/
 http://mirror.coganng.com/debian/
 http://mirror.djvg.sg/debian/
@@ -292,6 +295,7 @@ http://deb.bbxnet.sk/debian/
 http://ftp.antik.sk/debian/
 http://ftp.debian.sk/debian/
 http://ftp.si.debian.org/debian/
+http://debian.envisagecloud.net.za/debian/
 http://ftp.is.co.za/debian/
 http://ftp.es.debian.org/debian/
 http://debian.grn.cat/debian/
