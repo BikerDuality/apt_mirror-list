@@ -33,6 +33,7 @@ http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
+http://mirror.abmanagement.al/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
 http://ftp.au.debian.org/debian/
@@ -219,7 +220,6 @@ http://ftp.lanet.kr/debian/
 http://mirror.keiminem.com/debian/
 http://mirror.pangkin.com/debian/
 http://mirror.siwoo.org/debian/
-http://mirror.yuki.net.uk/debian/
 http://debian.koyanet.lv/debian/
 http://mirror.cloudhosting.lv/debian/
 http://mirror.veesp.com/debian/
@@ -367,6 +367,7 @@ http://debian.uchicago.edu/debian/
 http://la.mirrors.clouvider.net/debian/
 http://lethe.chinstrap.org/debian/
 http://mirror.0x626b.com/debian/
+http://mirror.cogentco.com/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.bloomu.edu/debian/
