@@ -17,6 +17,7 @@ http://ftp.hk.debian.org/debian/
 http://ftp.is.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.jp.debian.org/debian/
+http://ftp.kr.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
@@ -74,6 +75,7 @@ http://ftp.uni-sofia.bg/debian/
 http://mirrors.netix.net/debian/
 http://mirror.telepoint.bg/debian/
 http://debian.ipsys.bf/debian/
+http://mirror.sabay.com.kh/debian/
 http://ftp.ca.debian.org/debian/
 http://debian.linux.n0c.ca/debian/
 http://debian.mirror.globo.tech/debian/
@@ -216,10 +218,13 @@ http://mirror.hoster.kz/debian/
 http://mirror.ps.kz/debian/
 http://debian.mirror.ac.ke/debian/
 http://debian.mirror.liquidtelecom.com/debian/
+http://ftp.kr.debian.org/debian/
+http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
 http://mirror.keiminem.com/debian/
 http://mirror.pangkin.com/debian/
 http://mirror.siwoo.org/debian/
+http://mirror.yuki.net.uk/debian/
 http://debian.koyanet.lv/debian/
 http://ftp.linux.edu.lv/debian/
 http://mirror.cloudhosting.lv/debian/
@@ -374,7 +379,6 @@ http://mirror.cogentco.com/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.bloomu.edu/debian/
-http://mirrors.bmcc.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.iu13.net/debian/
 http://mirrors.lug.mtu.edu/debian/
