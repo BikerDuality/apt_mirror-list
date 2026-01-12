@@ -1,4 +1,3 @@
-https://ubuntu.avalicense.com/ubuntu/	arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 https://mirror.sitsa.com.ar/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.zero.com.ar/ubuntu/	arch:i386 arch:amd64
@@ -192,6 +191,7 @@ http://ftp.hosteurope.de/mirror/archive.ubuntu.com/	arch:i386 arch:amd64
 http://mirror.funkfreundelandshut.de/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 http://ftp.tu-chemnitz.de/pub/linux/ubuntu/	arch:i386 arch:amd64
 http://ftp.cc.uoc.gr/mirrors/linux/ubuntu/packages/	arch:i386 arch:amd64
+http://ftp.ntua.gr/ubuntu/	arch:amd64 arch:i386
 http://ubuntu.otenet.gr/	arch:i386 arch:amd64
 http://mirror.greennet.gl/ubuntu/	arch:i386 arch:amd64
 https://mirror.01link.hk/ubuntu/	arch:i386 arch:amd64
@@ -234,7 +234,6 @@ https://mirror.unair.ac.id/ubuntu/	arch:i386 arch:amd64
 http://repo.ugm.ac.id/ubuntu/	arch:i386 arch:amd64
 https://repo.usk.ac.id/ubuntu/	arch:i386 arch:amd64
 http://suro.ubaya.ac.id/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
-https://mirror.kernel.ir/ubuntu/	arch:i386 arch:amd64
 http://mirror.aminidc.com/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 https://repo.linuxmirrors.ir/ubuntu/	arch:amd64
 https://archive-ubuntu.scopesky.com/	arch:amd64
@@ -261,6 +260,7 @@ https://linux.yz.yamagata-u.ac.jp/ubuntu/	arch:i386 arch:amd64
 https://linux.yz.yamagata-u.ac.jp/pub/linux/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.nishi.network/ubuntu/	arch:i386 arch:amd64
 https://mirror.nishi.network/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
+https://mirrors.krnk.org/ubuntu/	arch:i386 arch:amd64
 http://ftp.jaist.ac.jp/pub/Linux/ubuntu/	arch:i386 arch:amd64
 http://ftp.riken.jp/Linux/ubuntu/	arch:i386 arch:amd64
 http://ubuntutym.u-toyama.ac.jp/ubuntu/	arch:i386 arch:amd64
@@ -521,6 +521,7 @@ https://mirror.fcix.net/ubuntu/	arch:i386 arch:amd64
 https://mirror.hoobly.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.its.umich.edu/ubuntu/	arch:i386 arch:amd64
 https://mirror.linux.ncsu.edu/ubuntu/	arch:i386 arch:amd64
+https://mirror.lstn.net/ubuntu/	arch:i386 arch:amd64
 http://mirror.nodesdirect.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.servaxnet.com/ubuntu/	arch:i386 arch:amd64
 https://mirror.ubuntu.serverforge.org/	arch:i386 arch:amd64
