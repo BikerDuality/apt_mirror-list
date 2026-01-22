@@ -61,7 +61,6 @@ http://mirror.xeonbd.com/debian/
 http://mirror.datacenter.by/debian/
 http://ftp.be.debian.org/debian/
 http://debian-mirror.behostings.net/debian/
-http://ftp.belnet.be/debian/
 http://mirror.as35701.net/debian/
 http://mirror.unix-solutions.be/debian/
 http://ftp.br.debian.org/debian/
@@ -97,7 +96,6 @@ http://mirror.hnd.cl/debian/
 http://mirror.insacom.cl/debian/
 http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
-http://mirror.nju.edu.cn/debian/
 http://mirror.nyist.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.jlu.edu.cn/debian/
@@ -194,6 +192,7 @@ http://repo.jztkft.hu/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
 http://mirror.nitc.ac.in/debian/
+http://mirrors.iitd.ac.in/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://kebo.pens.ac.id/debian/
 http://mirror.unair.ac.id/debian/
@@ -274,6 +273,7 @@ http://debian.mithril.re/debian/
 http://depot-debian.univ-reunion.fr/debian/
 http://mirror.flo.c-f.ro/debian/
 http://mirror.linux.ro/debian/
+http://mirrors.datapark.ro/debian/
 http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
@@ -386,7 +386,6 @@ http://mirrors.ocf.berkeley.edu/debian/
 http://mirror.steadfast.net/debian/
 http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.wikimedia.org/debian/
-http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.mirhosting.net/debian/
 http://mirror.us.oneandone.net/debian/
