@@ -25,6 +25,7 @@ http://ftp.lt.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
+http://ftp.no.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
 http://ftp.ru.debian.org/debian/
@@ -253,6 +254,7 @@ http://mirrors.hostiserver.com/debian/
 http://mirrors.xtom.nl/debian/
 http://mirror.tngnet.com/debian/
 http://mirror.vpgrp.io/debian/
+http://nl.mirror.flokinet.net/debian/
 http://nl.mirrors.clouvider.net/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
@@ -260,6 +262,8 @@ http://mirror.lagoon.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://linux.purple-cat.net/debian/
 http://mirror.fsmg.org.nz/debian/
+http://ftp.no.debian.org/debian/
+http://ftp.uio.no/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
 http://ftp.icm.edu.pl/pub/Linux/debian/
@@ -393,5 +397,7 @@ http://mirror.us.oneandone.net/debian/
 http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
 http://debian.repo.cure.edu.uy/debian/
+http://mirror.undernet.uy/debian/
+http://repos.interior.edu.uy/debian/
 http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
