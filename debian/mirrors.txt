@@ -1,7 +1,6 @@
 http://ftp.am.debian.org/debian/
 http://ftp.au.debian.org/debian/
 http://ftp.at.debian.org/debian/
-http://ftp.by.debian.org/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.br.debian.org/debian/
 http://ftp.bg.debian.org/debian/
@@ -54,13 +53,10 @@ http://debian.anexia.at/debian/
 http://debian.lagis.at/debian/
 http://debian.mur.at/debian/
 http://debian.sil.at/debian/
-http://ftp.tu-graz.ac.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://mirror.ourhost.az/debian/
 http://mirror.limda.net/debian/
 http://mirror.xeonbd.com/debian/
-http://ftp.by.debian.org/debian/
-http://ftp.byfly.by/debian/
 http://ftp.be.debian.org/debian/
 http://debian-mirror.behostings.net/debian/
 http://mirror.as35701.net/debian/
@@ -134,7 +130,6 @@ http://mirror.5i.fi/debian/
 http://www.nic.funet.fi/debian/
 http://ftp.fr.debian.org/debian/
 http://apt.tetaneutral.net/debian/
-http://debian.apt-mirror.de/debian/
 http://debian.mirrors.ovh.net/debian/
 http://debian.obspm.fr/debian/
 http://debian.polytech-lille.fr/debian/
