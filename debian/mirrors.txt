@@ -29,6 +29,7 @@ http://ftp.sk.debian.org/debian/
 http://ftp.si.debian.org/debian/
 http://ftp.se.debian.org/debian/
 http://ftp.ch.debian.org/debian/
+http://ftp.tw.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://debian.unnoba.edu.ar/debian/
@@ -129,6 +130,7 @@ http://mirror.5i.fi/debian/
 http://www.nic.funet.fi/debian/
 http://apt.tetaneutral.net/debian/
 http://debian.mirrors.ovh.net/debian/
+http://debian.obspm.fr/debian/
 http://debian.polytech-lille.fr/debian/
 http://deb-mir1.naitways.net/debian/
 http://ftp.ec-m.fr/debian/
@@ -304,8 +306,10 @@ http://mirror.init7.net/debian/
 http://mirror.iway.ch/debian/
 http://mirror.sinavps.ch/debian/
 http://pkg.adfinis-on-exoscale.ch/debian/
+http://ftp.tw.debian.org/debian/
 http://debian.csie.ntu.edu.tw/debian/
 http://debian.cs.nycu.edu.tw/debian/
+http://mirror.twds.com.tw/debian/
 http://tw1.mirror.blendbyte.net/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
@@ -328,6 +332,7 @@ http://mirror.mythic-beasts.com/debian/
 http://mirror.ox.ac.uk/debian/
 http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
+http://mirrorservice.org/sites/ftp.debian.org/debian/
 http://mirror.vinehost.net/debian/
 http://uk.mirrors.clouvider.net/debian/
 http://ftp.us.debian.org/debian/
