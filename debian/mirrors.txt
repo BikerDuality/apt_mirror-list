@@ -50,7 +50,6 @@ http://mirrors.xtom.au/debian/
 http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
 http://debian.lagis.at/debian/
-http://debian.mur.at/debian/
 http://debian.sil.at/debian/
 http://mirror.alwyzon.net/debian/
 http://mirror.ourhost.az/debian/
@@ -130,6 +129,7 @@ http://mirror.5i.fi/debian/
 http://www.nic.funet.fi/debian/
 http://ftp.fr.debian.org/debian/
 http://apt.tetaneutral.net/debian/
+http://debian.apt-mirror.de/debian/
 http://debian.mirrors.ovh.net/debian/
 http://debian.obspm.fr/debian/
 http://debian.polytech-lille.fr/debian/
@@ -229,6 +229,7 @@ http://mirror.litnet.lt/debian/
 http://mirror.a1.mk/debian/
 http://mirror-mk.interspace.com/debian/
 http://debian.tuxuri.com/debian/
+http://debian.vranetworks.lat/debian/
 http://lidsol.fi-b.unam.mx/debian/
 http://mirror.marwan.ma/debian/
 http://ftp.nl.debian.org/debian/
@@ -353,7 +354,6 @@ http://debian.csail.mit.edu/debian/
 http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
-http://debpkg.libranext.com/debian/
 http://la.mirrors.clouvider.net/debian/
 http://lethe.chinstrap.org/debian/
 http://mirror.0x626b.com/debian/
