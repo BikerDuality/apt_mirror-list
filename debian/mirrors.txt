@@ -51,7 +51,6 @@ http://ftp.at.debian.org/debian/
 http://debian.anexia.at/debian/
 http://debian.lagis.at/debian/
 http://ftp.tugraz.at/mirror/debian/
-http://mirror.alwyzon.net/debian/
 http://mirror.ourhost.az/debian/
 http://mirror.limda.net/debian/
 http://mirror.xeonbd.com/debian/
@@ -62,6 +61,7 @@ http://mirror.as35701.net/debian/
 http://mirror.unix-solutions.be/debian/
 http://ftp.br.debian.org/debian/
 http://debian.c3sl.ufpr.br/debian/
+http://debian.pop-sc.rnp.br/debian/
 http://mirror.blue3.com.br/debian/
 http://mirrors.ic.unicamp.br/debian/
 http://mirror.uepg.br/debian/
@@ -274,6 +274,7 @@ http://mirrors.pidginhost.com/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
 http://ftp.psn.ru/debian/
+http://mirror.corbina.net/debian/
 http://mirror.docker.ru/debian/
 http://mirror.kpfu.ru/debian/
 http://mirror.mephi.ru/debian/
