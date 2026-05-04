@@ -94,13 +94,11 @@ http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
 http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.jlu.edu.cn/debian/
-http://mirror.sjtu.edu.cn/debian/
 http://mirrors.qlu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
 http://mirrors.zju.edu.cn/debian/
 http://debianmirror.una.ac.cr/debian/
-http://mirrors.ucr.ac.cr/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
 http://debian.iskon.hr/debian/
@@ -213,8 +211,6 @@ http://debian.mirror.liquidtelecom.com/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.kaist.ac.kr/debian/
 http://ftp.lanet.kr/debian/
-http://mirror.pangkin.com/debian/
-http://mirror.siwoo.org/debian/
 http://mirror.yuki.net.uk/debian/
 http://debian.koyanet.lv/debian/
 http://ftp.linux.edu.lv/debian/
@@ -270,7 +266,6 @@ http://mirror.linux.ro/debian/
 http://mirrors.datapark.ro/debian/
 http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
-http://mirrors.nxthost.com/debian/
 http://mirrors.pidginhost.com/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
@@ -293,9 +288,9 @@ http://debian.saix.net/
 http://debian.grn.cat/debian/
 http://debian.redimadrid.es/debian/
 http://debian.redparra.com/debian/
-http://debian.uvigo.es/debian/
 http://ftp.cica.es/debian/
 http://mirror.raiolanetworks.com/debian/
+http://softlibre.unizar.es/debian/
 http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
 http://debian.mirror.su.se/debian/
@@ -326,8 +321,8 @@ http://mirrors.cloudforest.co.th/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://distrohub.kyiv.ua/debian/
+http://mirror.hostiko.network/debian/
 http://mirror.mirohost.net/debian/
-http://mirror.ukrnames.com/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirrors.uk2.net/debian/
 http://debian.mirror.uk.sargasso.net/debian/
