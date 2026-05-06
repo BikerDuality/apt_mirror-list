@@ -152,7 +152,6 @@ http://debian.mirror.lrz.de/debian/
 http://debian.netcologne.de/debian/
 http://debian.tu-bs.de/debian/
 http://debian.uni-due.de/debian/
-http://de.mirrors.clouvider.net/debian/
 http://ftp.fau.de/debian/
 http://ftp.gwdg.de/debian/
 http://ftp.halifax.rwth-aachen.de/debian/
@@ -240,7 +239,6 @@ http://mirrors.xtom.nl/debian/
 http://mirror.tngnet.com/debian/
 http://mirror.vpgrp.io/debian/
 http://nl.mirror.flokinet.net/debian/
-http://nl.mirrors.clouvider.net/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
@@ -252,7 +250,6 @@ http://ftp.uio.no/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
 http://ftp.icm.edu.pl/pub/Linux/debian/
-http://ftp.psnc.pl/debian/
 http://ftp.task.gda.pl/debian/
 http://ftp.pt.debian.org/debian/
 http://debian.uevora.pt/debian/
@@ -266,6 +263,7 @@ http://mirror.linux.ro/debian/
 http://mirrors.datapark.ro/debian/
 http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
+http://mirrors.nav.ro/debian/
 http://mirrors.pidginhost.com/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
@@ -317,7 +315,6 @@ http://tw1.mirror.blendbyte.net/debian/
 http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
-http://mirrors.cloudforest.co.th/debian/
 http://debian.netforce.hosting/debian/
 http://debian.volia.net/debian/
 http://distrohub.kyiv.ua/debian/
@@ -336,9 +333,7 @@ http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
 http://mirror.vinehost.net/debian/
-http://uk.mirrors.clouvider.net/debian/
 http://ftp.us.debian.org/debian/
-http://atl.mirrors.clouvider.net/debian/
 http://debian-archive.trafficmanager.net/debian/
 http://debian.cc.lehigh.edu/debian/
 http://debian.csail.mit.edu/debian/
@@ -346,12 +341,10 @@ http://debian.mirror.constant.com/debian/
 http://debian.osuosl.org/debian/
 http://debian.uchicago.edu/debian/
 http://debpkg.libranext.com/debian/
-http://la.mirrors.clouvider.net/debian/
 http://lethe.chinstrap.org/debian/
 http://mirror.0x626b.com/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.keystealth.org/debian/
-http://mirror.rustytel.net/debian/
 http://mirrors.accretive-networks.net/debian/
 http://mirrors.bloomu.edu/debian/
 http://mirrors.egr.msu.edu/debian/
@@ -365,7 +358,7 @@ http://mirrors.xtom.com/debian/
 http://mirror.us.leaseweb.net/debian/
 http://mirror.us.mirhosting.net/debian/
 http://mirror.us.oneandone.net/debian/
-http://nyc.mirrors.clouvider.net/debian/
+http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
 http://debian.repo.cure.edu.uy/debian/
 http://mirror.undernet.uy/debian/
