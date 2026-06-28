@@ -104,6 +104,7 @@ http://debianmirror.una.ac.cr/debian/
 http://mirrors.ucr.ac.cr/debian/
 http://ftp.hr.debian.org/debian/
 http://debian.carnet.hr/debian/
+http://debian.iskon.hr/debian/
 http://ftp.cz.debian.org/debian/
 http://debian.mirror.web4u.cz/
 http://debian.nic.cz/debian/
@@ -225,7 +226,6 @@ http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
 http://debian.tuxuri.com/debian/
 http://debian.vranetworks.lat/debian/
-http://lidsol.fi-b.unam.mx/debian/
 http://ftp.md.debian.org/debian/
 http://mirror.as43289.net/debian/
 http://ftp.nl.debian.org/debian/
@@ -287,7 +287,6 @@ http://debian.envisagecloud.net.za/debian/
 http://debian.saix.net/
 http://debian.grn.cat/debian/
 http://debian.redimadrid.es/debian/
-http://ftp.caliu.cat/debian/
 http://ftp.cica.es/debian/
 http://mirror.raiolanetworks.com/debian/
 http://repo.ifca.es/debian/
@@ -333,7 +332,6 @@ http://mirror.cov.ukservers.com/debian/
 http://mirror.lchost.net/debian/
 http://mirror.mythic-beasts.com/debian/
 http://mirror.ox.ac.uk/debian/
-http://mirror.positive-internet.com/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
 http://ukdebian.mirror.anlx.net/debian/
@@ -349,8 +347,6 @@ http://mirror.0x626b.com/debian/
 http://mirror.cogentco.com/debian/
 http://mirror.keystealth.org/debian/
 http://mirrors.accretive-networks.net/debian/
-http://mirrors.bloomu.edu/debian/
-http://mirrors.egr.msu.edu/debian/
 http://mirror.siena.edu/debian/
 http://mirrors.lug.mtu.edu/debian/
 http://mirror.steadfast.net/debian/
@@ -365,4 +361,5 @@ http://plug-mirror.rcac.purdue.edu/debian/
 http://repo.ialab.dsu.edu/debian/
 http://debian.repo.cure.edu.uy/debian/
 http://mirror.undernet.uy/debian/
+http://debian.xtdv.net/debian/
 http://mirror.bizflycloud.vn/debian/
