@@ -29,6 +29,7 @@ http://ftp.ru.debian.org/debian/
 http://ftp.sk.debian.org/debian/
 http://ftp.ch.debian.org/debian/
 http://ftp.tw.debian.org/debian/
+http://ftp.tr.debian.org/debian/
 http://ftp.uk.debian.org/debian/
 http://ftp.us.debian.org/debian/
 http://debian.unnoba.edu.ar/debian/
@@ -262,7 +263,6 @@ http://mirror.linux.ro/debian/
 http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
-http://mirrors.nxthost.com/debian/
 http://mirrors.pidginhost.com/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.ru.debian.org/debian/
@@ -272,6 +272,7 @@ http://mirror.docker.ru/debian/
 http://mirror.kpfu.ru/debian/
 http://mirror.mephi.ru/debian/
 http://mirror.neftm.ru/debian/
+http://mirrors.powernet.com.ru/debian/
 http://mirror.truenetwork.ru/debian/
 http://mirror.maeen.sa/debian/
 http://mirror.pmf.kg.ac.rs/debian/
@@ -317,6 +318,8 @@ http://ftp.debianclub.org/debian/
 http://mirror.applebred.net/debian/
 http://mirror.kku.ac.th/debian/
 http://mirrors.cloudforest.co.th/debian/
+http://ftp.tr.debian.org/debian/
+http://ftp.linux.org.tr/debian/
 http://debian.volia.net/debian/
 http://distrohub.kyiv.ua/debian/
 http://mirror.mirohost.net/debian/
