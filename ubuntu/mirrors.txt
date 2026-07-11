@@ -61,7 +61,6 @@ http://mirror.bg.host.ag/ubuntu/	arch:amd64
 https://mirror.sabay.com.kh/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.arcuslayer.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.layeronline.com/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
-http://ubuntu.linux.n0c.ca/ubuntuarchive/	arch:arm64 arch:i386 arch:amd64
 https://mirror.csclub.uwaterloo.ca/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.it.ubc.ca/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.reenigne.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -258,14 +257,14 @@ https://it2.mirror.vhosting-it.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://giano.com.dist.unige.it/ubuntu/	arch:i386 arch:amd64
 https://ftp.udx.icscoe.jp/Linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.hashy0917.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
-https://mirror.hashy0917.net/ubuntu-ports/	arch:arm64 arch:armhf arch:ppc64el arch:s390x
+https://mirror.hashy0917.net/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.limda.net/ubuntu-archive/	arch:arm64 arch:i386 arch:amd64
 http://archive.g4t1.pro/ubuntu/	arch:i386 arch:amd64
 http://ftp.tsukuba.wide.ad.jp/Linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://linux.yz.yamagata-u.ac.jp/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://linux.yz.yamagata-u.ac.jp/pub/linux/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.nishi.network/ubuntu/	arch:arm64 arch:i386 arch:amd64
-https://mirror.nishi.network/ubuntu-ports/	arch:arm64 arch:riscv64 arch:armhf arch:ppc64el arch:s390x
+https://mirror.nishi.network/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirrors.krnk.org/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.jaist.ac.jp/pub/Linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.riken.jp/Linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -416,6 +415,7 @@ http://mirror.raiolanetworks.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.udc.es/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 https://labs.eif.urjc.es/mirror/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ubuntu.cica.es/ubuntu/	arch:arm64 arch:i386 arch:amd64
+http://ftp.caliu.cat/pub/distribucions/ubuntu/archive/	arch:arm64 arch:i386 arch:amd64
 https://ftp.csuc.cat/ubuntu/archive/	arch:arm64 arch:i386 arch:amd64
 http://softlibre.unizar.es/ubuntu/archive/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 https://ubuntu.uvigo.es/	arch:arm64 arch:i386 arch:amd64
