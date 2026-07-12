@@ -206,6 +206,7 @@ https://mirrors.opensource.is/ubuntu/	arch:amd64
 https://ubuntu.joy.services/os/linux/ubuntu/	arch:amd64 arch:arm64 arch:i386
 http://mirrors.piconets.webwerks.in/ubuntu-mirror/ubuntu/	arch:i386 arch:amd64
 http://repos.del.extreme-ix.org/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
+https://mirror.bharatdatacenter.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.cse.iitk.ac.in/ubuntu/	arch:i386 arch:amd64
 https://mirror.nitc.ac.in/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.nxtgen.com/ubuntu-mirror/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -306,7 +307,6 @@ http://ubuntu.mirror.root.lu/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i38
 http://mirror-mk.interspace.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.a1.mk/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.t-home.mk/ubuntu/	arch:arm64 arch:i386 arch:amd64
-http://ubuntu.dts.mg/ubuntu/	arch:amd64 arch:i386
 https://mirrors.gbnetwork.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.ipserverone.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://ubuntu.mirror.thegigabit.com/	arch:arm64 arch:i386 arch:amd64
@@ -358,9 +358,9 @@ http://ubuntu.uib.no/archive/	arch:arm64 arch:i386 arch:amd64
 http://mirror.rise.ph/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.icm.edu.pl/pub/Linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://ftp.psnc.pl/linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
+http://ubuntu.man.lodz.pl/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ubuntu.task.gda.pl/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.agh.edu.pl/ubuntu/	arch:arm64 arch:i386 arch:amd64
-http://ubuntu.man.lodz.pl/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.ptisp.pt/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.up.pt/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://cesium.di.uminho.pt/pub/ubuntu-archive/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
@@ -516,7 +516,6 @@ https://mirror.fcix.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.hoobly.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.its.umich.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.liberty-connect.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
-https://mirror.linux.ncsu.edu/ubuntu/	arch:i386 arch:amd64
 https://mirror.lstn.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.n5tech.com/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 http://mirror.nodesdirect.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
