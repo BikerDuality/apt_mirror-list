@@ -23,7 +23,6 @@ http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
-http://ftp.no.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
 http://ftp.ru.debian.org/debian/
@@ -145,6 +144,7 @@ http://mirror.debian.ikoula.com/debian/
 http://mirror.gitoyen.net/debian/
 http://mirror.johnnybegood.fr/debian/
 http://mirror.plusserver.com/debian/debian/
+http://debian.grena.ge/debian/
 http://ftp2.de.debian.org/debian/
 http://ftp.de.debian.org/debian/
 http://debian.charite.de/debian/
@@ -188,6 +188,7 @@ http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
 http://repo.jztkft.hu/debian/
 http://ftp.is.debian.org/debian/
+http://is.mirror.flokinet.net/debian/
 http://kartolo.sby.datautama.net.id/debian/
 http://mirror.unair.ac.id/debian/
 http://mr.heru.id/debian/
@@ -247,8 +248,6 @@ http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
 http://ftp.nz.debian.org/debian/
 http://mirror.fsmg.org.nz/debian/
-http://ftp.no.debian.org/debian/
-http://ftp.uio.no/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
 http://ftp.icm.edu.pl/pub/Linux/debian/
@@ -329,6 +328,7 @@ http://debian.volia.net/debian/
 http://distrohub.kyiv.ua/debian/
 http://mirror.mirohost.net/debian/
 http://ftp.uk.debian.org/debian/
+http://debian.mirror.uk.sargasso.net/debian/
 http://free.hands.com/debian/
 http://ftp.ticklers.org/debian/
 http://mirror.cov.ukservers.com/debian/
@@ -337,6 +337,7 @@ http://mirror.mythic-beasts.com/debian/
 http://mirror.ox.ac.uk/debian/
 http://mirrors.coreix.net/debian/
 http://mirrorservice.org/sites/ftp.debian.org/debian/
+http://mirror.vinehost.net/debian/
 http://ukdebian.mirror.anlx.net/debian/
 http://ftp.us.debian.org/debian/
 http://atl.mirrors.clouvider.net/debian/
@@ -359,7 +360,6 @@ http://mirrors.vcea.wsu.edu/debian/
 http://mirrors.xtom.com/debian/
 http://mirror.tzulo.com/debian/
 http://mirror.us.leaseweb.net/debian/
-http://mirror.us.mirhosting.net/debian/
 http://mirror.us.oneandone.net/debian/
 http://nyc.mirrors.clouvider.net/debian/
 http://repo.ialab.dsu.edu/debian/
