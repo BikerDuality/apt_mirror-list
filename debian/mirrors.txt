@@ -91,6 +91,7 @@ http://ftp.cn.debian.org/debian/
 http://mirror.lzu.edu.cn/debian/
 http://mirror.nju.edu.cn/debian/
 http://mirror.nyist.edu.cn/debian/
+http://mirrors.bfsu.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.jlu.edu.cn/debian/
 http://mirrors.qlu.edu.cn/debian/
@@ -220,8 +221,6 @@ http://debian.balt.net/debian/
 http://debian.mirror.vu.lt/debian/
 http://mirror.litnet.lt/debian/
 http://mirror.vpsnet.com/debian/
-http://mirror.a1.mk/debian/
-http://mirror-mk.interspace.com/debian/
 http://debian.tuxuri.com/debian/
 http://lidsol.fi-b.unam.mx/debian/
 http://ftp.md.debian.org/debian/
@@ -259,6 +258,7 @@ http://mirrors.up.pt/debian/
 http://mirrors.upr.edu/debian/
 http://debian.mithril.re/debian/
 http://mirror.flo.c-f.ro/debian/
+http://mirror.linux.ro/debian/
 http://mirrors.datapark.ro/debian/
 http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
@@ -267,7 +267,6 @@ http://mirrors.pidginhost.com/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.psn.ru/debian/
 http://mirror.corbina.net/debian/
-http://mirror.docker.ru/debian/
 http://mirror.kpfu.ru/debian/
 http://mirror.neftm.ru/debian/
 http://mirrors.powernet.com.ru/debian/
