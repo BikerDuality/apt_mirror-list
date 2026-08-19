@@ -16,7 +16,7 @@ http://ftp.iinet.net.au/pub/ubuntu/	arch:i386 arch:amd64
 http://mirror.internode.on.net/pub/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://mirror.netspace.net.au/pub/ubuntu/	arch:i386 arch:amd64
 http://mirror.overthewire.com.au/ubuntu/	arch:i386 arch:amd64
-http://mirror.solnode.io/ubuntu/releases/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
+http://mirror.solnode.io/ubuntu/releases/	arch:i386
 https://mirror.alwyzon.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.easyname.at/ubuntu-archive/	arch:arm64 arch:i386 arch:amd64
 https://ubuntu.anexia.at/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -220,6 +220,8 @@ https://mirror.nevacloud.com/ubuntu/ubuntu-archive/	arch:arm64 arch:riscv64 arch
 https://mr.heru.id/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.jagoanhosting.id/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://kartolo.sby.datautama.net.id/ubuntu/	arch:arm64 arch:i386 arch:amd64
+http://kebo.pens.ac.id/ubuntu/	arch:arm64 arch:i386 arch:amd64
+http://kebo.vlsm.org/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror-gw.elastis.id/ubuntu/	arch:amd64
 http://mirror.biznetgio.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.citrahost.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -262,7 +264,7 @@ https://it2.mirror.vhosting-it.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://giano.com.dist.unige.it/ubuntu/	arch:i386 arch:amd64
 https://ftp.udx.icscoe.jp/Linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.hashy0917.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
-https://mirror.hashy0917.net/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
+https://mirror.hashy0917.net/ubuntu-ports/	arch:arm64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.limda.net/ubuntu-archive/	arch:arm64 arch:i386 arch:amd64
 http://ftp.tsukuba.wide.ad.jp/Linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://linux.yz.yamagata-u.ac.jp/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -370,7 +372,7 @@ http://mirrors.up.pt/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://cesium.di.uminho.pt/pub/ubuntu-archive/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://ftp.dei.uc.pt/pub/linux/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
-http://ftp.dei.uc.pt/pub/linux/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
+http://ftp.dei.uc.pt/pub/linux/ubuntu/	arch:i386 arch:arm64 arch:riscv64 arch:amd64 arch:armhf arch:ppc64el arch:s390x
 http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/	arch:arm64 arch:i386 arch:amd64
 http://glua.ua.pt/pub/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.webhs.pt/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -435,6 +437,7 @@ https://mirror.init7.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.gofoss.xyz/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.gofoss.xyz/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.solnet.ch/ubuntu/	arch:arm64 arch:i386 arch:amd64
+https://mirror.velden.media/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://pkg.adfinis-on-exoscale.ch/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://ubuntu.ethz.ch/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://pkg.adfinis.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -563,7 +566,7 @@ http://mirrors.lug.mtu.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.maine.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.mit.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.ocf.berkeley.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
-https://mirrors.ocf.berkeley.edu/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
+https://mirrors.ocf.berkeley.edu/ubuntu-ports/	arch:s390x arch:armhf arch:ppc64el arch:arm64
 https://mirrors.sarak.as/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.sonic.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.vcea.wsu.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
