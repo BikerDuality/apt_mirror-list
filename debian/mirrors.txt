@@ -34,7 +34,6 @@ http://ftp.us.debian.org/debian/
 http://debian.unnoba.edu.ar/debian/
 http://mirror.sitsa.com.ar/debian/
 http://ftp.au.debian.org/debian/
-http://debian.mirror.digitalpacific.com.au/debian/
 http://debian.mirror.serversaustralia.com.au/debian/
 http://mirror.aarnet.edu.au/debian/
 http://mirror.amaze.com.au/debian/
@@ -93,6 +92,7 @@ http://mirror.nju.edu.cn/debian/
 http://mirror.nyist.edu.cn/debian/
 http://mirrors.hit.edu.cn/debian/
 http://mirrors.jlu.edu.cn/debian/
+http://mirror.sjtu.edu.cn/debian/
 http://mirrors.qlu.edu.cn/debian/
 http://mirrors.tuna.tsinghua.edu.cn/debian/
 http://mirrors.ustc.edu.cn/debian/
@@ -263,7 +263,6 @@ http://mirrors.datapark.ro/debian/
 http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
-http://mirrors.nxthost.com/debian/
 http://mirrors.pidginhost.com/debian/
 http://ro.mirror.flokinet.net/debian/
 http://ftp.psn.ru/debian/
