@@ -24,6 +24,7 @@ http://ftp.lt.debian.org/debian/
 http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.nc.debian.org/debian/
+http://ftp.no.debian.org/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.pt.debian.org/debian/
 http://ftp.sk.debian.org/debian/
@@ -247,6 +248,8 @@ http://nl.mirror.flokinet.net/debian/
 http://ftp.nc.debian.org/debian/
 http://debian.nautile.nc/debian/
 http://mirror.lagoon.nc/debian/
+http://ftp.no.debian.org/debian/
+http://ftp.uio.no/debian/
 http://ftp.pl.debian.org/debian/
 http://ftp.agh.edu.pl/debian/
 http://ftp.icm.edu.pl/pub/Linux/debian/
@@ -271,6 +274,7 @@ http://ro.mirror.flokinet.net/debian/
 http://ftp.psn.ru/debian/
 http://mirror.corbina.net/debian/
 http://mirror.neftm.ru/debian/
+http://repository.su/debian/
 http://mirror.maeen.sa/debian/
 http://mirror.djvg.sg/debian/
 http://mirror.sg.gs/debian/
@@ -294,7 +298,6 @@ http://ftp.se.debian.org/debian/
 http://debian.lth.se/debian/
 http://debian.mirror.su.se/debian/
 http://ftp.acc.umu.se/debian/
-http://ftp.ludd.ltu.se/debian/
 http://ftpmirror1.infania.net/debian/
 http://mirror.braindrainlan.nu/debian/
 http://mirrors.glesys.net/debian/
