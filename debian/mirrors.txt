@@ -1,5 +1,4 @@
 http://ftp.au.debian.org/debian/
-http://ftp.at.debian.org/debian/
 http://ftp.by.debian.org/debian/
 http://ftp.be.debian.org/debian/
 http://ftp.br.debian.org/debian/
@@ -43,10 +42,7 @@ http://mirror.linux.org.au/debian/
 http://mirror.overthewire.com.au/debian/
 http://mirror.realcompute.io/debian/
 http://mirrors.xtom.au/debian/
-http://ftp.at.debian.org/debian/
-http://debian.anexia.at/debian/
 http://debian.lagis.at/debian/
-http://ftp.tugraz.at/mirror/debian/
 http://mirror.alwyzon.net/debian/
 http://mirror.ourhost.az/debian/
 http://mirror.limda.net/debian/
@@ -184,7 +180,6 @@ http://debian.otenet.gr/debian/
 http://ftp.hk.debian.org/debian/
 http://mirror.xtom.com.hk/debian/
 http://ftp.bme.hu/debian/
-http://repo.jztkft.hu/debian/
 http://ftp.is.debian.org/debian/
 http://is.mirror.flokinet.net/debian/
 http://kartolo.sby.datautama.net.id/debian/
@@ -227,7 +222,6 @@ http://mirror.marwan.ma/debian/
 http://ftp.nl.debian.org/debian/
 http://debian.snt.utwente.nl/debian/
 http://mirror.bgp.rodeo/debian/
-http://mirror.duocast.net/debian/
 http://mirror.nforce.com/debian/
 http://mirror.nl.cdn-perfprod.com/debian/
 http://mirror.nl.leaseweb.net/debian/
@@ -257,7 +251,6 @@ http://depot-debian.univ-reunion.fr/debian/
 http://mirror.flo.c-f.ro/debian/
 http://mirror.linux.ro/debian/
 http://mirrors.datapark.ro/debian/
-http://mirrors.hosterion.ro/debian/
 http://mirrors.hostico.ro/debian/
 http://mirrors.nav.ro/debian/
 http://mirrors.pidginhost.com/debian/
