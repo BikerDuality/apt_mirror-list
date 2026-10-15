@@ -257,7 +257,6 @@ http://mirror.il-rh.kamatera.com/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch
 http://mirror.il-ta.kamatera.com/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 http://mirror.il.kamatera.com/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 http://rep-ubuntu-il.upress.io/ubuntu/	arch:i386 arch:amd64
-http://mirror.isoc.org.il/pub/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ubuntu.mirror.gnc.am/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://it1.mirror.vhosting-it.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://it2.mirror.vhosting-it.com/ubuntu/	arch:amd64
@@ -290,7 +289,7 @@ https://mirror.krfoss.org/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.techlabs.co.kr/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.krfoss.org/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
-https://mirror.yuki.net.uk/ubuntu/	arch:arm64 arch:i386 arch:amd64
+https://mirror.yuki.net.uk/ubuntu/	arch:i386 arch:amd64
 https://mirror.yuki.net.uk/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.kakao.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.zzunipark.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -314,7 +313,7 @@ http://mirror-mk.interspace.com/ubuntu/	arch:i386 arch:amd64
 http://mirror.a1.mk/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.t-home.mk/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.gbnetwork.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
-https://mirrors.ipserverone.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
+https://mirrors.ipserverone.com/ubuntu/	arch:i386 arch:amd64
 https://ubuntu.mirror.thegigabit.com/	arch:arm64 arch:i386 arch:amd64
 https://ubuntu.tuxuri.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.as43289.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -399,10 +398,9 @@ http://mirrors.powernet.com.ru/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.logol.ru/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.dc.clear.net.ar/ubuntu/	arch:i386 arch:amd64
 http://mirror1.sox.rs/ubuntu/ubuntu/	arch:arm64 arch:i386 arch:amd64
-https://mirror1.sox.rs/ubuntu/ubuntu/	arch:arm64 arch:i386 arch:amd64
+https://mirror1.sox.rs/ubuntu/ubuntu/	arch:i386 arch:amd64
 http://ossmirror.mycloud.services/os/linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.sg.gs/ubuntu/	arch:arm64 arch:i386 arch:amd64
-http://mirror.0x.sg/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 https://mirror.freedif.org/ubuntu/	arch:amd64 arch:i386
 http://mirror.soonkeat.sg/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 http://mirror.aktkn.sg/ubuntu/	arch:amd64 arch:i386
@@ -421,7 +419,6 @@ http://mirror.raiolanetworks.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.udc.es/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:ppc64el arch:amd64 arch:armhf
 https://labs.eif.urjc.es/mirror/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ubuntu.cica.es/ubuntu/	arch:arm64 arch:i386 arch:amd64
-http://ftp.caliu.cat/pub/distribucions/ubuntu/archive/	arch:arm64 arch:i386 arch:amd64
 https://ftp.csuc.cat/ubuntu/archive/	arch:arm64 arch:i386 arch:amd64
 http://softlibre.unizar.es/ubuntu/archive/	arch:i386 arch:arm64 arch:amd64
 https://ubuntu.uvigo.es/	arch:arm64 arch:i386 arch:amd64
@@ -572,6 +569,7 @@ http://mirrors.ocf.berkeley.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirrors.ocf.berkeley.edu/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirrors.sarak.as/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.sonic.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
+https://mirrors.vcea.wsu.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirrors.xmission.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://pubmirrors.dal.corespace.com/ubuntu/	arch:i386 arch:amd64
 http://ubuntu.mirror.frontiernet.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
