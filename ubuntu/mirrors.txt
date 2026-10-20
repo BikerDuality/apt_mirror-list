@@ -164,7 +164,7 @@ http://mirror.ipb.de/ubuntu/	arch:arm64 arch:riscv64 arch:s390x arch:i386 arch:p
 http://mirror.wtnet.de/ubuntu/	arch:i386 arch:arm64 arch:amd64
 https://mirrors.xtom.de/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ubuntu.mirror.tudos.de/ubuntu/	arch:arm64 arch:i386 arch:amd64
-http://ftp.fau.de/ubuntu/	arch:arm64 arch:i386 arch:amd64
+http://ftp.fau.de/ubuntu/	arch:i386 arch:amd64
 https://drmirror.physi.uni-heidelberg.de/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp-stud.hs-esslingen.de/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.uni-kl.de/pub/linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -355,7 +355,7 @@ https://mirror.fsmg.org.nz/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.2degrees.nz/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://ubuntu.btit.nz/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://no.mirrors.blix.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
-http://no.archive.ubuntu.com/ubuntu/	arch:amd64 arch:i386
+http://no.archive.ubuntu.com/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://ubuntu.hi.no/archive/	arch:arm64 arch:i386 arch:amd64
 http://ftp.uninett.no/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ubuntu.uib.no/archive/	arch:arm64 arch:i386 arch:amd64
@@ -431,7 +431,6 @@ https://mirror.improve.nordlo.cloud/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://ftpmirror1.infania.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.infomaniak.ch/ubuntu/	arch:i386 arch:amd64
 https://mirror.init7.net/ubuntu/	arch:arm64 arch:i386 arch:amd64
-http://archive.ubuntu.csg.uzh.ch/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.gofoss.xyz/ubuntu/	arch:i386 arch:amd64
 https://mirror.gofoss.xyz/ubuntu-ports/	arch:arm64 arch:riscv64 arch:s390x arch:ppc64el arch:armhf
 https://mirror.solnet.ch/ubuntu/	arch:arm64 arch:i386 arch:amd64
@@ -541,6 +540,7 @@ https://repo.ialab.dsu.edu/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ubuntu.osuosl.org/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://ftp.usf.edu/pub/ubuntu/	arch:i386 arch:amd64
 http://mirror.cc.vt.edu/pub2/ubuntu/	arch:arm64 arch:i386 arch:amd64
+https://mirror.clarkson.edu/ubuntu/	arch:i386 arch:amd64 arch:arm64
 http://mirror.cogentco.com/pub/linux/ubuntu/	arch:arm64 arch:i386 arch:amd64
 http://mirror.cs.jmu.edu/pub/ubuntu/	arch:arm64 arch:i386 arch:amd64
 https://mirror.dal.nexril.net/ubuntu/	arch:i386 arch:amd64
