@@ -19,7 +19,6 @@ http://ftp.is.debian.org/debian/
 http://ftp.it.debian.org/debian/
 http://ftp.kr.debian.org/debian/
 http://ftp.lt.debian.org/debian/
-http://ftp.md.debian.org/debian/
 http://ftp.nl.debian.org/debian/
 http://ftp.nc.debian.org/debian/
 http://ftp.nz.debian.org/debian/
@@ -226,8 +225,6 @@ http://mirror.vpsnet.com/debian/
 http://mirror-mk.interspace.com/debian/
 http://debian.tuxuri.com/debian/
 http://lidsol.fi-b.unam.mx/debian/
-http://ftp.md.debian.org/debian/
-http://mirror.as43289.net/debian/
 http://mirror.ihost.md/debian/
 http://mirror.marwan.ma/debian/
 http://ftp.nl.debian.org/debian/
@@ -335,6 +332,7 @@ http://ftp.linux.org.tr/debian/
 http://mirror.alastyr.com/debian/
 http://debian.volia.net/debian/
 http://mirror.mirohost.net/debian/
+http://mirror.ukrnames.com/debian/
 http://ftp.uk.debian.org/debian/
 http://debian.mirror.uk.sargasso.net/debian/
 http://free.hands.com/debian/
